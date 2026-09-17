@@ -19,7 +19,7 @@ authors:
 version: 1.0.0
 date-released: 2026-09-17
 license: MIT
-repository-code: "https://github.com/<YOUR_USERNAME>/<REPO_NAME>"
+repository-code: "https://github.com/xuyinxu0071/natriuretic-peptide-pathway-t2d-2026"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.XXXXXX"   # TODO: fill after Zenodo Publish
