@@ -1,0 +1,34 @@
+status: ('OK', {'_NOTES_1': 'Check uptime and maintenance information at https://status.opengwas.io', '_NOTES_2': 'Throttling: Please note this endpoint (/api/status) is also subject to throttling (but separa
+GET /tophits/ebi-a-GCST006061/ -> HTTP 404: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the
+GET /tophits/ebi-a-GCST006061?clump=1 -> HTTP 404: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the
+GET /clumps/ebi-a-GCST006061 -> HTTP 404: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the
+POST /tophits -> OK: [{'id': 'ebi-a-GCST006061', 'trait': 'Atrial fibrillation', 'chr': '4', 'position': 111696651, 'rsid': 'rs6847935', 'ea': 'T', 'nea': 'A', 'eaf': None, 'beta': 0.4029, 'se': 0.0082, 'p': 0, 'n': 53740
+POST /tophits -> OK: [{'id': 'ebi-a-GCST006061', 'trait': 'Atrial fibrillation', 'chr': '4', 'position': 111696651, 'rsid': 'rs6847935', 'ea': 'T', 'nea': 'A', 'eaf': None, 'beta': 0.4029, 'se': 0.0082, 'p': 0, 'n': 53740
+GET /association/ebi-a-GCST006061 -> HTTP 404: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the
+POST /clump -> HTTP 404: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the
+GET /docs -> ERR: Expecting value: line 1 column 1 (char 0)
+GET /openapi.json -> HTTP 404: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the

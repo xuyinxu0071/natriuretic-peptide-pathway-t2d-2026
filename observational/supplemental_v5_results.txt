@@ -1,0 +1,94 @@
+专家驱动补充分析 v5 结果
+========================
+
+{
+  "E_value": {
+    "HRS_death": 2.6,
+    "HRS_death_CIlo": 1.69,
+    "HRS_CVD": 3.24,
+    "CHARLS_CVD": 1.87
+  },
+  "缩减协变量敏感性": {
+    "full_HR": 1.606,
+    "core_HR": 1.947,
+    "core_CI": [
+      1.413,
+      2.682
+    ],
+    "core_p": 0.0
+  },
+  "bootstrap": {
+    "HR": 1.612,
+    "CI": [
+      1.075,
+      2.48
+    ],
+    "B": 500
+  },
+  "RCS_HRS": {
+    "LR": 9.21,
+    "df": 2,
+    "p": 0.01,
+    "median_x": 4.727387818712341,
+    "knots": [
+      2.772588722239781,
+      4.250622937298153,
+      5.198497031265826,
+      7.253429973352969
+    ]
+  },
+  "KM_绝对风险": [
+    {
+      "tertile": "T1",
+      "N": 174,
+      "deaths": 9,
+      "cum_mortality_7.5y": 5.2
+    },
+    {
+      "tertile": "T2",
+      "N": 174,
+      "deaths": 32,
+      "cum_mortality_7.5y": 18.4
+    },
+    {
+      "tertile": "T3",
+      "N": 175,
+      "deaths": 57,
+      "cum_mortality_7.5y": 32.6
+    }
+  ],
+  "AJ_CIF": [
+    {
+      "tertile": "T1",
+      "N": 142,
+      "CVD_events": 17,
+      "death_comp": 7,
+      "CIF_CVD_7.5y": 12.7
+    },
+    {
+      "tertile": "T2",
+      "N": 113,
+      "CVD_events": 16,
+      "death_comp": 17,
+      "CIF_CVD_7.5y": 15.2
+    },
+    {
+      "tertile": "T3",
+      "N": 84,
+      "CVD_events": 32,
+      "death_comp": 14,
+      "CIF_CVD_7.5y": 49.1
+    }
+  ],
+  "PH_新发CVD": 0.9405,
+  "CHARLS_Table1_达标组": {
+    "N": 617,
+    "age": 62.8,
+    "female_pct": 60.9,
+    "bmi": 25.4,
+    "hibpe_pct": 62.2,
+    "HbA1c": 6.04,
+    "CRP_median": 1.6,
+    "cysc": 0.91
+  }
+}

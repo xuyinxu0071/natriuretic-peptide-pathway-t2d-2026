@@ -1,0 +1,14 @@
+﻿rs5068: GRCh38 1:11845917-11845917 allele=None
+python.exe : Traceback (most recent call last):
+所在位置 行:445 字符: 1
++ & "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\python. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last) 
+   ::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis
+\step0c_coord_check.py", line 15, in <module>
+    print(f"  mapping: {mm['assembly']} {mm['seq_region_name']}:{mm['start']}")
+                        ~~^^^^^^^^^^^^
+KeyError: 'assembly'

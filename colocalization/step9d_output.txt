@@ -1,0 +1,6 @@
+NPPA locus: 4086 variants x 2 datasets
+  [bbj-a-129] pulling ...
+  bbj-a-129: 2082 variants saved
+  [bbj-a-71] pulling ...
+  bbj-a-71: 1466 variants saved
+ALL DONE

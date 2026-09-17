@@ -1,0 +1,25 @@
+*******************************************************************
+* Summary-data-based Mendelian Randomization (SMR)
+* Version 1.3.1
+* (C) 2015 Futao Zhang, Zhihong Zhu and Jian Yang
+* The University of Queensland
+* MIT License
+*******************************************************************
+Analysis started: 9:55:19,Mon Sep 14,2026
+
+Options:
+--bfile C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CDؿѡ\coloc_analysis\eur_nppa
+--gwas-summary C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CDؿѡ\coloc_analysis\ma_AF_nppa.ma
+--beqtl-summary C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CDؿѡ\coloc_analysis\INTERVAL
+--out C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CDؿѡ\coloc_analysis\smr_INTERVAL__x__AF_nppa
+--thread-num 2
+
+Reading GWAS summary data from [C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CDؿѡ\coloc_analysis\ma_AF_nppa.ma].
+GWAS summary data of 772 SNPs to be included from [C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CDؿѡ\coloc_analysis\ma_AF_nppa.ma].
+
+Analysis completed: 9:55:19,Mon Sep 14,2026
+Computational time: 0:0:0
+
+=== STDERR ===
+
+ERROR: can not open the file [C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CDؿѡ\coloc_analysis\INTERVAL.esi] to read.

@@ -1,0 +1,20 @@
+﻿C:\Program Files\R
+C:\Program Files\RStudio
+D:\2025
+D:\2026
+D:\360Downloads
+D:\360安全浏览器下载
+D:\360极速浏览器下载
+D:\BaiduNetdiskDownload
+D:\ckm_data
+D:\ckm_work
+D:\COHORTS_ASCII
+D:\elsa_data
+D:\LeStoreDownload
+D:\MedRef
+D:\MGLTools-1.5.7
+D:\mhas_data
+D:\NHANES_ASCII
+D:\个人
+D:\新建文件夹
+D:\纳米AI下载

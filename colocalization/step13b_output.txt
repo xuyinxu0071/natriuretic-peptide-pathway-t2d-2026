@@ -1,0 +1,25 @@
+EUR samples: 503
+
+=== nppa: chr1:11805974-12005974, 992 目标变异 ===
+  16 chunks -> 3 ranges ~1.7 MB
+  VCF 2504 样本, EUR 503
+  匹配 992 变异, 写 EUR VCF
+  NT-proBNP pQTL (SCALLOP) [ebi-a-GCST90012082]: 612 变异 -> SCALLOP.efile
+  NT-proBNP pQTL (INTERVAL) [prot-a-2078]: 608 变异 -> INTERVAL.efile
+  NPPA eQTL (eQTLGen) [eqtl-a-ENSG00000175206]: 751 变异 -> NPPAeQTL.efile
+  CAD_cardio [ieu-a-7]: 604 变异 -> ma_CAD_cardio_nppa.ma
+  CAD_vdh [ebi-a-GCST005195]: 571 变异 -> ma_CAD_vdh_nppa.ma
+  AF [ebi-a-GCST006061]: 772 变异 -> ma_AF_nppa.ma
+  HF [ebi-a-GCST009541]: 592 变异 -> ma_HF_nppa.ma
+  stroke [ebi-a-GCST005838]: 585 变异 -> ma_stroke_nppa.ma
+  CES [ebi-a-GCST006910]: 593 变异 -> ma_CES_nppa.ma
+
+=== npr3: chr5:32614270-32814270, 773 目标变异 ===
+  29 chunks -> 11 ranges ~2.0 MB
+  VCF 2504 样本, EUR 503
+  匹配 773 变异, 写 EUR VCF
+  NPR3 eQTL (eQTLGen) [eqtl-a-ENSG00000113389]: 501 变异 -> NPR3eQTL.efile
+  CAD_cardio [ieu-a-7]: 357 变异 -> ma_CAD_cardio_npr3.ma
+  CAD_vdh [ebi-a-GCST005195]: 362 变异 -> ma_CAD_vdh_npr3.ma
+  MI_har [ebi-a-GCST011364]: 400 变异 -> ma_MI_har_npr3.ma
+  MI_finn [finn-b-I9_MI]: 365 变异 -> ma_MI_finn_npr3.ma

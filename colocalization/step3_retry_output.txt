@@ -1,0 +1,60 @@
+﻿batch-1000 probe: OK 3
+
+=== nppa locus: 4086 variants x 7 datasets ===
+  eqtl-a-ENSG00000175206: exists, skip
+  ieu-a-7: exists, skip
+  ebi-a-GCST005195: exists, skip
+  ebi-a-GCST006061: exists, skip
+  [ebi-a-GCST009541] pulling ...
+    640/4086 (have 308)
+    1280/4086 (have 660)
+    1920/4086 (have 1015)
+    2560/4086 (have 1473)
+    3200/4086 (have 1727)
+    3840/4086 (have 2061)
+  ebi-a-GCST009541: 2192 variants saved
+  ebi-a-GCST005838: exists, skip
+  [ebi-a-GCST006910] pulling ...
+    640/4086 (have 311)
+    1280/4086 (have 674)
+    1920/4086 (have 1032)
+    2560/4086 (have 1489)
+    3200/4086 (have 1746)
+    3840/4086 (have 2092)
+  ebi-a-GCST006910: 2259 variants saved
+
+=== npr3 locus: 3623 variants x 6 datasets ===
+  [eqtl-a-ENSG00000113389] pulling ...
+    640/3623 (have 435)
+    1280/3623 (have 949)
+    1920/3623 (have 1409)
+    2560/3623 (have 1902)
+    3200/3623 (have 2408)
+  eqtl-a-ENSG00000113389: 2737 variants saved
+  ieu-b-38: exists, skip
+  [ieu-a-7] pulling ...
+  [HTTP 502] retry in 10s
+    640/3623 (have 379)
+    1280/3623 (have 807)
+    1920/3623 (have 1177)
+    2560/3623 (have 1555)
+    3200/3623 (have 1943)
+  ieu-a-7: 2210 variants saved
+  ebi-a-GCST005195: exists, skip
+  [ebi-a-GCST011364] pulling ...
+    640/3623 (have 391)
+  [HTTP 502] retry in 10s
+    1280/3623 (have 834)
+    1920/3623 (have 1243)
+    2560/3623 (have 1651)
+    3200/3623 (have 2073)
+  ebi-a-GCST011364: 2359 variants saved
+  [finn-b-I9_MI] pulling ...
+    640/3623 (have 365)
+    1280/3623 (have 789)
+    1920/3623 (have 1166)
+    2560/3623 (have 1562)
+    3200/3623 (have 1968)
+  finn-b-I9_MI: 2247 variants saved
+
+ALL DONE

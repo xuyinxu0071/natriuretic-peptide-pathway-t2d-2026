@@ -1,0 +1,62 @@
+﻿root: ['X', 'layers', 'obs', 'obsm', 'obsp', 'uns', 'var', 'varm', 'varp']
+X encoding: csr_matrix shapes: data=(1049989447,) indices=(1049989447,) indptr=(704297,)
+n_vars=32732
+  NPPA -> var 264
+  NPPB -> var 265
+  NPPC -> var 5181
+  NPR1 -> var 1908
+  NPR2 -> var 15712
+  NPR3 -> var 8588
+  CORIN -> var 7385
+  MME -> var 6601
+  FURIN -> var 24410
+  DPP4 -> var 4562
+  KLKB1 -> var 8314
+obs cell_type: 12 cats
+obs cell_state: 76 cats
+obs region: 8 cats
+obs modality: 3 cats
+n_obs=704296, nnz=1049989447
+
+=== per-cell_type: mean_lognorm | pct_expressing ===
+saved C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis\hca_np_cell_type.csv
+  NPPA   top: Atrial Cardiomyocyte(3.197); Mesothelial cell(0.877); Neural cell(0.357)
+  NPPB   top: Atrial Cardiomyocyte(0.916); Ventricular Cardiomyocyte(0.172); Mesothelial cell(0.054)
+  NPPC   top: Fibroblast(0.095); Lymphatic Endothelial cell(0.015); Adipocyte(0.008)
+  NPR1   top: Endothelial cell(0.203); Lymphatic Endothelial cell(0.167); Adipocyte(0.166)
+  NPR2   top: Adipocyte(0.038); Fibroblast(0.034); Mesothelial cell(0.032)
+  NPR3   top: Adipocyte(0.143); Ventricular Cardiomyocyte(0.127); Endothelial cell(0.105)
+  CORIN  top: Atrial Cardiomyocyte(1.246); Ventricular Cardiomyocyte(0.893); Neural cell(0.061)
+  MME    top: Adipocyte(1.202); Fibroblast(0.097); Mesothelial cell(0.046)
+  FURIN  top: Endothelial cell(0.146); Myeloid(0.138); Adipocyte(0.069)
+  DPP4   top: Mesothelial cell(0.223); Lymphatic Endothelial cell(0.166); Lymphoid(0.165)
+  KLKB1  top: Atrial Cardiomyocyte(0.178); Ventricular Cardiomyocyte(0.117); Adipocyte(0.044)
+
+=== per-cell_state: mean_lognorm | pct_expressing ===
+saved C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis\hca_np_cell_state.csv
+  NPPA   top: aCM4(4.264); aCM2(3.357); aCM3(3.045)
+  NPPB   top: aCM3(1.739); AVN_P_cell(1.410); aCM4(1.100)
+  NPPC   top: FB1(0.182); FB5(0.125); Adip4(0.096)
+  NPR1   top: EC7_endocardial(0.301); EC6_ven(0.287); EC10_CMC-like(0.263)
+  NPR2   top: AVN_bundle_cell(0.090); EC9_FB-like(0.089); NC4_glial(0.089)
+  NPR3   top: EC7_endocardial(1.130); AVN_bundle_cell(0.476); SAN_P_cell(0.320)
+  CORIN  top: aCM2(1.593); aCM1(1.267); vCM2(1.219)
+  MME    top: Adip1(1.275); Adip3(1.200); Adip2(1.185)
+  FURIN  top: CD4+T_Th17(0.294); EC5_art(0.229); LYVE1+TIMD4+MP(0.201)
+  DPP4   top: CD4+T_act(0.462); CD4+T_Tfh(0.431); MAIT-like(0.431)
+  KLKB1  top: SAN_P_cell(0.384); aCM2(0.283); Purkinje(0.266)
+
+=== per-region: mean_lognorm | pct_expressing ===
+saved C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis\hca_np_region.csv
+  NPPA   top: RA(1.107); LA(0.860); SAN(0.824)
+  NPPB   top: AVN(0.280); RA(0.269); LA(0.264)
+  NPPC   top: AX(0.045); RV(0.031); SP(0.021)
+  NPR1   top: SAN(0.106); RA(0.068); AX(0.061)
+  NPR2   top: SAN(0.034); AVN(0.023); RA(0.019)
+  NPR3   top: RA(0.141); SAN(0.092); AVN(0.080)
+  CORIN  top: LV(0.387); AVN(0.373); RV(0.367)
+  MME    top: AVN(0.066); SAN(0.065); LA(0.054)
+  FURIN  top: SAN(0.102); AVN(0.101); AX(0.073)
+  DPP4   top: LV(0.072); SP(0.068); RV(0.063)
+  KLKB1  top: AVN(0.103); SAN(0.073); RA(0.064)
+DONE

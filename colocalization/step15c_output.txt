@@ -1,0 +1,49 @@
+total datasets in gwasinfo: 50056
+
+=== pQTL datasets per NP-cascade target ===
+CORIN: 2
+   prot-a-769 | n=3301 | Decorin | Sun BB 2018
+   ebi-a-GCST90010119 | n=1301 | Decorin levels | Gilly A 2020
+FURIN: 1
+   prot-a-1150 | n=3301 | Furin | Sun BB 2018
+MME: 8
+   prot-a-2215 | n=3301 | Programmed cell death 1 ligand 2 | Sun BB 2018
+   prot-a-1413 | n=3301 | Immediate early response 3-interacting protein 1 | Sun BB 2018
+   prot-a-1412 | n=3301 | Radiation-inducible immediate-early gene IEX-1 | Sun BB 2018
+   prot-a-2214 | n=3301 | Programmed cell death protein 1 | Sun BB 2018
+   prot-a-2216 | n=3301 | Programmed cell death protein 5 | Sun BB 2018
+   prot-a-418 | n=3301 | CD109 antigen | Sun BB 2018
+   prot-a-431 | n=3301 | Programmed cell death 1 ligand 1 | Sun BB 2018
+   ebi-a-GCST90010159 | n=1301 | Programmed cell death 1 ligand 2 levels | Gilly A 2020
+DPP4: 5
+   prot-a-860 | n=3301 | Dipeptidyl peptidase 2 | Sun BB 2018
+   prot-a-719 | n=3301 | Dipeptidyl peptidase 1 | Sun BB 2018
+   prot-a-858 | n=3301 | Inactive dipeptidyl peptidase 10 | Sun BB 2018
+   prot-a-859 | n=3301 | Dipeptidyl peptidase 2 | Sun BB 2018
+   ebi-a-GCST90010307 | n=1290 | Dipeptidyl peptidase 2 levels | Gilly A 2020
+NPR1: 1
+   prot-a-1294 | n=3301 | Guanylate cyclase activator 2B | Sun BB 2018
+NPR2: 0
+NPR3: 0
+NPPA: 1
+   ebi-a-GCST90026078 | n=291 | 3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf) levels | Panyard DJ 2021
+NPPB: 2
+   prot-a-2078 | n=3301 | N-terminal pro-BNP | Sun BB 2018
+   ebi-a-GCST90085762 | n=400 | NT proBNP plasma levels | Caron B 2022
+
+=== T2D outcome candidates ===
+   ebi-a-GCST010118 | cases=77418 ctrl=356122 | Type 2 diabetes | Spracklen CN 2020 | East Asian
+   ebi-a-GCST006867 | cases=61714 ctrl=1178 | Type 2 diabetes | Xue A 2018 | European
+   ebi-a-GCST007515 | cases=48286 ctrl=250671 | Type 2 diabetes | Mahajan A 2018 | European
+   ebi-a-GCST007516 | cases=48286 ctrl=250671 | Type 2 diabetes (adjusted for BMI) | Mahajan A 2018 | European
+   ebi-a-GCST007518 | cases=48286 ctrl=250671 | Type 2 diabetes (adjusted for BMI) | Mahajan A 2018 | European
+   ebi-a-GCST007517 | cases=48286 ctrl=250671 | Type 2 diabetes | Mahajan A 2018 | European
+   ebi-a-GCST90018706 | cases=45383 ctrl=132032 | Type 2 diabetes | Sakaue S 2021 | East Asian
+   bbj-a-153 | cases=40250 ctrl=170615 | Type 2 diabetes | Ishigaki K 2019 | East Asian
+   ebi-a-GCST90018926 | cases=38841 ctrl=451248 | Type 2 diabetes | Sakaue S 2021 | European
+   bbj-a-77 | cases=36614 ctrl=155150 | Type 2 Diabetes | Ishigaki K 2019 | East Asian
+   ieu-a-24 | cases=34840 ctrl=114981 | Type 2 diabetes | Morris 2012 | Mixed
+   finn-b-E4_DM2 | cases=32469 ctrl=183185 | Type 2 diabetes | NA 2021 | European
+   finn-b-T2D | cases=29193 ctrl=182573 | Type 2 diabetes, definitions combined | NA 2021 | European
+   finn-b-E4_DM2_STRICT | cases=29166 ctrl=183185 | Type 2 diabetes, strict (exclude DM1) | NA 2021 | European
+   finn-b-T2D_INCLAVO | cases=28717 ctrl=180722 | Type 2 diabetes, definitions combined, including avohil | NA 2021 | European

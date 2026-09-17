@@ -1,0 +1,25 @@
+投稿前专家驱动终版补充分析 v6
+(1) 逆转因果剔除 (2) 剔除基线CVD (3) BNP/CRP 相互调整 (4) IQR 核定
+========================
+
+[IQR_核定]
+{'Q1_ln': np.float64(3.85), 'Q3_ln': np.float64(5.72), 'IQR_ln': np.float64(1.87), 'Q1_pg': 47.0, 'Q3_pg': 305.0}
+
+[逆转因果_剔除1年]
+{'exp(coef)': 1.693, 'exp(coef) lower 95%': 1.149, 'exp(coef) upper 95%': 2.496, 'p': 0.008}
+
+[逆转因果_剔除2年]
+{'exp(coef)': 1.709, 'exp(coef) lower 95%': 1.104, 'exp(coef) upper 95%': 2.647, 'p': 0.016}
+
+[剔除基线CVD_死亡]
+{'exp(coef)': 1.083, 'exp(coef) lower 95%': 0.605, 'exp(coef) upper 95%': 1.937, 'p': 0.789}
+
+[CRP单独_死亡]
+{'exp(coef)': 1.198, 'exp(coef) lower 95%': 0.92, 'exp(coef) upper 95%': 1.562, 'p': 0.18}
+
+[双标志物_BNP]
+{'exp(coef)': 1.556, 'exp(coef) lower 95%': 1.067, 'exp(coef) upper 95%': 2.267, 'p': 0.021}
+
+[双标志物_CRP]
+{'exp(coef)': 1.161, 'exp(coef) lower 95%': 0.892, 'exp(coef) upper 95%': 1.512, 'p': 0.266}
+

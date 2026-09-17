@@ -1,0 +1,3 @@
+FAIL https://www.ebi.ac.uk/eqtl/data-access -> HTTP Error 404: Not Found
+FAIL https://www.ebi.ac.uk/eqtl/api-info -> HTTP Error 410: Gone
+FAIL https://www.ebi.ac.uk/eqtl/release-notes -> HTTP Error 404: Not Found

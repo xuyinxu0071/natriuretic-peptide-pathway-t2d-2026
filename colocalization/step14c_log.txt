@@ -1,0 +1,25 @@
+atrial (QTD000251): tbi refs=['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '21', '22', '3', '4', '5', '6', '7', '8', '9', 'X'] col_seq=2 col_beg=3 meta='#' skip=1
+  chr1:11805974-12005974: 13 chunks -> 1 ranges, ~0.7 MB
+  header not in chunks; using canonical eQTL Catalogue column layout
+  header: ['molecular_trait_id', 'chromosome', 'position', 'ref', 'alt', 'variant', 'ma_samples', 'maf', 'pvalue', 'beta', 'se', 'type', 'ac', 'an', 'r2', 'molecular_trait_object_id', 'gene_id', 'median_tpm', 'rsid']
+  rows kept (dedup): 880
+  saved C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\gtex_atrial_NPPA.tsv: 880 variants
+  ENSG00000183705: NO ROWS
+  chr5:32614270-32814270: 13 chunks -> 1 ranges, ~0.2 MB
+  header not in chunks; using canonical eQTL Catalogue column layout
+  header: ['molecular_trait_id', 'chromosome', 'position', 'ref', 'alt', 'variant', 'ma_samples', 'maf', 'pvalue', 'beta', 'se', 'type', 'ac', 'an', 'r2', 'molecular_trait_object_id', 'gene_id', 'median_tpm', 'rsid']
+  rows kept (dedup): 777
+  saved C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\gtex_atrial_NPR3.tsv: 777 variants
+ventricle (QTD000256): tbi refs=['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '21', '22', '3', '4', '5', '6', '7', '8', '9', 'X'] col_seq=2 col_beg=3 meta='#' skip=1
+  chr1:11805974-12005974: 13 chunks -> 1 ranges, ~0.8 MB
+  header not in chunks; using canonical eQTL Catalogue column layout
+  header: ['molecular_trait_id', 'chromosome', 'position', 'ref', 'alt', 'variant', 'ma_samples', 'maf', 'pvalue', 'beta', 'se', 'type', 'ac', 'an', 'r2', 'molecular_trait_object_id', 'gene_id', 'median_tpm', 'rsid']
+  rows kept (dedup): 897
+  saved C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\gtex_ventricle_NPPA.tsv: 897 variants
+  ENSG00000183705: NO ROWS
+  chr5:32614270-32814270: 13 chunks -> 1 ranges, ~0.3 MB
+  header not in chunks; using canonical eQTL Catalogue column layout
+  header: ['molecular_trait_id', 'chromosome', 'position', 'ref', 'alt', 'variant', 'ma_samples', 'maf', 'pvalue', 'beta', 'se', 'type', 'ac', 'an', 'r2', 'molecular_trait_object_id', 'gene_id', 'median_tpm', 'rsid']
+  rows kept (dedup): 799
+  saved C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\gtex_ventricle_NPR3.tsv: 799 variants
+DONE

@@ -1,0 +1,42 @@
+nppa locus: 4086 variants
+=== A: nppa x SBP (ieu-b-38) ===
+    1280/4086 (have 594)
+    2560/4086 (have 1321)
+    3840/4086 (have 1855)
+  saved 2000 -> nppa__ieu-b-38_assoc.json
+=== A: nppa x DBP (ieu-b-39) ===
+    1280/4086 (have 603)
+    2560/4086 (have 1338)
+    3840/4086 (have 1887)
+  saved 2033 -> nppa__ieu-b-39_assoc.json
+=== A: nppa x BMI (ieu-b-40) ===
+    1280/4086 (have 154)
+    2560/4086 (have 343)
+    3840/4086 (have 470)
+  saved 491 -> nppa__ieu-b-40_assoc.json
+=== A: nppa x eGFR (ebi-a-GCST007344) ===
+    1280/4086 (have 644)
+    2560/4086 (have 1353)
+    3840/4086 (have 1877)
+  saved 1959 -> nppa__ebi-a-GCST007344_assoc.json
+=== B: tophits SBP (ieu-b-38) ===
+  461 tophits saved
+=== B: tophits DBP (ieu-b-39) ===
+  460 tophits saved
+=== B: tophits BMI (ieu-b-40) ===
+  501 tophits saved
+=== B: tophits eGFR (ebi-a-GCST007344) ===
+  0 tophits saved
+=== B: tophits T2D (ebi-a-GCST007515) ===
+  67 tophits saved
+=== C: AF x SBP tophits (461 snps) ===
+  saved 459 -> step16c_AF__SBP.json
+=== C: AF x DBP tophits (460 snps) ===
+  saved 456 -> step16c_AF__DBP.json
+=== C: AF x BMI tophits (501 snps) ===
+  saved 497 -> step16c_AF__BMI.json
+=== C: AF x eGFR tophits (0 snps) ===
+  saved 0 -> step16c_AF__eGFR.json
+=== C: AF x T2D tophits (67 snps) ===
+  saved 65 -> step16c_AF__T2D.json
+ALL DONE

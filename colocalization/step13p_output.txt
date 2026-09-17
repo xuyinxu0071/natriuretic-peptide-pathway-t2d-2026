@@ -1,0 +1,57 @@
+src/SMR.cpp: 49,072 bytes
+src/SMR.hpp: 6,742 bytes
+--- peqtl-heidi @14028: ... be within the range from 0 to 1.\n"); |         exit(EXIT_FAILURE); |       } |     } else if (0 == strcmp(option_str[i], "--peqtl-heidi")) { |       p_hetero = atof(option_str[++i]); |       printf("--peqtl-heidi %10.2e\n", p_hetero); |       if (p_hetero < 0 |...
+--- heidi-min-m @14350: ...be within the range from 0 to 1.\n"); |         exit(EXIT_FAILURE); |       } |  |     } else if (0 == strcmp(option_str[i], "--heidi-min-m")) { |       m_hetero = atoi(option_str[++i]); |       printf("--heidi-min-m %d\n", m_hetero); |     } else if (0 == strcmp(o...
+--- heidi-max-m @14498: ...ero = atoi(option_str[++i]); |       printf("--heidi-min-m %d\n", m_hetero); |     } else if (0 == strcmp(option_str[i], "--heidi-max-m")) { |       opt_hetero = atoi(option_str[++i]); |       printf("--heidi-max-m %d\n", opt_hetero); |     } else if (0 == strc...
+--- ld-lower-limit @33375: ... be within the range from 0 to 1.\n"); |         exit(EXIT_FAILURE); |       } |     } else if (0 == strcmp(option_str[i], "--ld-lower-limit")) { |       ld_min = atof(option_str[++i]); |       printf("--ld-lower-limit %f\n", ld_min); |       if (ld_min < 0 || ld_mi...
+--- ld-upper-limit @15099: ...], "--smr-multi")) { |       ssmrflg = true; |       printf("--smr-multi \n"); |     } else if (0 == strcmp(option_str[i], "--ld-upper-limit")) { |       ld_prune = atof(option_str[++i]); |       printf("--ld-upper-limit %f\n", ld_prune); |       if (ld_prune < 0 ||...
+--- MAX_NUM_LD @611: ...space SMRDATA; |  | int thread_num; | bool mute = false; | int xh = 0; | bool forcefrqck = true; | char* outFileName = nullptr; | int MAX_NUM_LD = 500; |  | std::string getOSName() { | #ifdef _WIN32 |   return "Windows"; | #elif __linux__ |   return "Linux"; | #elif __APPLE__ |...
+--- heidi-mtd @14650: ...o = atoi(option_str[++i]); |       printf("--heidi-max-m %d\n", opt_hetero); |     } else if (0 == strcmp(option_str[i], "--heidi-mtd")) { |       int mtd = atoi(option_str[++i]); |       if (mtd == 0) new_het_mth = false; |       else if (mtd == 1) new_het_m...
+--- diff-freq @35591: ...req-ck")) { |       forcefrqck = false; |       printf("--disable-freq-ck\n"); |     } else if (0 == strcmp(option_str[i], "--diff-freq")) { |       diff_freq = atof(option_str[++i]); |       if (diff_freq < 0 || diff_freq > 1) { |         printf("Error: --diff...
+--- peqtl-smr @13725: ...me = nullptr; |         i--; |       } else printf("--out %s\n", outFileName); |     } else if (0 == strcmp(option_str[i], "--peqtl-smr")) { |       p_smr = atof(option_str[++i]); |       printf("--peqtl-smr %10.2e\n", p_smr); |       if (p_smr < 0 || p_smr > 1...
+=== rm_cor_sbat ===
+void rm_cor_sbat(const MatrixXd& R, double R_cutoff, int m, std::vector<int>& rm_ID1) {
+  // Approximate maximum independent set by greedily removing the most-connected node
+  // from each correlated pair.
+
+  std::vector<std::pair<int, int>> edges;
+  edges.reserve(m);
+
+  // 1. Collect all correlated pairs
+  for (int i = 1; i < m; i++) {
+    for (int j = 0; j < i; j++) {
+      if (std::fabs(R(i, j)) > R_cutoff) {
+        edges.emplace_back(j, i);
+      }
+    }
+  }
+
+  if (edges.empty()) return;
+
+  // 2. Count how many correlated pairs each index participates in
+  std::unordered_map<int, int> degree;
+  degree.reserve(edges.size());
+  for (const auto& [a, b] : edges) {
+    ++degree[a];
+    ++degree[b];
+  }
+
+  // 3. For each pair, mark the higher-degree node for removal
+  //    (swap so rm_ID1 always gets the more-connected index)
+  std::unordered_set<int> removed;
+  removed.reserve(degree.size());
+  for (const auto& [a, b] : edges) {
+    int to_remove = (degree[a] >= degree[b]) ? a : b;
+    removed.insert(to_remove);
+  }
+
+  // 4. Produce sorted output
+  rm_ID1.assign(removed.begin(), removed.end());
+  std::sort(rm_ID1.begin(), rm_ID1.end());
+}
+
+void update_smrwk(SMRWK* smrwk, std::vector<int>& sn_ids) {
+  std::vector<double> byz, seyz, bxz, sexz, zxz, freq, pyz;
+  std::vector<std::uint32_t> curId;
+  std::vector<int> bpsnp, snpchrom;
+  std::vector<std::string> rs, allele1, allele2;

@@ -1,0 +1,16 @@
+metadata rows: 758; columns: ['study_id', 'dataset_id', 'study_label', 'sample_group', 'tissue_id', 'tissue_label', 'condition_label', 'sample_size', 'quant_method', 'pmid', 'study_type']
+heart-tissue datasets: 10
+  study=GTEx qtl_group=heart_atrial_appendage QTD=QTD000251 QTS=QTS000015 tissue=heart (atrial appendage) n=372 method=ge
+  study=GTEx qtl_group=heart_atrial_appendage QTD=QTD000252 QTS=QTS000015 tissue=heart (atrial appendage) n=372 method=exon
+  study=GTEx qtl_group=heart_atrial_appendage QTD=QTD000253 QTS=QTS000015 tissue=heart (atrial appendage) n=372 method=tx
+  study=GTEx qtl_group=heart_atrial_appendage QTD=QTD000254 QTS=QTS000015 tissue=heart (atrial appendage) n=372 method=txrev
+  study=GTEx qtl_group=heart_atrial_appendage QTD=QTD000255 QTS=QTS000015 tissue=heart (atrial appendage) n=372 method=leafcutter
+  study=GTEx qtl_group=heart_left_ventricle QTD=QTD000256 QTS=QTS000015 tissue=heart (left ventricle) n=382 method=ge
+  study=GTEx qtl_group=heart_left_ventricle QTD=QTD000257 QTS=QTS000015 tissue=heart (left ventricle) n=382 method=exon
+  study=GTEx qtl_group=heart_left_ventricle QTD=QTD000258 QTS=QTS000015 tissue=heart (left ventricle) n=382 method=tx
+  study=GTEx qtl_group=heart_left_ventricle QTD=QTD000259 QTS=QTS000015 tissue=heart (left ventricle) n=382 method=txrev
+  study=GTEx qtl_group=heart_left_ventricle QTD=QTD000260 QTS=QTS000015 tissue=heart (left ventricle) n=382 method=leafcutter
+GTEx datasets: 245
+GTEx sample_groups (49): LCL, adipose_subcutaneous, adipose_visceral, adrenal_gland, artery_aorta, artery_coronary, artery_tibial, blood, brain_amygdala, brain_anterior_cingulate_cortex, brain_caudate, brain_cerebellar_hemisphere, brain_cerebellum, brain_cortex, brain_frontal_cortex, brain_hippocampus, brain_hypothalamus, brain_nucleus_accumbens, brain_putamen, brain_spinal_cord, brain_substantia_nigra, breast, colon_sigmoid, colon_transverse, esophagus_gej, esophagus_mucosa, esophagus_muscularis, fibroblast, heart_atrial_appendage, heart_left_ventricle, kidney_cortex, liver, lung, minor_salivary_gland, muscle, nerve_tibial, ovary, pancreas, pituitary, prostate, skin_not_sun_exposed, skin_sun_exposed, small_intestine, spleen, stomach, testis, thyroid, uterus, vagina
+  HEART group: heart_atrial_appendage -> QTD=QTD000251 QTS=QTS000015 n=372 method=ge
+  HEART group: heart_left_ventricle -> QTD=QTD000256 QTS=QTS000015 n=382 method=ge

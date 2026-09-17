@@ -1,0 +1,2 @@
+supp1: HTTP Error 403: Forbidden
+supp2: 375,142 bytes, magic=b'<!DOCTYP'

@@ -1,0 +1,8 @@
+﻿raw bytes: 455910 head: 1f8b08040000000000ff060042430200f51eb55d
+decompressed bytes: 65536
+total lines: 471
+# lines: 0, empty: 0, short(<5 fields): 1
+data lines: 471
+first 3 reprs: [b'SAS_AF=0;AA=T|||;VT=SNP', b'1\t11447133\t.\tA\tG\t100\tPASS\tAC=1;AF=0.000199681;AN=5008;NS=2504;DP=14146;EAS_AF=0;', b'1\t11447171\t.\tA\tT\t100\tPASS\tAC=1;AF=0.000199681;AN=5008;NS=2504;DP=15081;EAS_AF=0;']
+last 2 reprs: [b'1\t11460122\t.\tC\tT\t100\tPASS\tAC=1;AF=0.000199681;AN=5008;NS=2504;DP=20267;EAS_AF=0;', b'1\t11460125\t.\tT\tC\t100\tPASS\tAC=292;AF=0.0583067;AN=5008;NS=2504;DP=20392;EAS_AF=0.']
+chrom distribution: {'SAS_AF=0;AA=T|||;VT=SNP': 1, '1': 470}

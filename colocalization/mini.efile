@@ -1,0 +1,4 @@
+ProbeID	SNP	Chr	BP	A1	A2	Freq	b	se	p
+prb1	rs1001	1	1001	G	A	0.45	0.12	0.02	1e-6
+prb1	rs1002	1	2002	G	A	0.30	0.08	0.02	6e-5
+prb1	rs1003	1	3003	T	C	0.25	-0.05	0.02	0.012

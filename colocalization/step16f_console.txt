@@ -1,0 +1,124 @@
+﻿[CORIN_eQTL -> AF] k=6 drop=0 | IVW_RE b=0.067 se=0.02711 z=2.47 p=0.01344 | lead rs76583360 b=0.08751 p=0.4514 | Q_p=0.0479
+[FURIN_eQTL -> AF] k=3 drop=1 | IVW_RE b=-0.0416 se=0.02625 z=-1.58 p=0.113 | lead rs4932366 b=-0.07326 p=0.4715 | Q_p=0.94
+[MME_eQTL -> AF] k=4 drop=0 | IVW_RE b=0.003132 se=0.02326 z=0.13 p=0.8929 | lead rs1025192 b=0.04508 p=0.3982 | Q_p=0.659
+[DPP4_eQTL -> AF] k=3 drop=0 | IVW_RE b=-0.01904 se=0.0284 z=-0.67 p=0.5026 | lead rs2909445 b=-0.01137 p=0.8778 | Q_p=0.984
+[CORIN_eQTL -> CAD] k=6 drop=0 | IVW_RE b=-0.001048 se=0.01422 z=-0.07 p=0.9412 | lead rs76583360 b=-0.04825 p=0.7222 | Q_p=0.987
+[FURIN_eQTL -> CAD] k=3 drop=1 | IVW_RE b=0.02205 se=0.05797 z=0.38 p=0.7037 | lead rs4932366 b=0.1532 p=0.2059 | Q_p=0.213
+[MME_eQTL -> CAD] k=4 drop=0 | IVW_RE b=-0.0129 se=0.03066 z=-0.42 p=0.674 | lead rs1025192 b=-0.03059 p=0.6528 | Q_p=0.982
+[DPP4_eQTL -> CAD] k=3 drop=0 | IVW_RE b=-0.01151 se=0.0646 z=-0.18 p=0.8586 | lead rs2909445 b=0.1759 p=0.0892 | Q_p=0.0889
+[CORIN_eQTL -> CAD2] k=6 drop=0 | IVW_RE b=0.01654 se=0.0149 z=1.11 p=0.267 | lead rs76583360 b=-0.0821 p=0.4448 | Q_p=0.342
+[FURIN_eQTL -> CAD2] k=3 drop=1 | IVW_RE b=-0.04343 se=0.02529 z=-1.72 p=0.08596 | lead rs4932366 b=-0.02608 p=0.7853 | Q_p=0.904
+[MME_eQTL -> CAD2] k=4 drop=0 | IVW_RE b=-0.01302 se=0.03161 z=-0.41 p=0.6804 | lead rs1025192 b=0.02465 p=0.6336 | Q_p=0.117
+[DPP4_eQTL -> CAD2] k=3 drop=0 | IVW_RE b=-0.01381 se=0.02736 z=-0.50 p=0.6138 | lead rs2909445 b=0.01896 p=0.7873 | Q_p=0.875
+[CORIN_eQTL -> HF] k=6 drop=0 | IVW_RE b=0.009753 se=0.0122 z=0.80 p=0.4239 | lead rs76583360 b=-0.03708 p=0.757 | Q_p=0.507
+[FURIN_eQTL -> HF] k=3 drop=1 | IVW_RE b=-0.002734 se=0.02897 z=-0.09 p=0.9248 | lead rs4932366 b=-0.06631 p=0.5763 | Q_p=0.687
+[MME_eQTL -> HF] k=4 drop=0 | IVW_RE b=-0.05278 se=0.02536 z=-2.08 p=0.03745 | lead rs1025192 b=-0.07391 p=0.2084 | Q_p=0.658
+[DPP4_eQTL -> HF] k=3 drop=0 | IVW_RE b=0.03161 se=0.03074 z=1.03 p=0.3038 | lead rs2909445 b=0.04546 p=0.5606 | Q_p=0.958
+[CORIN_eQTL -> T2D] k=6 drop=0 | IVW_RE b=-0.005457 se=0.01601 z=-0.34 p=0.7332 | lead rs76583360 b=0.3461 p=0.05905 | Q_p=0.194
+[FURIN_eQTL -> T2D] k=3 drop=1 | IVW_RE b=-0.0167 se=0.02319 z=-0.72 p=0.4713 | lead rs4932366 b=-0.07647 p=0.3299 | Q_p=0.705
+[MME_eQTL -> T2D] k=4 drop=0 | IVW_RE b=-0.06099 se=0.0213 z=-2.86 p=0.004201 | lead rs1025192 b=-0.08869 p=0.05637 | Q_p=0.899
+[DPP4_eQTL -> T2D] k=3 drop=0 | IVW_RE b=0.06155 se=0.04908 z=1.25 p=0.2098 | lead rs2909445 b=-0.09499 p=0.2373 | Q_p=0.0592
+[CORIN_eQTL -> T2D_FINN] k=5 drop=1 | IVW_RE b=0.07431 se=0.03672 z=2.02 p=0.04303 | lead rs114446717 b=0.1391 p=0.4198 | Q_p=0.0537
+[FURIN_eQTL -> T2D_FINN] k=3 drop=1 | IVW_RE b=0.03843 se=0.03749 z=1.03 p=0.3053 | lead rs4932366 b=0.06845 p=0.5997 | Q_p=0.961
+[MME_eQTL -> T2D_FINN] k=4 drop=0 | IVW_RE b=0.05184 se=0.03697 z=1.40 p=0.1609 | lead rs1025192 b=0.002217 p=0.9778 | Q_p=0.349
+[DPP4_eQTL -> T2D_FINN] k=3 drop=0 | IVW_RE b=0.05426 se=0.04223 z=1.29 p=0.1988 | lead rs2909445 b=-0.09012 p=0.4132 | Q_p=0.364
+
+=== per-SNP detail (exposure z, outcome z, ratio z) ===
+  CORIN_eQTL AF       rs10049713   zx=   51.0 zy=    2.4 zratio=  2.44 ratio=+0.03125
+  CORIN_eQTL AF       rs77880908   zx=   17.3 zy=    2.8 zratio=  2.80 ratio=+0.09928
+  CORIN_eQTL AF       rs17601404   zx=   16.8 zy=    2.6 zratio=  2.57 ratio=+0.09117
+  CORIN_eQTL AF       rs3792711    zx=    7.8 zy=    2.4 zratio=  2.25 ratio=+0.1822
+  CORIN_eQTL AF       rs114446717  zx=   -6.3 zy=    1.3 zratio= -1.30 ratio=-0.1387
+  CORIN_eQTL AF       rs76583360   zx=   -5.7 zy=   -0.8 zratio=  0.75 ratio=+0.08751
+  FURIN_eQTL AF       rs372098     zx=   21.5 zy=   -1.3 zratio= -1.34 ratio=-0.03818
+  FURIN_eQTL AF       rs57690203   zx=    6.5 zy=   -0.6 zratio= -0.56 ratio=-0.05186
+  FURIN_eQTL AF       rs4932366    zx=    6.3 zy=   -0.7 zratio= -0.72 ratio=-0.07326
+  MME_eQTL   AF       rs940895     zx=   13.7 zy=   -0.9 zratio= -0.89 ratio=-0.03997
+  MME_eQTL   AF       rs11719420   zx=   13.6 zy=    0.3 zratio=  0.31 ratio=+0.01357
+  MME_eQTL   AF       rs3796268    zx=   13.4 zy=    0.1 zratio=  0.13 ratio=+0.006032
+  MME_eQTL   AF       rs1025192    zx=   11.4 zy=    0.8 zratio=  0.84 ratio=+0.04508
+  DPP4_eQTL  AF       rs13015258   zx=  -15.7 zy=    0.6 zratio= -0.60 ratio=-0.02402
+  DPP4_eQTL  AF       rs12469968   zx=  -12.9 zy=    0.3 zratio= -0.31 ratio=-0.01512
+  DPP4_eQTL  AF       rs2909445    zx=   -8.3 zy=    0.2 zratio= -0.15 ratio=-0.01137
+  CORIN_eQTL CAD      rs10049713   zx=   51.0 zy=   -0.1 zratio= -0.14 ratio=-0.00235
+  CORIN_eQTL CAD      rs77880908   zx=   17.3 zy=    0.2 zratio=  0.22 ratio=+0.00965
+  CORIN_eQTL CAD      rs17601404   zx=   16.8 zy=   -0.3 zratio= -0.26 ratio=-0.0114
+  CORIN_eQTL CAD      rs3792711    zx=    7.8 zy=    0.5 zratio=  0.55 ratio=+0.05516
+  CORIN_eQTL CAD      rs114446717  zx=   -6.3 zy=   -0.3 zratio=  0.25 ratio=+0.03719
+  CORIN_eQTL CAD      rs76583360   zx=   -5.7 zy=    0.4 zratio= -0.36 ratio=-0.04825
+  FURIN_eQTL CAD      rs372098     zx=   21.5 zy=   -1.0 zratio= -1.00 ratio=-0.03822
+  FURIN_eQTL CAD      rs57690203   zx=    6.5 zy=    0.8 zratio=  0.76 ratio=+0.08182
+  FURIN_eQTL CAD      rs4932366    zx=    6.3 zy=    1.3 zratio=  1.26 ratio=+0.1532
+  MME_eQTL   CAD      rs940895     zx=   13.7 zy=    0.1 zratio=  0.10 ratio=+0.00629
+  MME_eQTL   CAD      rs11719420   zx=   13.6 zy=   -0.3 zratio= -0.27 ratio=-0.01582
+  MME_eQTL   CAD      rs3796268    zx=   13.4 zy=   -0.2 zratio= -0.24 ratio=-0.01443
+  MME_eQTL   CAD      rs1025192    zx=   11.4 zy=   -0.5 zratio= -0.45 ratio=-0.03059
+  DPP4_eQTL  CAD      rs13015258   zx=  -15.7 zy=    1.0 zratio= -0.96 ratio=-0.0534
+  DPP4_eQTL  CAD      rs12469968   zx=  -12.9 zy=    1.3 zratio= -1.30 ratio=-0.08496
+  DPP4_eQTL  CAD      rs2909445    zx=   -8.3 zy=   -1.7 zratio=  1.70 ratio=+0.1759
+  CORIN_eQTL CAD2     rs10049713   zx=   51.0 zy=    0.4 zratio=  0.38 ratio=+0.004856
+  CORIN_eQTL CAD2     rs77880908   zx=   17.3 zy=    0.6 zratio=  0.63 ratio=+0.02284
+  CORIN_eQTL CAD2     rs17601404   zx=   16.8 zy=    2.3 zratio=  2.25 ratio=+0.08094
+  CORIN_eQTL CAD2     rs3792711    zx=    7.8 zy=    0.5 zratio=  0.49 ratio=+0.0376
+  CORIN_eQTL CAD2     rs114446717  zx=   -6.3 zy=    0.7 zratio= -0.69 ratio=-0.06046
+  CORIN_eQTL CAD2     rs76583360   zx=   -5.7 zy=    0.8 zratio= -0.76 ratio=-0.0821
+  FURIN_eQTL CAD2     rs372098     zx=   21.5 zy=   -1.8 zratio= -1.75 ratio=-0.04787
+  FURIN_eQTL CAD2     rs57690203   zx=    6.5 zy=   -0.1 zratio= -0.09 ratio=-0.008131
+  FURIN_eQTL CAD2     rs4932366    zx=    6.3 zy=   -0.3 zratio= -0.27 ratio=-0.02608
+  MME_eQTL   CAD2     rs940895     zx=   13.7 zy=   -2.4 zratio= -2.41 ratio=-0.1016
+  MME_eQTL   CAD2     rs11719420   zx=   13.6 zy=    0.4 zratio=  0.36 ratio=+0.01562
+  MME_eQTL   CAD2     rs3796268    zx=   13.4 zy=    0.4 zratio=  0.42 ratio=+0.01867
+  MME_eQTL   CAD2     rs1025192    zx=   11.4 zy=    0.5 zratio=  0.48 ratio=+0.02465
+  DPP4_eQTL  CAD2     rs13015258   zx=  -15.7 zy=    0.4 zratio= -0.44 ratio=-0.01714
+  DPP4_eQTL  CAD2     rs12469968   zx=  -12.9 zy=    0.5 zratio= -0.50 ratio=-0.02332
+  DPP4_eQTL  CAD2     rs2909445    zx=   -8.3 zy=   -0.3 zratio=  0.27 ratio=+0.01896
+  CORIN_eQTL HF       rs10049713   zx=   51.0 zy=    0.3 zratio=  0.31 ratio=+0.004368
+  CORIN_eQTL HF       rs77880908   zx=   17.3 zy=    1.0 zratio=  1.01 ratio=+0.03934
+  CORIN_eQTL HF       rs17601404   zx=   16.8 zy=    1.4 zratio=  1.39 ratio=+0.05452
+  CORIN_eQTL HF       rs3792711    zx=    7.8 zy=   -0.3 zratio= -0.35 ratio=-0.03037
+  CORIN_eQTL HF       rs114446717  zx=   -6.3 zy=    1.3 zratio= -1.30 ratio=-0.1487
+  CORIN_eQTL HF       rs76583360   zx=   -5.7 zy=    0.3 zratio= -0.31 ratio=-0.03708
+  FURIN_eQTL HF       rs372098     zx=   21.5 zy=    0.2 zratio=  0.22 ratio=+0.006804
+  FURIN_eQTL HF       rs57690203   zx=    6.5 zy=   -0.6 zratio= -0.63 ratio=-0.07072
+  FURIN_eQTL HF       rs4932366    zx=    6.3 zy=   -0.6 zratio= -0.56 ratio=-0.06631
+  MME_eQTL   HF       rs940895     zx=   13.7 zy=   -0.1 zratio= -0.13 ratio=-0.005785
+  MME_eQTL   HF       rs11719420   zx=   13.6 zy=   -1.7 zratio= -1.66 ratio=-0.08379
+  MME_eQTL   HF       rs3796268    zx=   13.4 zy=   -1.3 zratio= -1.26 ratio=-0.06334
+  MME_eQTL   HF       rs1025192    zx=   11.4 zy=   -1.3 zratio= -1.26 ratio=-0.07391
+  DPP4_eQTL  HF       rs13015258   zx=  -15.7 zy=   -0.5 zratio=  0.53 ratio=+0.02296
+  DPP4_eQTL  HF       rs12469968   zx=  -12.9 zy=   -0.7 zratio=  0.72 ratio=+0.03813
+  DPP4_eQTL  HF       rs2909445    zx=   -8.3 zy=   -0.6 zratio=  0.58 ratio=+0.04546
+  CORIN_eQTL T2D      rs10049713   zx=   51.0 zy=   -2.2 zratio= -2.20 ratio=-0.02403
+  CORIN_eQTL T2D      rs77880908   zx=   17.3 zy=   -0.5 zratio= -0.54 ratio=-0.01342
+  CORIN_eQTL T2D      rs17601404   zx=   16.8 zy=    0.3 zratio=  0.32 ratio=+0.008146
+  CORIN_eQTL T2D      rs3792711    zx=    7.8 zy=    1.1 zratio=  1.08 ratio=+0.07434
+  CORIN_eQTL T2D      rs114446717  zx=   -6.3 zy=   -0.5 zratio=  0.47 ratio=+0.09565
+  CORIN_eQTL T2D      rs76583360   zx=   -5.7 zy=   -2.0 zratio=  1.89 ratio=+0.3461
+  FURIN_eQTL T2D      rs372098     zx=   21.5 zy=   -0.3 zratio= -0.31 ratio=-0.008316
+  FURIN_eQTL T2D      rs57690203   zx=    6.5 zy=   -0.4 zratio= -0.41 ratio=-0.02515
+  FURIN_eQTL T2D      rs4932366    zx=    6.3 zy=   -1.0 zratio= -0.97 ratio=-0.07647
+  MME_eQTL   T2D      rs940895     zx=   13.7 zy=   -1.4 zratio= -1.37 ratio=-0.07048
+  MME_eQTL   T2D      rs11719420   zx=   13.6 zy=   -1.3 zratio= -1.26 ratio=-0.0478
+  MME_eQTL   T2D      rs3796268    zx=   13.4 zy=   -1.3 zratio= -1.29 ratio=-0.05007
+  MME_eQTL   T2D      rs1025192    zx=   11.4 zy=   -1.9 zratio= -1.91 ratio=-0.08869
+  DPP4_eQTL  T2D      rs13015258   zx=  -15.7 zy=   -2.6 zratio=  2.55 ratio=+0.09235
+  DPP4_eQTL  T2D      rs12469968   zx=  -12.9 zy=   -2.7 zratio=  2.67 ratio=+0.1203
+  DPP4_eQTL  T2D      rs2909445    zx=   -8.3 zy=    1.2 zratio= -1.18 ratio=-0.09499
+  CORIN_eQTL T2D_FINN rs10049713   zx=   51.0 zy=    0.2 zratio=  0.22 ratio=+0.004032
+  CORIN_eQTL T2D_FINN rs77880908   zx=   17.3 zy=    2.0 zratio=  1.99 ratio=+0.09241
+  CORIN_eQTL T2D_FINN rs17601404   zx=   16.8 zy=    2.4 zratio=  2.40 ratio=+0.1137
+  CORIN_eQTL T2D_FINN rs3792711    zx=    7.8 zy=    1.7 zratio=  1.68 ratio=+0.1969
+  CORIN_eQTL T2D_FINN rs114446717  zx=   -6.3 zy=   -0.8 zratio=  0.81 ratio=+0.1391
+  FURIN_eQTL T2D_FINN rs372098     zx=   21.5 zy=    0.9 zratio=  0.90 ratio=+0.03818
+  FURIN_eQTL T2D_FINN rs57690203   zx=    6.5 zy=    0.2 zratio=  0.21 ratio=+0.02148
+  FURIN_eQTL T2D_FINN rs4932366    zx=    6.3 zy=    0.5 zratio=  0.52 ratio=+0.06845
+  MME_eQTL   T2D_FINN rs940895     zx=   13.7 zy=   -0.4 zratio= -0.43 ratio=-0.02945
+  MME_eQTL   T2D_FINN rs11719420   zx=   13.6 zy=    1.6 zratio=  1.57 ratio=+0.1062
+  MME_eQTL   T2D_FINN rs3796268    zx=   13.4 zy=    1.7 zratio=  1.68 ratio=+0.1146
+  MME_eQTL   T2D_FINN rs1025192    zx=   11.4 zy=    0.0 zratio=  0.03 ratio=+0.002217
+  DPP4_eQTL  T2D_FINN rs13015258   zx=  -15.7 zy=   -1.4 zratio=  1.40 ratio=+0.08168
+  DPP4_eQTL  T2D_FINN rs12469968   zx=  -12.9 zy=   -1.0 zratio=  1.04 ratio=+0.07495
+  DPP4_eQTL  T2D_FINN rs2909445    zx=   -8.3 zy=    0.8 zratio= -0.82 ratio=-0.09012
+
+total MR tests: 24 ; Bonferroni alpha = 0.002083
+DONE

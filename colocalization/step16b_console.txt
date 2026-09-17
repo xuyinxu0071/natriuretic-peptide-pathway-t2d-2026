@@ -1,0 +1,24 @@
+﻿=== corin (1444 variants) x eqtl-a-ENSG00000145244 ===
+    1280/1444 (have 988)
+  corin x eqtl-a-ENSG00000145244: 1116 variants saved
+=== furin (914 variants) x eqtl-a-ENSG00000140564 ===
+  furin x eqtl-a-ENSG00000140564: 754 variants saved
+=== furin (914 variants) x prot-a-1150 ===
+  furin x prot-a-1150: 571 variants saved
+=== mme (1160 variants) x eqtl-a-ENSG00000196549 ===
+  mme x eqtl-a-ENSG00000196549: 872 variants saved
+=== dpp4 (787 variants) x eqtl-a-ENSG00000197635 ===
+  dpp4 x eqtl-a-ENSG00000197635: 620 variants saved
+=== npr2 (517 variants) x eqtl-a-ENSG00000159899 ===
+  npr2 x eqtl-a-ENSG00000159899: 370 variants saved
+=== nppa (4086 variants) x ebi-a-GCST007515 ===
+    1280/4086 (have 4)
+    2560/4086 (have 23)
+    3840/4086 (have 38)
+  nppa x ebi-a-GCST007515: 41 variants saved
+=== npr3 (3623 variants) x ebi-a-GCST007515 ===
+    1280/3623 (have 71)
+  [HTTP 502] retry in 10s
+    2560/3623 (have 97)
+  npr3 x ebi-a-GCST007515: 98 variants saved
+ALL DONE

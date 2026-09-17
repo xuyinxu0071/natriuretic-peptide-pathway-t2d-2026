@@ -1,0 +1,35 @@
+=== CORIN_eQTL (corin x eqtl-a-ENSG00000145244) ===
+  GWS candidates (in LD panel): 398
+  after clump r2<0.01: 6 -> ['rs10049713', 'rs77880908', 'rs17601404', 'rs3792711', 'rs114446717', 'rs76583360']
+=== FURIN_eQTL (furin x eqtl-a-ENSG00000140564) ===
+  GWS candidates (in LD panel): 149
+  after clump r2<0.01: 4 -> ['rs372098', 'rs6226', 'rs57690203', 'rs4932366']
+=== FURIN_pQTL (furin x prot-a-1150) ===
+  GWS candidates (in LD panel): 0
+  after clump r2<0.01: 0 -> []
+  NO GWS; best cis signal: rs34797143 p=0.00347
+=== MME_eQTL (mme x eqtl-a-ENSG00000196549) ===
+  GWS candidates (in LD panel): 216
+  after clump r2<0.01: 4 -> ['rs940895', 'rs11719420', 'rs3796268', 'rs1025192']
+=== DPP4_eQTL (dpp4 x eqtl-a-ENSG00000197635) ===
+  GWS candidates (in LD panel): 132
+  after clump r2<0.01: 3 -> ['rs13015258', 'rs12469968', 'rs2909445']
+=== NPR2_eQTL (npr2 x eqtl-a-ENSG00000159899) ===
+  GWS candidates (in LD panel): 0
+  after clump r2<0.01: 0 -> []
+  NO GWS; best cis signal: rs34478611 p=0.00117
+instruments saved
+union of instrument SNPs: 17
+  pulling AF (ebi-a-GCST006061) at 17 SNPs ...
+  AF: 17/17 hit
+  pulling CAD (ieu-a-7) at 17 SNPs ...
+  CAD: 17/17 hit
+  pulling CAD2 (ebi-a-GCST005195) at 17 SNPs ...
+  CAD2: 17/17 hit
+  pulling HF (ebi-a-GCST009541) at 17 SNPs ...
+  HF: 17/17 hit
+  pulling T2D (ebi-a-GCST90018926) at 17 SNPs ...
+  T2D: 17/17 hit
+  pulling T2D_FINN (finn-b-T2D) at 17 SNPs ...
+  T2D_FINN: 16/17 hit
+ALL DONE

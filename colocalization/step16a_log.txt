@@ -1,0 +1,74 @@
+CORIN: ENSG00000145244 chr4:47596015-47840123 (protein_coding)
+FURIN: ENSG00000140564 chr15:91411822-91426688 (protein_coding)
+MME: ENSG00000196549 chr3:154741913-154901497 (protein_coding)
+DPP4: ENSG00000197635 chr2:162848751-162931052 (protein_coding)
+NPR2: ENSG00000159899 chr9:35792151-35809729 (protein_coding)
+regions: {"corin": ["4", 47496015, 47940123, "ENSG00000145244"], "furin": ["15", 91311822, 91526688, "ENSG00000140564"], "mme": ["3", 154641913, 155001497, "ENSG00000196549"], "dpp4": ["2", 162748751, 163031052, "ENSG00000197635"], "npr2": ["9", 35692151, 35909729, "ENSG00000159899"]}
+corin chr4:47496015-47940123: 29 chunks -> 1 ranges, ~298 KB
+corin: 1444 common biallelic SNVs saved
+furin chr15:91311822-91526688: 14 chunks -> 1 ranges, ~220 KB
+furin: 914 common biallelic SNVs saved
+mme chr3:154641913-155001497: 23 chunks -> 1 ranges, ~263 KB
+mme: 1160 common biallelic SNVs saved
+dpp4 chr2:162748751-163031052: 18 chunks -> 1 ranges, ~211 KB
+dpp4: 787 common biallelic SNVs saved
+npr2 chr9:35692151-35909729: 14 chunks -> 1 ranges, ~175 KB
+npr2: 517 common biallelic SNVs saved
+EUR samples: 503
+corin: 1444 target variants in chr4:47496015-47940123
+downloading chr4 tbi ...
+  31 chunks -> 2 ranges, ~2.6 MB
+  VCF samples: 2504, EUR matched: 503
+  corin: matched 1442 variants with EUR dosages
+  computing LD 1442x1442 ...
+    row 200/1442 (9s)
+    row 400/1442 (16s)
+    row 600/1442 (22s)
+    row 800/1442 (26s)
+    row 1000/1442 (30s)
+    row 1200/1442 (32s)
+    row 1400/1442 (33s)
+  corin: LD matrix saved (1442 variants)
+furin: 914 target variants in chr15:91311822-91526688
+downloading chr15 tbi ...
+  22 chunks -> 8 ranges, ~2.0 MB
+  VCF samples: 2504, EUR matched: 503
+  furin: matched 887 variants with EUR dosages
+  computing LD 887x887 ...
+    row 200/887 (5s)
+    row 400/887 (9s)
+    row 600/887 (11s)
+    row 800/887 (12s)
+  furin: LD matrix saved (887 variants)
+mme: 1160 target variants in chr3:154641913-155001497
+downloading chr3 tbi ...
+  40 chunks -> 8 ranges, ~2.5 MB
+  VCF samples: 2504, EUR matched: 503
+  mme: matched 1159 variants with EUR dosages
+  computing LD 1159x1159 ...
+    row 200/1159 (7s)
+    row 400/1159 (12s)
+    row 600/1159 (17s)
+    row 800/1159 (19s)
+    row 1000/1159 (21s)
+  mme: LD matrix saved (1159 variants)
+dpp4: 787 target variants in chr2:162748751-163031052
+downloading chr2 tbi ...
+  24 chunks -> 6 ranges, ~1.8 MB
+  VCF samples: 2504, EUR matched: 503
+  dpp4: matched 786 variants with EUR dosages
+  computing LD 786x786 ...
+    row 200/786 (4s)
+    row 400/786 (7s)
+    row 600/786 (9s)
+  dpp4: LD matrix saved (786 variants)
+npr2: 517 target variants in chr9:35692151-35909729
+downloading chr9 tbi ...
+  17 chunks -> 3 ranges, ~1.2 MB
+  VCF samples: 2504, EUR matched: 503
+  npr2: matched 517 variants with EUR dosages
+  computing LD 517x517 ...
+    row 200/517 (3s)
+    row 400/517 (4s)
+  npr2: LD matrix saved (517 variants)
+DONE

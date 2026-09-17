@@ -1,0 +1,10 @@
+﻿dataset_A,dataset_B,overlap_assessment
+ieu-a-7 (C4D),ieu-a-7 (C4D),—
+vdH CAD (UKB+C4D),ieu-a-7 (C4D),高：vdH 纳入全部 C4D 样本
+vdH CAD (UKB+C4D),ieu-a-798 (UKB MI),高：共享 UKB 病例
+GeneBANK (REGENIE/UKB),ieu-a-798 (UKB MI),高：同为 UKB 主体
+GeneBANK (REGENIE/UKB),vdH CAD (UKB+C4D),高：共享 UKB
+GeneBANK (REGENIE/UKB),ieu-a-7 (C4D),低-无
+Hartiala MI,C4D 家族,低：独立 MI 联盟（deCODE 等为主）
+FinnGen CHD/MI,全部其他,无（芬兰孤立人群）
+HERMES HF,UKB 家族,中：HERMES 含 UKB+FinnGen 等 47 队列

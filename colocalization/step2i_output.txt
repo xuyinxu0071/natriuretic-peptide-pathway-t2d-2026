@@ -1,0 +1,6 @@
+﻿tbi references: 24 | first 5: ['1', '2', '3', '4', '5']
+chr1 11405974-12405974: 62 chunks -> 1 ranges, ~718 KB
+chr1: 4085 common biallelic SNVs saved -> nppa_locus_variants.json
+chr5 32214270-33214270: 62 chunks -> 1 ranges, ~661 KB
+chr5: 3622 common biallelic SNVs saved -> npr3_locus_variants.json
+DONE

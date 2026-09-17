@@ -1,0 +1,2 @@
+nppa_locus_variants: 4086, pos 11406323-12405180
+npr3_locus_variants: 3623, pos 32214276-33214241

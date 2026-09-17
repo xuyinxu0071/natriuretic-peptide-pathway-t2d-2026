@@ -1,0 +1,13 @@
+﻿python.exe : Traceback (most recent call last):
+所在位置 行:445 字符: 306
++ ... _analysis"; & "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.1 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last) 
+   ::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis
+\step4_harmonize.py", line 90, in <module>
+    log = open(os.path.join(WORK, "step4_output.txt"), "w", encoding="utf-8")
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\xuyin\\WorkBuddy\\20
+26-09-11-14-07-58\\CD鐗瑰垔閫夐璇勪及\\coloc_analysis\\step4_output.txt'

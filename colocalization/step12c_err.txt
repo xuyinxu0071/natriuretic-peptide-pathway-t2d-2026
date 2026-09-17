@@ -1,0 +1,13 @@
+﻿python.exe : Traceback (most recent call last):
+所在位置 行:445 字符: 1
++ & "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\python. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last) 
+   ::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis
+\step12c_reverse_mr.py", line 217, in <module>
+    p(f(f"\n[{label} -> {olabel}]"))
+      ^
+NameError: name 'f' is not defined. Did you mean: 'F'?

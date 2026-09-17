@@ -1,0 +1,173 @@
+﻿batch-1000 probe: OK 3
+
+=== nppa locus: 4086 variants x 7 datasets ===
+  [eqtl-a-ENSG00000175206] pulling ...
+    640/4086 (have 470)
+    1280/4086 (have 979)
+    1920/4086 (have 1434)
+    2560/4086 (have 1980)
+    3200/4086 (have 2474)
+    3840/4086 (have 2933)
+  eqtl-a-ENSG00000175206: 3121 variants saved
+  [ieu-a-7] pulling ...
+    640/4086 (have 311)
+    1280/4086 (have 678)
+    1920/4086 (have 1036)
+    2560/4086 (have 1504)
+    3200/4086 (have 1770)
+    3840/4086 (have 2111)
+  ieu-a-7: 2277 variants saved
+  [ebi-a-GCST005195] pulling ...
+    640/4086 (have 305)
+    1280/4086 (have 653)
+    1920/4086 (have 999)
+    2560/4086 (have 1439)
+    3200/4086 (have 1690)
+    3840/4086 (have 2018)
+  ebi-a-GCST005195: 2183 variants saved
+  [ebi-a-GCST006061] pulling ...
+    640/4086 (have 533)
+    1280/4086 (have 1050)
+    1920/4086 (have 1544)
+    2560/4086 (have 2115)
+    3200/4086 (have 2534)
+    3840/4086 (have 2999)
+  ebi-a-GCST006061: 3192 variants saved
+  [ebi-a-GCST009541] pulling ...
+    640/4086 (have 308)
+    1280/4086 (have 660)
+    1920/4086 (have 1015)
+    2560/4086 (have 1473)
+  [HTTP 502] <html>
+
+<head><title>502 Bad Gateway</title></head>
+
+<body>
+
+<center><h1>502 Bad Gateway</h1></center>
+
+<hr><center>openresty</center>
+
+</body>
+
+</html>
+
+
+    batch at 2752 FAILED 鈥?aborting dataset
+  ebi-a-GCST009541: FAILED
+  [ebi-a-GCST005838] pulling ...
+    640/4086 (have 308)
+    1280/4086 (have 649)
+    1920/4086 (have 995)
+    2560/4086 (have 1450)
+    3200/4086 (have 1701)
+    3840/4086 (have 2034)
+  ebi-a-GCST005838: 2158 variants saved
+  [ebi-a-GCST006910] pulling ...
+  [HTTP 502] <html>
+
+<head><title>502 Bad Gateway</title></head>
+
+<body>
+
+<center><h1>502 Bad Gateway</h1></center>
+
+<hr><center>openresty</center>
+
+</body>
+
+</html>
+
+
+    batch at 448 FAILED 鈥?aborting dataset
+  ebi-a-GCST006910: FAILED
+
+=== npr3 locus: 3623 variants x 6 datasets ===
+  [eqtl-a-ENSG00000113389] pulling ...
+    640/3623 (have 435)
+    1280/3623 (have 949)
+  [HTTP 401] {"message": "Unknown error."}
+
+    batch at 1792 FAILED 鈥?aborting dataset
+  eqtl-a-ENSG00000113389: FAILED
+  [ieu-b-38] pulling ...
+    640/3623 (have 363)
+    1280/3623 (have 743)
+    1920/3623 (have 1090)
+    2560/3623 (have 1466)
+    3200/3623 (have 1806)
+  ieu-b-38: 2033 variants saved
+  [ieu-a-7] pulling ...
+    640/3623 (have 379)
+    1280/3623 (have 807)
+    1920/3623 (have 1177)
+    2560/3623 (have 1555)
+  [HTTP 502] <html>
+
+<head><title>502 Bad Gateway</title></head>
+
+<body>
+
+<center><h1>502 Bad Gateway</h1></center>
+
+<hr><center>openresty</center>
+
+</body>
+
+</html>
+
+
+    batch at 2624 FAILED 鈥?aborting dataset
+  ieu-a-7: FAILED
+  [ebi-a-GCST005195] pulling ...
+    640/3623 (have 370)
+    1280/3623 (have 783)
+    1920/3623 (have 1150)
+    2560/3623 (have 1533)
+    3200/3623 (have 1907)
+  ebi-a-GCST005195: 2167 variants saved
+  [ebi-a-GCST011364] pulling ...
+    640/3623 (have 391)
+    1280/3623 (have 834)
+  [HTTP 502] <html>
+
+<head><title>502 Bad Gateway</title></head>
+
+<body>
+
+<center><h1>502 Bad Gateway</h1></center>
+
+<hr><center>openresty</center>
+
+</body>
+
+</html>
+
+
+    batch at 1344 FAILED 鈥?aborting dataset
+  ebi-a-GCST011364: FAILED
+  [finn-b-I9_MI] pulling ...
+    640/3623 (have 365)
+    1280/3623 (have 789)
+    1920/3623 (have 1166)
+    2560/3623 (have 1562)
+    3200/3623 (have 1968)
+  [HTTP 502] <html>
+
+<head><title>502 Bad Gateway</title></head>
+
+<body>
+
+<center><h1>502 Bad Gateway</h1></center>
+
+<hr><center>openresty</center>
+
+</body>
+
+</html>
+
+
+    batch at 3328 FAILED 鈥?aborting dataset
+  finn-b-I9_MI: FAILED
+
+ALL DONE

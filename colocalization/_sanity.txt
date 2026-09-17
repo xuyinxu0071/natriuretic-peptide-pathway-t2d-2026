@@ -1,0 +1,18 @@
+n= 2 x=  5.0  pchisqsum=0.083163  chi2_sf=0.082085  reldiff=1.31e-02
+n= 2 x= 15.0  pchisqsum=0.000569  chi2_sf=0.000553  reldiff=2.96e-02
+n= 2 x= 40.0  pchisqsum=0.000000  chi2_sf=0.000000  reldiff=4.62e-02
+n= 5 x=  5.0  pchisqsum=0.415880  chi2_sf=0.415880  reldiff=0.00e+00
+n= 5 x= 15.0  pchisqsum=0.010426  chi2_sf=0.010362  reldiff=6.13e-03
+n= 5 x= 40.0  pchisqsum=0.000000  chi2_sf=0.000000  reldiff=1.25e-02
+n=10 x=  5.0  pchisqsum=0.891254  chi2_sf=0.891178  reldiff=8.51e-05
+n=10 x= 15.0  pchisqsum=0.132223  chi2_sf=0.132062  reldiff=1.22e-03
+n=10 x= 40.0  pchisqsum=0.000017  chi2_sf=0.000017  reldiff=3.84e-03
+n=19 x=  5.0  pchisqsum=0.999431  chi2_sf=0.999431  reldiff=1.44e-07
+n=19 x= 15.0  pchisqsum=0.722675  chi2_sf=0.722597  reldiff=1.08e-04
+n=19 x= 40.0  pchisqsum=0.003276  chi2_sf=0.003272  reldiff=9.74e-04
+chi2_sf(3.841,1)=0.050000 (expect 0.05)
+chi2_sf(10,1)=0.0015654 (expect 1.565e-3)
+chi_val(1,1.5654e-3)=10.000003 (expect ~10.01)
+chi2_sf(5.991,2)=0.050000 (expect 0.05)
+pnorm_upper(1.959964)=0.025000 (expect 0.025)
+hand SMR SCALLOP-AF rs198389: b=0.039114 se=0.034994 (expect 0.039114/0.034994)

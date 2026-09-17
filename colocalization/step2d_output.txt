@@ -1,0 +1,12 @@
+﻿ranges: [[6330257, 6786166], [8403599, 8473599]]
+range 6330257-6786166: raw 455910 -> decompressed 3629616
+  data lines: 25824
+  pos range: 1222 - 12225374
+  in window 11700000-12100000: 13678
+  sample line: 1	11904742	.	G	A	100	PASS	AC=116;AF=0.0231629;AN=5008;NS=2504;DP=22051;EAS_AF=0.004;AMR_AF=0.0058;AFR_AF=0.0794;EUR_AF=0.001;SAS_AF=0.002;AA=G|||;VT=SNP
+  has EUR_AF: True
+  in-window with rsID: 0
+range 8403599-8473599: raw 70001 -> decompressed 561070
+  data lines: 3991
+  pos range: 15723580 - 15839308
+  in window 11700000-12100000: 0

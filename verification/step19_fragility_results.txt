@@ -1,0 +1,23 @@
+
+=== H1 HRS controlled: lnNT-proBNP -> all-cause death ===
+  n=510, events=98, baseline p=0.01369
+  flip  1: 37636010 -> p=0.03002
+  flip  2: 83181010 -> p=0.05912
+  FI = 2 (p reached 0.05912 after 2 flips of 98 events)
+
+=== H2 HRS CVD-free controlled: lnNT-proBNP -> incident CVD ===
+  n=330, events=63, baseline p=0.006995
+  flip  1: 524560020 -> p=0.01589
+  flip  2: 17136010 -> p=0.03182
+  flip  3: 50152030 -> p=0.05964
+  FI = 3 (p reached 0.05964 after 3 flips of 63 events)
+
+=== H3 CHARLS controlled CVD-free: lnhsCRP -> incident CVD ===
+  n=361, events=106, baseline p=0.03821
+  flip  1: 060440105003 -> p=0.08094
+  FI = 1 (p reached 0.08094 after 1 flips of 106 events)
+
+================ SUMMARY ================
+H1_HRS_death             FI=2    baseline p=0.01369 -> final p=0.05912
+H2_HRS_incidentCVD       FI=3    baseline p=0.006995 -> final p=0.05964
+H3_CHARLS_incidentCVD    FI=1    baseline p=0.03821 -> final p=0.08094

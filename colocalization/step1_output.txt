@@ -1,0 +1,32 @@
+﻿chr1: downloading https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.sites.vcf.gz ...
+python.exe : Traceback (most recent call last):
+所在位置 行:445 字符: 1
++ & "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\python. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis\step1_1000g_variants.py", line 36, in <
+module>
+    path = download(chrnum)
+  File "C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis\step1_1000g_variants.py", line 20, in d
+ownload
+    data = urllib.request.urlopen(url, timeout=600).read()
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\Lib\urllib\request.py", line 613, in http_error_defa
+ult
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found

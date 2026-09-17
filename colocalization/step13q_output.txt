@@ -1,0 +1,170 @@
+SMR & HEIDI — in-house Python port of official SMR v1.4.2 source code
+Reference: Zhu et al. 2016 Nat Genet 48:481-487 (doi:10.1038/ng.3538)
+Implementation: faithful port of JianYang-Lab/SMR v1.4.2 (GPL-3.0)
+Reason: prebuilt Windows binary unavailable (1.3.1 access-violation crash;
+        1.4.2 no Windows build; WSL blocked by security policy)
+
+Parameters (SMR 1.4.2 defaults):
+  peqtl-smr=5e-08  peqtl-heidi=0.0015654 (thresh chi2=10)  ld-prune=0.9  ld-min=0.05
+  m-hetero=3  opt-hetero=20  MAX_NUM_LD=500  diff-freq=0.2  new-heidi-mth=TRUE
+  sample-overlap correction: OFF (default)
+LD reference: 1000 Genomes EUR (phase3 v5b), +/-100kb cis region
+
+====================================================================================================
+Exposure: SCALLOP     Outcome: AF          Locus: NPPA
+  eQTL/pQTL SNPs=612  GWAS SNPs=772  merged & allele-matched=581 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2122  se_exp=0.0158  z=13.43  p_eQTL=4.01e-41
+  SMR test: b_SMR=0.039114  se_SMR=0.034994  chi2=1.249  p_SMR=0.2637
+  HEIDI (new method): p_HEIDI=0.3436  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: CAD_cardio  Locus: NPPA
+  eQTL/pQTL SNPs=612  GWAS SNPs=604  merged & allele-matched=602 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2122  se_exp=0.0158  z=13.43  p_eQTL=4.01e-41
+  SMR test: b_SMR=0.015019  se_SMR=0.04561  chi2=0.108  p_SMR=0.7419
+  HEIDI (new method): p_HEIDI=0.07773  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: CAD_vdh     Locus: NPPA
+  eQTL/pQTL SNPs=612  GWAS SNPs=571  merged & allele-matched=571 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2122  se_exp=0.0158  z=13.43  p_eQTL=4.01e-41
+  SMR test: b_SMR=-0.036091  se_SMR=0.03352  chi2=1.159  p_SMR=0.2816
+  HEIDI (new method): p_HEIDI=0.2181  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: CES         Locus: NPPA
+  eQTL/pQTL SNPs=612  GWAS SNPs=593  merged & allele-matched=593 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2122  se_exp=0.0158  z=13.43  p_eQTL=4.01e-41
+  SMR test: b_SMR=0.059378  se_SMR=0.092471  chi2=0.412  p_SMR=0.5208
+  HEIDI (new method): p_HEIDI=0.3471  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: HF          Locus: NPPA
+  eQTL/pQTL SNPs=612  GWAS SNPs=592  merged & allele-matched=592 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2122  se_exp=0.0158  z=13.43  p_eQTL=4.01e-41
+  SMR test: b_SMR=-0.0070688  se_SMR=0.037704  chi2=0.035  p_SMR=0.8513
+  HEIDI (new method): p_HEIDI=0.334  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: stroke      Locus: NPPA
+  eQTL/pQTL SNPs=612  GWAS SNPs=585  merged & allele-matched=585 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2122  se_exp=0.0158  z=13.43  p_eQTL=4.01e-41
+  SMR test: b_SMR=-0.088124  se_SMR=0.040125  chi2=4.823  p_SMR=0.02808
+  HEIDI (new method): p_HEIDI=0.4131  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: AF          Locus: NPPA
+  eQTL/pQTL SNPs=608  GWAS SNPs=772  merged & allele-matched=563 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2934  se_exp=0.0253  z=11.60  p_eQTL=4.28e-31
+  SMR test: b_SMR=0.028289  se_SMR=0.025339  chi2=1.246  p_SMR=0.2642
+  HEIDI (new method): p_HEIDI=0.1724  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: CAD_cardio  Locus: NPPA
+  eQTL/pQTL SNPs=608  GWAS SNPs=604  merged & allele-matched=590 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2934  se_exp=0.0253  z=11.60  p_eQTL=4.28e-31
+  SMR test: b_SMR=0.010862  se_SMR=0.03299  chi2=0.108  p_SMR=0.742
+  HEIDI (new method): p_HEIDI=0.04189  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: CAD_vdh     Locus: NPPA
+  eQTL/pQTL SNPs=608  GWAS SNPs=571  merged & allele-matched=559 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2934  se_exp=0.0253  z=11.60  p_eQTL=4.28e-31
+  SMR test: b_SMR=-0.026102  se_SMR=0.02427  chi2=1.157  p_SMR=0.2821
+  HEIDI (new method): p_HEIDI=0.1973  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: CES         Locus: NPPA
+  eQTL/pQTL SNPs=608  GWAS SNPs=593  merged & allele-matched=582 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2934  se_exp=0.0253  z=11.60  p_eQTL=4.28e-31
+  SMR test: b_SMR=0.042945  se_SMR=0.066906  chi2=0.412  p_SMR=0.521
+  HEIDI (new method): p_HEIDI=0.493  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: HF          Locus: NPPA
+  eQTL/pQTL SNPs=608  GWAS SNPs=592  merged & allele-matched=583 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2934  se_exp=0.0253  z=11.60  p_eQTL=4.28e-31
+  SMR test: b_SMR=-0.0051125  se_SMR=0.02727  chi2=0.035  p_SMR=0.8513
+  HEIDI (new method): p_HEIDI=0.2477  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: stroke      Locus: NPPA
+  eQTL/pQTL SNPs=608  GWAS SNPs=585  merged & allele-matched=578 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198389  b_exp=0.2934  se_exp=0.0253  z=11.60  p_eQTL=4.28e-31
+  SMR test: b_SMR=-0.063736  se_SMR=0.029153  chi2=4.780  p_SMR=0.0288
+  HEIDI (new method): p_HEIDI=0.6041  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: AF          Locus: NPPA
+  eQTL/pQTL SNPs=751  GWAS SNPs=772  merged & allele-matched=707 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198411  b_exp=0.38783  se_exp=0.017578  z=22.06  p_eQTL=7.13e-108
+  SMR test: b_SMR=0.050022  se_SMR=0.027169  chi2=3.390  p_SMR=0.0656
+  HEIDI (new method): p_HEIDI=0.0166  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: CAD_cardio  Locus: NPPA
+  eQTL/pQTL SNPs=751  GWAS SNPs=604  merged & allele-matched=604 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198367  b_exp=0.42106  se_exp=0.017148  z=24.55  p_eQTL=3.9e-133
+  SMR test: b_SMR=-0.021937  se_SMR=0.032449  chi2=0.457  p_SMR=0.499
+  HEIDI (new method): p_HEIDI=0.01713  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: CAD_vdh     Locus: NPPA
+  eQTL/pQTL SNPs=751  GWAS SNPs=571  merged & allele-matched=571 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198411  b_exp=0.38783  se_exp=0.017578  z=22.06  p_eQTL=7.13e-108
+  SMR test: b_SMR=-0.033246  se_SMR=0.025639  chi2=1.681  p_SMR=0.1947
+  HEIDI (new method): p_HEIDI=0.01042  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: CES         Locus: NPPA
+  eQTL/pQTL SNPs=751  GWAS SNPs=593  merged & allele-matched=593 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198367  b_exp=0.42106  se_exp=0.017148  z=24.55  p_eQTL=3.9e-133
+  SMR test: b_SMR=-0.072674  se_SMR=0.067039  chi2=1.175  p_SMR=0.2783
+  HEIDI (new method): p_HEIDI=0.134  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: HF          Locus: NPPA
+  eQTL/pQTL SNPs=751  GWAS SNPs=592  merged & allele-matched=592 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198367  b_exp=0.42106  se_exp=0.017148  z=24.55  p_eQTL=3.9e-133
+  SMR test: b_SMR=0.029924  se_SMR=0.04063  chi2=0.542  p_SMR=0.4614
+  HEIDI (new method): p_HEIDI=0.108  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: stroke      Locus: NPPA
+  eQTL/pQTL SNPs=751  GWAS SNPs=585  merged & allele-matched=585 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs198367  b_exp=0.42106  se_exp=0.017148  z=24.55  p_eQTL=3.9e-133
+  SMR test: b_SMR=-0.073624  se_SMR=0.029602  chi2=6.186  p_SMR=0.01288
+  HEIDI (new method): p_HEIDI=0.4597  nsnp=20
+====================================================================================================
+Exposure: NPR3eQTL    Outcome: CAD_cardio  Locus: NPR3
+  eQTL/pQTL SNPs=501  GWAS SNPs=357  merged & allele-matched=357 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs112133948  b_exp=0.15049  se_exp=0.041876  z=3.59  p_eQTL=0.000326
+  SMR test: b_SMR=0.60762  se_SMR=0.38488  chi2=2.492  p_SMR=0.1144
+  HEIDI (new method): NA (nsnp<3)  [z2>10 SNPs < m_hetero(3)]
+====================================================================================================
+Exposure: NPR3eQTL    Outcome: CAD_vdh     Locus: NPR3
+  eQTL/pQTL SNPs=501  GWAS SNPs=362  merged & allele-matched=362 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs112133948  b_exp=0.15049  se_exp=0.041876  z=3.59  p_eQTL=0.000326
+  SMR test: b_SMR=-0.21637  se_SMR=0.16165  chi2=1.792  p_SMR=0.1807
+  HEIDI (new method): NA (nsnp<3)  [z2>10 SNPs < m_hetero(3)]
+====================================================================================================
+Exposure: NPR3eQTL    Outcome: MI_har      Locus: NPR3
+  eQTL/pQTL SNPs=501  GWAS SNPs=400  merged & allele-matched=393 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs112133948  b_exp=0.15049  se_exp=0.041876  z=3.59  p_eQTL=0.000326
+  SMR test: b_SMR=-0.33497  se_SMR=0.24816  chi2=1.822  p_SMR=0.1771
+  HEIDI (new method): NA (nsnp<3)  [z2>10 SNPs < m_hetero(3)]
+====================================================================================================
+Exposure: NPR3eQTL    Outcome: MI_finn     Locus: NPR3
+  eQTL/pQTL SNPs=501  GWAS SNPs=365  merged & allele-matched=358 (allele-flipped=0, freq-excluded(diff>0.2)=0, not-in-LD-matrix=0)
+  Top cis instrument: rs112133948  b_exp=0.15049  se_exp=0.041876  z=3.59  p_eQTL=0.000326
+  SMR test: b_SMR=-0.16081  se_SMR=0.36096  chi2=0.198  p_SMR=0.6559
+  HEIDI (new method): NA (nsnp<3)  [z2>10 SNPs < m_hetero(3)]
+
+====================================================================================================
+SUMMARY TABLE
+Exposure   Outcome     Locus  topSNP           p_eQTL      p_SMR      b_SMR  p_HEIDI   nsnp
+SCALLOP    AF          nppa   rs198389       4.01e-41      0.264     0.0391    0.344     20
+SCALLOP    CAD_cardio  nppa   rs198389       4.01e-41      0.742      0.015   0.0777     20
+SCALLOP    CAD_vdh     nppa   rs198389       4.01e-41      0.282    -0.0361    0.218     20
+SCALLOP    CES         nppa   rs198389       4.01e-41      0.521     0.0594    0.347     20
+SCALLOP    HF          nppa   rs198389       4.01e-41      0.851   -0.00707    0.334     20
+SCALLOP    stroke      nppa   rs198389       4.01e-41     0.0281    -0.0881    0.413     20
+INTERVAL   AF          nppa   rs198389       4.28e-31      0.264     0.0283    0.172     20
+INTERVAL   CAD_cardio  nppa   rs198389       4.28e-31      0.742     0.0109   0.0419     20
+INTERVAL   CAD_vdh     nppa   rs198389       4.28e-31      0.282    -0.0261    0.197     20
+INTERVAL   CES         nppa   rs198389       4.28e-31      0.521     0.0429    0.493     20
+INTERVAL   HF          nppa   rs198389       4.28e-31      0.851   -0.00511    0.248     20
+INTERVAL   stroke      nppa   rs198389       4.28e-31     0.0288    -0.0637    0.604     20
+NPPAeQTL   AF          nppa   rs198411      7.13e-108     0.0656       0.05   0.0166     20
+NPPAeQTL   CAD_cardio  nppa   rs198367       3.9e-133      0.499    -0.0219   0.0171     20
+NPPAeQTL   CAD_vdh     nppa   rs198411      7.13e-108      0.195    -0.0332   0.0104     20
+NPPAeQTL   CES         nppa   rs198367       3.9e-133      0.278    -0.0727    0.134     20
+NPPAeQTL   HF          nppa   rs198367       3.9e-133      0.461     0.0299    0.108     20
+NPPAeQTL   stroke      nppa   rs198367       3.9e-133     0.0129    -0.0736     0.46     20
+NPR3eQTL   CAD_cardio  npr3   rs112133948    0.000326      0.114      0.608       NA     NA
+NPR3eQTL   CAD_vdh     npr3   rs112133948    0.000326      0.181     -0.216       NA     NA
+NPR3eQTL   MI_har      npr3   rs112133948    0.000326      0.177     -0.335       NA     NA
+NPR3eQTL   MI_finn     npr3   rs112133948    0.000326      0.656     -0.161       NA     NA

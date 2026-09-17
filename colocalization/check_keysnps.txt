@@ -1,0 +1,4 @@
+rs5068: ABSENT -> added manually {'rsid': 'rs5068', 'chrom': '1', 'pos': 11905974, 'ref': 'A', 'alt': 'G', 'af': 0.0589}
+nppa: total 4086 variants
+rs1421811: ABSENT -> added manually {'rsid': 'rs1421811', 'chrom': '5', 'pos': 32714270, 'ref': 'C', 'alt': 'G', 'af': 0.374}
+npr3: total 3623 variants

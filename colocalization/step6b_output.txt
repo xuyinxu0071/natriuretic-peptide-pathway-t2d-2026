@@ -1,0 +1,4 @@
+﻿chunks: 16
+want_ids: 3539
+merged ranges: [[65131548, 65201548], [67280856, 68833481], [87365556, 87435556]] total MB: 1.692625
+{'rows': 8672, 'in_region': 7084, 'with_rsid': 0, 'in_want': 0}

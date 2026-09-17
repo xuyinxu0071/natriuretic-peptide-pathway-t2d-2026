@@ -1,0 +1,8 @@
+﻿      FileNotFoundError: [WinError 2] 缁崵绮洪幍鍙ョ瑝閸掔増瀵氱€规氨娈戦弬鍥︽閵哱x82
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+ERROR: Failed to build 'tiledbsoma' when getting requirements to build wheel
+Name: cellxgene-census
+Version: 1.18.0
+Summary: API to facilitate the use of the CZ CELLxGENE Discover Census. For more information about the API and the project visit https://github.com/chanzuckerberg/cellxgene-census/

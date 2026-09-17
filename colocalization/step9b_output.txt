@@ -1,0 +1,65 @@
+nppa_pqtl_cad_vdh: exp 2052 / out 1949 -> shared 1921
+nppa_pqtl_cad_cardio: exp 2052 / out 2028 -> shared 1997
+nppa_pqtl_af: exp 2052 / out 2841 -> shared 1965
+nppa_pqtl_hf: exp 2052 / out 1959 -> shared 1939
+nppa_pqtl_stroke: exp 2052 / out 1926 -> shared 1904
+nppa_pqtl_ces: exp 2052 / out 1974 -> shared 1971
+nppa_pqtlr_cad_vdh: exp 2059 / out 1949 -> shared 1887
+nppa_pqtlr_cad_cardio: exp 2059 / out 2028 -> shared 1962
+nppa_pqtlr_af: exp 2059 / out 2841 -> shared 1919
+nppa_pqtlr_hf: exp 2059 / out 1959 -> shared 1897
+nppa_pqtlr_stroke: exp 2059 / out 1926 -> shared 1866
+nppa_pqtlr_ces: exp 2059 / out 1974 -> shared 1946
+nppa_anp_cad_vdh: exp 2059 / out 1949 -> shared 1887
+nppa_anp_cad_cardio: exp 2059 / out 2028 -> shared 1962
+nppa_anp_af: exp 2059 / out 2841 -> shared 1919
+nppa_anp_hf: exp 2059 / out 1959 -> shared 1897
+nppa_anp_stroke: exp 2059 / out 1926 -> shared 1866
+nppa_anp_ces: exp 2059 / out 1974 -> shared 1946
+
+=== rs5068 / rs5066 直接查表 (协调到 alt 方向) ===
+  NT-proBNP pQTL (SCALLOP, EUR)       rs5068    beta=+0.1452 se=0.0338 z=+4.30 eaf=0.0591 ea=G
+  NT-proBNP pQTL (SCALLOP, EUR)       rs5066    beta=+0.0333 se=0.0356 z=+0.94 eaf=0.051 ea=A
+  NT-proBNP pQTL (SCALLOP, EUR)       rs198411  beta=+0.0616 se=0.0239 z=+2.58 eaf=0.1217 ea=T
+  NT-proBNP pQTL (SCALLOP, EUR)       rs1421811 -- 不在协调后集合
+  NT-proBNP pQTL (SomaLogic, EUR)     rs5068    beta=+0.1673 se=0.0564 z=+2.97 eaf=0.055 ea=G
+  NT-proBNP pQTL (SomaLogic, EUR)     rs5066    beta=+0.3068 se=0.0495 z=+6.20 eaf=0.0663 ea=A
+  NT-proBNP pQTL (SomaLogic, EUR)     rs198411  beta=+0.1822 se=0.0346 z=+5.27 eaf=0.1407 ea=T
+  NT-proBNP pQTL (SomaLogic, EUR)     rs1421811 -- 不在协调后集合
+  ANP pQTL (SomaLogic, EUR)           rs5068    beta=+0.1238 se=0.0565 z=+2.19 eaf=0.055 ea=G
+  ANP pQTL (SomaLogic, EUR)           rs5066    beta=+0.0112 se=0.0498 z=+0.22 eaf=0.0663 ea=A
+  ANP pQTL (SomaLogic, EUR)           rs198411  beta=-0.0462 se=0.0347 z=-1.33 eaf=0.1407 ea=T
+  ANP pQTL (SomaLogic, EUR)           rs1421811 -- 不在协调后集合
+  CAD (BBJ, EA)                       rs5068    -- 不在协调后集合
+  CAD (BBJ, EA)                       rs5066    beta=-0.0421 se=0.0553 z=-0.76 eaf=0.0074 ea=A
+  CAD (BBJ, EA)                       rs198411  beta=-0.0702 se=0.0461 z=-1.53 eaf=0.0105 ea=T
+  CAD (BBJ, EA)                       rs1421811 -- 不在协调后集合
+  CHF (BBJ, EA)                       rs5068    -- 不在协调后集合
+  CHF (BBJ, EA)                       rs5066    beta=-0.0309 se=0.0886 z=-0.35 eaf=0.0074 ea=A
+  CHF (BBJ, EA)                       rs198411  beta=-0.0394 se=0.0737 z=-0.53 eaf=0.0105 ea=T
+  CHF (BBJ, EA)                       rs1421811 -- 不在协调后集合
+  Ischemic stroke (BBJ, EA)           rs5068    -- 不在协调后集合
+  Ischemic stroke (BBJ, EA)           rs5066    beta=-0.0481 se=0.0674 z=-0.71 eaf=0.0074 ea=A
+  Ischemic stroke (BBJ, EA)           rs198411  beta=-0.0623 se=0.0562 z=-1.11 eaf=0.0105 ea=T
+  Ischemic stroke (BBJ, EA)           rs1421811 -- 不在协调后集合
+  AF (BBJ, EA)                        rs5068    -- 不在协调后集合
+  AF (BBJ, EA)                        rs5066    -- 不在协调后集合
+  AF (BBJ, EA)                        rs198411  -- 不在协调后集合
+  AF (BBJ, EA)                        rs1421811 -- 不在协调后集合
+  NPPA eQTL (eQTLGen, EUR)            rs5068    beta=+0.1081 se=0.0253 z=+4.28 eaf=0.0589 ea=G
+  NPPA eQTL (eQTLGen, EUR)            rs5066    beta=+0.3577 se=0.0262 z=+13.67 eaf=0.0539 ea=A
+  NPPA eQTL (eQTLGen, EUR)            rs198411  beta=+0.3878 se=0.0176 z=+22.06 eaf=0.1269 ea=T
+  NPPA eQTL (eQTLGen, EUR)            rs1421811 -- 不在协调后集合
+  CAD (van der Harst, EUR)            rs5068    beta=-0.0382 se=0.0155 z=-2.46 eaf=0.0589 ea=G
+  CAD (van der Harst, EUR)            rs5066    beta=-0.0409 se=0.0144 z=-2.83 eaf=0.0222 ea=A
+  CAD (van der Harst, EUR)            rs198411  beta=-0.0129 se=0.0099 z=-1.30 eaf=0.1619 ea=T
+  CAD (van der Harst, EUR)            rs1421811 -- 不在协调后集合
+  HF (HERMES, EUR)                    rs5068    beta=+0.0267 se=0.0174 z=+1.53 eaf=0.0589 ea=G
+  HF (HERMES, EUR)                    rs5066    beta=+0.0187 se=0.0169 z=+1.11 eaf=0.0222 ea=A
+  HF (HERMES, EUR)                    rs198411  beta=-0.0075 se=0.0117 z=-0.64 eaf=0.1619 ea=T
+  HF (HERMES, EUR)                    rs1421811 -- 不在协调后集合
+  Stroke (MEGASTROKE, EUR)            rs5068    beta=-0.0153 se=0.0194 z=-0.79 eaf=0.0541 ea=G
+  Stroke (MEGASTROKE, EUR)            rs5066    beta=-0.0069 se=0.0194 z=-0.36 eaf=0.0578 ea=A
+  Stroke (MEGASTROKE, EUR)            rs198411  beta=-0.0243 se=0.0121 z=-2.01 eaf=0.1684 ea=T
+  Stroke (MEGASTROKE, EUR)            rs1421811 -- 不在协调后集合
+DONE

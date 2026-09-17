@@ -1,0 +1,17 @@
+﻿python.exe : Traceback (most recent call last):
+所在位置 行:445 字符: 1
++ & "C:\Users\xuyin\.workbuddy\binaries\python\versions\3.13.12\python. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last) 
+   ::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis
+\step13b_make_inputs.py", line 137, in <module>
+    refs = parse_tbi(tbi)
+  File "C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD鐗瑰垔閫夐璇勪及\coloc_analysis
+\step13b_make_inputs.py", line 72, in parse_tbi
+    raw = gzip.open(path, "rb").read()
+          ^^^^
+NameError: name 'gzip' is not defined. Did you mean: 'zip'? Or did you forget t
+o import 'gzip'?

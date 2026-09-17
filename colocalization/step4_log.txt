@@ -1,0 +1,15 @@
+nppa_eqtl_cad_vdh: exposure 2786 / outcome 1949 -> shared 1923 SNPs
+nppa_eqtl_cad_cardio: exposure 2786 / outcome 2028 -> shared 2005 SNPs
+nppa_eqtl_af: exposure 2786 / outcome 2841 -> shared 2480 SNPs
+nppa_eqtl_hf: exposure 2786 / outcome 1959 -> shared 1931 SNPs
+nppa_eqtl_stroke: exposure 2786 / outcome 1926 -> shared 1900 SNPs
+nppa_eqtl_ces: exposure 2786 / outcome 1974 -> shared 1974 SNPs
+npr3_eqtl_cad_vdh: exposure 2405 / outcome 1880 -> shared 1879 SNPs
+npr3_eqtl_cad_cardio: exposure 2405 / outcome 1909 -> shared 1906 SNPs
+npr3_eqtl_mi_har: exposure 2405 / outcome 2033 -> shared 1979 SNPs
+npr3_eqtl_mi_finn: exposure 2405 / outcome 1938 -> shared 1902 SNPs
+npr3_sbp_cad_vdh: exposure 1650 / outcome 1880 -> shared 1650 SNPs
+npr3_sbp_cad_cardio: exposure 1650 / outcome 1909 -> shared 1625 SNPs
+npr3_sbp_mi_har: exposure 1650 / outcome 2033 -> shared 1650 SNPs
+npr3_sbp_mi_finn: exposure 1650 / outcome 1938 -> shared 1610 SNPs
+DONE

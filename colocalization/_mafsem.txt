@@ -1,0 +1,20 @@
+matched rsids: 399
+ac/an == maf col: 377
+ac/an == ALT-af(outcome): 65
+gtex maf == ALT-af: 63 ; gtex maf == 1-ALTaf: 2
+sample rows (rsid, gtex_maf, ac/an, ALT-af):
+  rs13306560 maf=0.0497 ac/an=0.0497 altaf=0.0188
+  rs111334345 maf=0.0323 ac/an=0.0323 altaf=0.0112
+  rs3737965 maf=0.0444 ac/an=0.0444 altaf=0.0647
+  rs56221660 maf=0.0887 ac/an=0.0887 altaf=0.1078
+  rs17037420 maf=0.0134 ac/an=0.0134 altaf=0.0301
+  rs76351797 maf=0.0323 ac/an=0.0323 altaf=0.0106
+  rs55814225 maf=0.0887 ac/an=0.0887 altaf=0.1074
+  rs6697335 maf=0.0887 ac/an=0.0887 altaf=0.1076
+  rs6691440 maf=0.0887 ac/an=0.0887 altaf=0.1080
+  rs6699827 maf=0.0887 ac/an=0.0887 altaf=0.1080
+  rs4846054 maf=0.3884 ac/an=0.6116 altaf=0.6038
+  rs75800607 maf=0.0457 ac/an=0.0457 altaf=0.0437
+  rs114540413 maf=0.0887 ac/an=0.0887 altaf=0.1076
+  rs145641960 maf=0.0887 ac/an=0.0887 altaf=0.1074
+  rs72640244 maf=0.0887 ac/an=0.0887 altaf=0.1078

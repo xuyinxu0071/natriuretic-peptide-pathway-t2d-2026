@@ -1,0 +1,11 @@
+eqtl-a-ENSG00000175206 | ENSG00000175206 | n=25784 ncase=None nctrl=None | build=HG19/GRCh37 | trait=ENSG00000175206
+eqtl-a-ENSG00000113389 | ENSG00000113389 | n=30765 ncase=None nctrl=None | build=HG19/GRCh37 | trait=ENSG00000113389
+ieu-a-7 | Coronary heart disease | n=184305 ncase=60801 nctrl=123504 | build=HG19/GRCh37 | trait=Coronary heart disease
+ebi-a-GCST005195 | Coronary artery disease | n=547261 ncase=122733 nctrl=424528 | build=HG19/GRCh37 | trait=Coronary artery disease
+ebi-a-GCST006061 | Atrial fibrillation | n=537409 ncase=55114 nctrl=482295 | build=HG19/GRCh37 | trait=Atrial fibrillation
+ebi-a-GCST009541 | Heart failure | n=977323 ncase=47309 nctrl=930014 | build=HG19/GRCh37 | trait=Heart failure
+ebi-a-GCST005838 | Stroke | n=446696 ncase=40585 nctrl=406111 | build=HG19/GRCh37 | trait=Stroke
+ebi-a-GCST006910 | Ischemic stroke (cardioembolic) | n=211763 ncase=7193 nctrl=406111 | build=HG19/GRCh37 | trait=Ischemic stroke (cardioembolic)
+ebi-a-GCST011364 | Myocardial infarction | n=471717 ncase=17505 nctrl=454212 | build=HG19/GRCh37 | trait=Myocardial infarction
+finn-b-I9_MI | Myocardial infarction | n=None ncase=12801 nctrl=187840 | build=HG19/GRCh37 | trait=Myocardial infarction
+ieu-b-38 | systolic blood pressure | n=757601 ncase=None nctrl=None | build=HG19/GRCh37 | trait=systolic blood pressure

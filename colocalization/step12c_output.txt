@@ -1,0 +1,100 @@
+
+[AF (Nielsen 2018) -> NT-proBNP (SCALLOP Olink, n=21,758)]
+  IV: 拉取 104 -> 排除 MHC/位点后 103 -> 协调后 k=90 (丢弃 {'palindromic_or_allele': 12, 'no_outcome_assoc': 1})
+  mean F = 81.1, min F = 29.7
+  IVW 固定:  beta=+0.0237 (se 0.0286), z=+0.83, p=0.41
+  IVW 随机:  beta=+0.0238 (se 0.0380), z=+0.63, p=0.53, tau2=0.03564
+  加权中位数: beta=-0.0016 [boot95CI -0.0664, +0.0815]
+  异质性 Q=131.5 (df=89), p=0.0023
+  MR-Egger: 截距=-0.0003 (p=0.92); 斜率=+0.0275 (se 0.0363)
+  Wald 符号一致率: 51%
+
+[CAD (CARDIoGRAMplusC4D) -> NT-proBNP (SCALLOP Olink, n=21,758)]
+  IV: 拉取 41 -> 排除 MHC/位点后 41 -> 协调后 k=38 (丢弃 {'palindromic_or_allele': 3, 'no_outcome_assoc': 0})
+  mean F = 62.5, min F = 29.9
+  IVW 固定:  beta=+0.0654 (se 0.0344), z=+1.90, p=0.057
+  IVW 随机:  beta=+0.0605 (se 0.0357), z=+1.69, p=0.09, tau2=0.00160
+  加权中位数: beta=+0.0559 [boot95CI +0.0073, +0.2177]
+  异质性 Q=38.3 (df=37), p=0.412
+  MR-Egger: 截距=-0.0005 (p=0.891); 斜率=+0.0680 (se 0.0414)
+  Wald 符号一致率: 61%
+
+[CAD (van der Harst 2018) -> NT-proBNP (SCALLOP Olink, n=21,758)]
+  IV: 拉取 75 -> 排除 MHC/位点后 74 -> 协调后 k=60 (丢弃 {'palindromic_or_allele': 14, 'no_outcome_assoc': 0})
+  mean F = 73.9, min F = 29.8
+  IVW 固定:  beta=+0.0449 (se 0.0349), z=+1.29, p=0.2
+  IVW 随机:  beta=+0.0449 (se 0.0349), z=+1.29, p=0.2, tau2=0.00000
+  加权中位数: beta=+0.0397 [boot95CI -0.0775, +0.1912]
+  异质性 Q=51.5 (df=59), p=0.744
+  MR-Egger: 截距=+0.0029 (p=0.274); 斜率=+0.0344 (se 0.0352)
+  Wald 符号一致率: 48%
+
+[MI (Hartiala 2021) -> NT-proBNP (SCALLOP Olink, n=21,758)]
+  IV: 拉取 34 -> 排除 MHC/位点后 34 -> 协调后 k=25 (丢弃 {'palindromic_or_allele': 5, 'no_outcome_assoc': 4})
+  mean F = 65.4, min F = 30.2
+  IVW 固定:  beta=+0.0345 (se 0.0375), z=+0.92, p=0.36
+  IVW 随机:  beta=+0.0245 (se 0.0418), z=+0.59, p=0.56, tau2=0.00440
+  加权中位数: beta=+0.0742 [boot95CI -0.0467, +0.2237]
+  异质性 Q=26.8 (df=24), p=0.312
+  MR-Egger: 截距=+0.0055 (p=0.266); 斜率=+0.0130 (se 0.0442)
+  Wald 符号一致率: 56%
+
+[HF (HERMES) -> NT-proBNP (SCALLOP Olink, n=21,758)]
+  IV: 拉取 12 -> 排除 MHC/位点后 12 -> 协调后 k=10 (丢弃 {'palindromic_or_allele': 2, 'no_outcome_assoc': 0})
+  mean F = 43.1, min F = 30.9
+  IVW 固定:  beta=+0.2242 (se 0.1083), z=+2.07, p=0.039
+  IVW 随机:  beta=+0.1969 (se 0.1872), z=+1.05, p=0.29, tau2=0.22161
+  加权中位数: beta=+0.2093 [boot95CI +0.0982, +0.6533]
+  异质性 Q=25.7 (df=9), p=0.00227
+  MR-Egger: 截距=+0.0107 (p=0.439); 斜率=+0.1503 (se 0.2141)
+  Wald 符号一致率: 80%
+
+[AF (Nielsen 2018) -> NT-proBNP (INTERVAL SomaLogic, n=3,301)]
+  IV: 拉取 104 -> 排除 MHC/位点后 103 -> 协调后 k=91 (丢弃 {'palindromic_or_allele': 12, 'no_outcome_assoc': 0})
+  mean F = 80.6, min F = 29.7
+  IVW 固定:  beta=+0.0359 (se 0.0408), z=+0.88, p=0.38
+  IVW 随机:  beta=+0.0452 (se 0.0491), z=+0.92, p=0.36, tau2=0.04087
+  加权中位数: beta=+0.0811 [boot95CI -0.1156, +0.1171]
+  异质性 Q=114.0 (df=90), p=0.0449
+  MR-Egger: 截距=+0.0013 (p=0.723); 斜率=+0.0367 (se 0.0473)
+  Wald 符号一致率: 41%
+
+[CAD (CARDIoGRAMplusC4D) -> NT-proBNP (INTERVAL SomaLogic, n=3,301)]
+  IV: 拉取 41 -> 排除 MHC/位点后 41 -> 协调后 k=38 (丢弃 {'palindromic_or_allele': 3, 'no_outcome_assoc': 0})
+  mean F = 62.5, min F = 29.9
+  IVW 固定:  beta=-0.1137 (se 0.0523), z=-2.17, p=0.03
+  IVW 随机:  beta=-0.1137 (se 0.0523), z=-2.17, p=0.03, tau2=0.00000
+  加权中位数: beta=-0.1502 [boot95CI -0.2233, -0.0419]
+  异质性 Q=23.2 (df=37), p=0.963
+  MR-Egger: 截距=+0.0019 (p=0.676); 斜率=-0.1233 (se 0.0471)
+  Wald 符号一致率: 66%
+
+[CAD (van der Harst 2018) -> NT-proBNP (INTERVAL SomaLogic, n=3,301)]
+  IV: 拉取 75 -> 排除 MHC/位点后 74 -> 协调后 k=59 (丢弃 {'palindromic_or_allele': 13, 'no_outcome_assoc': 2})
+  mean F = 73.9, min F = 29.8
+  IVW 固定:  beta=-0.0673 (se 0.0537), z=-1.25, p=0.21
+  IVW 随机:  beta=-0.0673 (se 0.0537), z=-1.25, p=0.21, tau2=0.00000
+  加权中位数: beta=-0.0856 [boot95CI -0.2136, +0.0221]
+  异质性 Q=39.8 (df=58), p=0.968
+  MR-Egger: 截距=+0.0040 (p=0.27); 斜率=-0.0846 (se 0.0470)
+  Wald 符号一致率: 53%
+
+[MI (Hartiala 2021) -> NT-proBNP (INTERVAL SomaLogic, n=3,301)]
+  IV: 拉取 34 -> 排除 MHC/位点后 34 -> 协调后 k=26 (丢弃 {'palindromic_or_allele': 6, 'no_outcome_assoc': 2})
+  mean F = 65.2, min F = 30.2
+  IVW 固定:  beta=-0.0559 (se 0.0561), z=-1.00, p=0.32
+  IVW 随机:  beta=-0.0559 (se 0.0561), z=-1.00, p=0.32, tau2=0.00000
+  加权中位数: beta=-0.0803 [boot95CI -0.1934, +0.0219]
+  异质性 Q=14.5 (df=25), p=0.952
+  MR-Egger: 截距=-0.0032 (p=0.544); 斜率=-0.0457 (se 0.0476)
+  Wald 符号一致率: 62%
+
+[HF (HERMES) -> NT-proBNP (INTERVAL SomaLogic, n=3,301)]
+  IV: 拉取 12 -> 排除 MHC/位点后 12 -> 协调后 k=10 (丢弃 {'palindromic_or_allele': 2, 'no_outcome_assoc': 0})
+  mean F = 43.1, min F = 30.9
+  IVW 固定:  beta=-0.2852 (se 0.1541), z=-1.85, p=0.064
+  IVW 随机:  beta=-0.2567 (se 0.1907), z=-1.35, p=0.18, tau2=0.11656
+  加权中位数: beta=-0.2514 [boot95CI -0.6934, +0.1634]
+  异质性 Q=13.4 (df=9), p=0.147
+  MR-Egger: 截距=-0.0019 (p=0.889); 斜率=-0.2925 (se 0.2071)
+  Wald 符号一致率: 60%

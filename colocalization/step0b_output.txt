@@ -1,0 +1,6 @@
+﻿Total features: 8021
+SNV with MAF: 0
+SNV MAF>=0.01: 0
+NPPA: chr1:11845701-11848345 strand=-1 (GRCh38)
+NPPB: chr1:11857454-11859648 strand=-1 (GRCh38)
+NPR3: chr5:32689070-32791724 strand=1 (GRCh38)

@@ -1,0 +1,27 @@
+obs columns: ['name_0', 'sangerID', 'donor', 'donor_type', 'region', 'age', 'gender', 'facility', 'cell_or_nuclei', 'modality', 'kit_10x', 'flushed', 'cell_type', 'cell_state', 'n_genes', 'n_genes_by_counts', 'total_counts', 'total_counts_mt', 'pct_counts_mt', 'total_counts_ribo', 'pct_counts_ribo', 'scrublet_score']
+  sangerID (193 categories): ['H0015_LA', 'H0015_LV', 'H0015_RA', 'H0015_RV', 'H0015_apex', 'H0015_septum', 'H0020_LA', 'H0020_LV', 'H0020_RA', 'H0020_RV', 'H0020_apex', 'H0020_septum', 'H0025_LA', 'H0025_LV', 'H0025_RA', 'H0025_RV', 'H0025_apex', 'H0025_septum', 'H0026_LA', 'H0026_LV', 'H0026_RA', 'H0026_RV', 'H0026_apex', 'H0026_septum2', 'H0035_LA', 'H0035_LV', 'H0035_RA', 'H0035_RV', 'H0035_apex', 'H0035_septum']
+  donor (22 categories): ['A61', 'AH1', 'AH2', 'AV3', 'AV10', 'AV13', 'AV14', 'D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D11', 'H2', 'H3', 'H4', 'H5', 'H6', 'H7']
+  donor_type (2 categories): ['DBD', 'DCD']
+  region (8 categories): ['SAN', 'AVN', 'RA', 'LA', 'RV', 'LV', 'SP', 'AX']
+  age (9 categories): ['20-25', '40-45', '45-50', '50-55', '55-60', '60-65', '65-70', '70-75', 'nan']
+  gender (2 categories): ['Female', 'Male']
+  facility (2 categories): ['Harvard', 'Sanger']
+  cell_or_nuclei (2 categories): ['Cell', 'Nuclei']
+  modality (3 categories): ['Multiome-RNA', 'scRNA', 'snRNA']
+  kit_10x (3 categories): ['3prime-v2', '3prime-v3', 'Multiome-v1']
+  flushed (2 categories): ['no', 'yes']
+  cell_type (12 categories): ['Atrial Cardiomyocyte', 'Ventricular Cardiomyocyte', 'Fibroblast', 'Endothelial cell', 'Lymphatic Endothelial cell', 'Mural cell', 'Mesothelial cell', 'Neural cell', 'Adipocyte', 'Myeloid', 'Lymphoid', 'Mast cell']
+  cell_state (76 categories): ['SAN_P_cell', 'AVN_P_cell', 'AVN_bundle_cell', 'Purkinje', 'aCM1', 'aCM2', 'aCM3', 'aCM4', 'aCM5', 'vCM1', 'vCM2', 'vCM3_stressed', 'vCM4', 'vCM5', 'EC1_cap', 'EC2_cap', 'EC3_cap', 'EC4_immune', 'EC5_art', 'EC6_ven', 'EC7_endocardial', 'EC8_ln', 'EC9_FB-like', 'EC10_CMC-like', 'PC1_vent', 'PC2_atria', 'PC3_str', 'PC4_CMC-like', 'SMC1_basic', 'SMC2_art']
+var columns: ['name_0', 'gene_name_scRNA-0-original', 'gene_name_snRNA-1-original', 'gene_name_multiome-2-original', 'gene_id']
+FAIL cell_type accept=application/json -> HTTP Error 406: NOT ACCEPTABLE
+FAIL cell_type accept=*/* -> IncompleteRead(0 bytes read, 13086120 more expected)
+FAIL Cell_Type accept=application/json -> HTTP Error 406: NOT ACCEPTABLE
+FAIL Cell_Type accept=*/* -> HTTP Error 400: BAD REQUEST
+FAIL celltype accept=application/json -> HTTP Error 406: NOT ACCEPTABLE
+FAIL celltype accept=*/* -> HTTP Error 400: BAD REQUEST
+FAIL major_celltype accept=application/json -> HTTP Error 406: NOT ACCEPTABLE
+FAIL major_celltype accept=*/* -> HTTP Error 400: BAD REQUEST
+FAIL cell_state accept=application/json -> HTTP Error 406: NOT ACCEPTABLE
+FAIL cell_state accept=*/* -> IncompleteRead(0 bytes read, 6893812 more expected)
+FAIL Subclass_cell_type accept=application/json -> HTTP Error 406: NOT ACCEPTABLE
+FAIL Subclass_cell_type accept=*/* -> HTTP Error 400: BAD REQUEST

@@ -1,0 +1,48 @@
+=== EGFR ===
+   n=1159871 | ebi-a-GCST90026654 | Estimated glomerular filtration rate (creatinine) | Yu Z 2021
+   n=1004040 | ebi-a-GCST90103634 | Estimated glomerular filtration rate (creatinine) | Stanzick KJ 2021
+   n=460826 | ebi-a-GCST90103635 | Estimated glomerular filtration rate (cystatin c) | Stanzick KJ 2021
+   n=165726 | ebi-a-GCST90103633 | Estimated glomerular filtration rate (creatinine) | Stanzick KJ 2021
+   n=143658 | ieu-a-1284 | Estimated glomerular filtration rate (eGFR) | Kanai 2018
+   n=143658 | ebi-a-GCST007344 | Estimated glomerular filtration rate | Morris AP 2019
+   n=143658 | bbj-a-60 | Estimated glomerular filtration rate | Ishigaki K 2019
+   n=76511 | ieu-b-4832 | Estimated glomerular filtration rate | Howe LJ 2022
+=== CKD ===
+   n=117165 | ieu-a-1102 | Chronic kidney disease | Pattaro 2015
+   n=117165 | ebi-a-GCST003374 | Chronic kidney disease | Pattaro C 2016
+=== SBP ===
+   n=810865 | ebi-a-GCST90000066 | Systolic blood pressure | Surendran P 2020
+   n=810865 | ebi-a-GCST90000062 | Systolic blood pressure | Surendran P 2020
+   n=757601 | ieu-b-38 | systolic blood pressure | Evangelou, E 2018
+   n=469767 | ebi-a-GCST90029011 | Systolic blood pressure | Loh PR 2018
+   n=436419 | ukb-b-20175 | Systolic blood pressure, automated reading | Ben Elsworth 2018
+   n=435859 | ieu-b-5138 | Systolic Blood Pressure (SBP) | Tang H 2024
+   n=422713 | ebi-a-GCST90025968 | Systolic blood pressure | Barton AR 2021
+   n=385798 | ebi-a-GCST90014018 | Systolic blood pressure automated reading (UKB data field 4080) | Mbatchou J 2021
+=== DBP ===
+   n=810865 | ebi-a-GCST90000063 | Diastolic blood pressure | Surendran P 2020
+   n=810865 | ebi-a-GCST90000059 | Diastolic blood pressure | Surendran P 2020
+   n=757601 | ieu-b-39 | diastolic blood pressure | Evangelou, E 2018
+   n=490469 | ebi-a-GCST90029010 | Diastolic blood pressure | Loh PR 2018
+   n=436424 | ukb-b-7992 | Diastolic blood pressure, automated reading | Ben Elsworth 2018
+   n=436083 | ieu-b-5139 | Diastolic Blood Pressure (DBP) | Tang H 2024
+   n=422713 | ebi-a-GCST90025981 | Diastolic blood pressure | Barton AR 2021
+   n=385801 | ebi-a-GCST90014017 | Diastolic blood pressure automated reading (UKB data field 4079) | Mbatchou J 2021
+=== BMI ===
+   n=681275 | ieu-b-40 | body mass index | Yengo, L 2018
+   n=532396 | ebi-a-GCST90029007 | Body mass index | Loh PR 2018
+   n=461460 | ukb-b-19953 | Body mass index (BMI) | Ben Elsworth 2018
+   n=457756 | ebi-a-GCST90025994 | Body mass index | Barton AR 2021
+   n=454884 | ukb-b-2303 | Body mass index (BMI) | Ben Elsworth 2018
+   n=407609 | ebi-a-GCST90013974 | Body mass index (UKB data field 21001) | Mbatchou J 2021
+   n=407609 | ebi-a-GCST90013870 | Body mass index (UKB data field 21001) | Mbatchou J 2021
+   n=359983 | ebi-a-GCST90018947 | Body mass index | Sakaue S 2021
+=== WC ===
+   n=462166 | ukb-b-9405 | Waist circumference | Ben Elsworth 2018
+   n=458349 | ebi-a-GCST90025996 | Waist-to-hip ratio adjusted for BMI | Barton AR 2021
+   n=407661 | ebi-a-GCST90014020 | Waist circumference (UKB data field 48) | Mbatchou J 2021
+   n=336639 | ukb-a-382 | Waist circumference | Neale 2017
+   n=245746 | ieu-a-66 | Waist circumference | Shungin D 2015
+   n=232101 | ieu-a-61 | Waist circumference | Shungin D 2015
+   n=231353 | ieu-a-67 | Waist circumference | Shungin D 2015
+   n=224459 | ieu-a-72 | Waist-to-hip ratio | Shungin D 2015

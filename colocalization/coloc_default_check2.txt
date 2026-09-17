@@ -1,0 +1,16 @@
+﻿Rscript.exe : During startup - Warning messages:
+所在位置 行:445 字符: 86
++ ... _analysis"; & "C:\Program Files\R\R-4.5.2\bin\Rscript.exe" -e "librar ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (During startup - Warning messages 
+   ::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+This is coloc version 5.2.3
+Warning message:
+package 'coloc' was built under R version 4.5.3 
+p1= as.pairlist(alist(dataset1 = , dataset2 = , MAF = NULL, p1 = 1e-04, p2 = 1e-04, p12 = 1e-05))  p2= as.pairlist(alist(dataset1 = , dataset2 = , MAF = NULL, p1 = 1e-04, p2 = 1e-04, p12 = 1e-05))  p12= as.pairlist(alist(dataset1 = , dataset2 = , MAF = NULL, p1 = 1e-04, p2 = 1e-04, p12 = 1e-05)) 

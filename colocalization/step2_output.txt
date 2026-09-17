@@ -1,0 +1,5 @@
+﻿tbi references: 24
+chr1 11700000-12100000: 28 chunks -> 2 byte-ranges, ~526 KB
+chr1: 0 EUR-common biallelic SNVs saved -> nppa_locus_variants.json
+chr5 32500000-33000000: 50 chunks -> 5 byte-ranges, ~1562 KB
+chr5: 0 EUR-common biallelic SNVs saved -> npr3_locus_variants.json

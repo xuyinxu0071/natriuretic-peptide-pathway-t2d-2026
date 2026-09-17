@@ -1,0 +1,48 @@
+﻿
+[nppa_eqtl_af] exposure top-5 by |z|:
+   rs198411: beta=0.3878 se=0.01758 |z|=22.1
+   rs198405: beta=0.3868 se=0.01754 |z|=22.1
+   rs14078: beta=0.3838 se=0.01742 |z|=22.0
+   rs528704: beta=0.3891 se=0.01766 |z|=22.0
+   rs528705: beta=0.3886 se=0.01766 |z|=22.0
+[nppa_eqtl_af] outcome top-5 by |z|:
+   rs5066: beta=0.062 se=0.0157 |z|=3.9
+   rs12744757: beta=0.0617 se=0.0157 |z|=3.9
+   rs41275494: beta=0.0592 se=0.0165 |z|=3.6
+   rs55892892: beta=0.0591 se=0.0165 |z|=3.6
+   rs41452445: beta=0.0601 se=0.0168 |z|=3.6
+
+[nppa_eqtl_stroke] exposure top-5 by |z|:
+   rs198367: beta=0.4211 se=0.01715 |z|=24.6
+   rs198411: beta=0.3878 se=0.01758 |z|=22.1
+   rs198405: beta=0.3868 se=0.01754 |z|=22.1
+   rs14078: beta=0.3838 se=0.01742 |z|=22.0
+   rs528704: beta=0.3891 se=0.01766 |z|=22.0
+[nppa_eqtl_stroke] outcome top-5 by |z|:
+   rs761086: beta=-0.0415 se=0.0106 |z|=3.9
+   rs761082: beta=-0.039 se=0.0104 |z|=3.8
+   rs973880: beta=-0.0411 se=0.0112 |z|=3.7
+   rs72641094: beta=0.0586 se=0.0163 |z|=3.6
+   rs113246048: beta=0.0526 se=0.015 |z|=3.5
+
+[npr3_sbp_cad_vdh] exposure top-5 by |z|:
+   rs1173727: beta=0.6373 se=0.0307 |z|=20.8
+   rs1173770: beta=0.6343 se=0.0308 |z|=20.6
+   rs1173771: beta=0.6321 se=0.0307 |z|=20.6
+   rs3828589: beta=-0.57 se=0.0311 |z|=18.3
+   rs3792765: beta=-0.5699 se=0.0311 |z|=18.3
+[npr3_sbp_cad_vdh] outcome top-5 by |z|:
+   rs78916853: beta=0.05236 se=0.01481 |z|=3.5
+   rs77358846: beta=0.03995 se=0.01131 |z|=3.5
+   rs113558055: beta=0.0395 se=0.01131 |z|=3.5
+   rs11741003: beta=0.05032 se=0.01497 |z|=3.4
+   rs2910902: beta=0.02185 se=0.007011 |z|=3.1
+
+rs5068 in nppa_eqtl_af exposure: beta=0.108072 se=0.0252729 pos=11905974
+
+nppa narrow window 11805974-12005974: 996 variants
+nppa: narrow inputs written
+
+npr3 narrow window 32614270-32814270: 775 variants
+npr3: narrow inputs written
+DONE

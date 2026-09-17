@@ -1,0 +1,25 @@
+*******************************************************************
+* Summary-data-based Mendelian Randomization (SMR)
+* Version 1.3.1
+* (C) 2015 Futao Zhang, Zhihong Zhu and Jian Yang
+* The University of Queensland
+* MIT License
+*******************************************************************
+Analysis started: 9:57:12,Mon Sep 14,2026
+
+Options:
+--bfile eur_nppa
+--gwas-summary ma_HF_nppa.ma
+--beqtl-summary NPPAeQTL
+--out smr_NPPAeQTL__x__HF_nppa
+--thread-num 2
+
+Reading GWAS summary data from [ma_HF_nppa.ma].
+GWAS summary data of 592 SNPs to be included from [ma_HF_nppa.ma].
+
+Analysis completed: 9:57:12,Mon Sep 14,2026
+Computational time: 0:0:0
+
+=== STDERR ===
+
+ERROR: can not open the file [NPPAeQTL.esi] to read.

@@ -1,0 +1,10 @@
+﻿pip.exe : WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection brok
+en by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/
+h5py/
+所在位置 行:445 字符: 1
++ & "C:\Users\xuyin\.workbuddy\binaries\python\envs\default\Scripts\pip ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: Retryi...: /simple/h5py/:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+h5py 3.16.0 | fsspec 2026.7.0

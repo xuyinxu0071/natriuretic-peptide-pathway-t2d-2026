@@ -1,0 +1,17 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  
+ *   S u m m a r y - d a t a - b a s e d   M e n d e l i a n   R a n d o m i z a t i o n   ( S M R )  
+ *   V e r s i o n   1 . 3 . 1  
+ *   ( C )   2 0 1 5   F u t a o   Z h a n g ,   Z h i h o n g   Z h u   a n d   J i a n   Y a n g  
+ *   T h e   U n i v e r s i t y   o f   Q u e e n s l a n d  
+ *   M I T   L i c e n s e  
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  
+ A n a l y s i s   s t a r t e d :   9 : 5 7 : 4 4 , M o n   S e p   1 4 , 2 0 2 6  
+  
+ O p t i o n s :  
+ - - e f i l e   S C A L L O P . e f i l e  
+ - - m a k e - b e s d    
+ - - o u t   S C A L L O P _ t e s t  
+ - - t h r e a d - n u m   1  
+  
+ e x i t = - 1 0 7 3 7 4 1 8 1 9  
+ 

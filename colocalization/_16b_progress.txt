@@ -1,0 +1,2 @@
+﻿=== corin (1444 variants) x eqtl-a-ENSG00000145244 ===
+    1280/1444 (have 988)

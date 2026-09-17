@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Analysis code for: Residual Vascular Risk in Glycemic-Controlled Type 2 Diabetes and the Natriuretic Peptide Pathway as a Genetically Prioritized Entry Point"
+abstract: "Repository of analysis code (observational HRS/CHARLS cohort analyses and Mendelian randomization of the natriuretic-peptide-pathway drug targets, including a ported SMR/HEIDI implementation cross-validated against the official SMR 1.3.1 binary) supporting the Cardiovascular Diabetology special-issue manuscript."
+authors:
+  - family-names: Xu
+    given-names: Yin
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: fill real ORCID
+  - family-names: Wang
+    given-names: Xinmei
+  - family-names: Wang
+    given-names: Guofeng
+  - family-names: Wei
+    given-names: Wei
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: fill real ORCID
+  - family-names: Li
+    given-names: Ning
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: fill real ORCID
+version: 1.0.0
+date-released: 2026-09-17
+license: MIT
+repository-code: "https://github.com/<YOUR_USERNAME>/<REPO_NAME>"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXX"   # TODO: fill after Zenodo Publish
+    description: "Archived snapshot of this repository (v1.0.0)"
+keywords:
+  - type 2 diabetes
+  - natriuretic peptide
+  - NT-proBNP
+  - residual vascular risk
+  - Mendelian randomization
+  - SMR
+  - cardiovascular diabetology
+  - HRS
+  - CHARLS

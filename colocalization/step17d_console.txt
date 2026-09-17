@@ -1,0 +1,14 @@
+﻿opening remote h5ad via fsspec HTTP Range ...
+root keys: ['X', 'layers', 'obs', 'obsm', 'obsp', 'uns', 'var', 'varm', 'varp']
+X encoding-type: csr_matrix | keys: ['data', 'indices', 'indptr']
+obs keys: ['age', 'barcode', 'cell_or_nuclei', 'cell_state', 'cell_type', 'donor', 'donor_type', 'facility', 'flushed', 'gender', 'kit_10x', 'modality', 'n_genes', 'n_genes_by_counts', 'pct_counts_mt', 'pct_counts_ribo', 'region', 'sangerID', 'scrublet_score', 'total_counts', 'total_counts_mt', 'total_counts_ribo']
+var keys: ['gene_id', 'gene_name-new', 'gene_name_multiome-2-original', 'gene_name_scRNA-0-original', 'gene_name_snRNA-1-original']
+obs attrs: {'_index': 'barcode', 'column-order': array(['sangerID', 'donor', 'donor_type', 'region', 'age', 'gender',
+       'facility', 'cell_or_nuclei', 'modality', 'kit_10x', 'flushed',
+       'cell_type', 'cell_state', 'n_genes', 'n_genes_by_counts',
+       'total_counts', 'total_counts_mt', 'pct_counts_mt',
+       'total_counts_ribo', 'pct_counts_ribo', 'scrublet_score'],
+      dtype=object), 'encoding-type': 'dataframe', 'encoding-version': '0.2.0'}
+var attrs: {'_index': 'gene_name-new', 'column-order': array(['gene_name_scRNA-0-original', 'gene_name_snRNA-1-original',
+       'gene_name_multiome-2-original', 'gene_id'], dtype=object), 'encoding-type': 'dataframe', 'encoding-version': '0.2.0'}
+>>> X is csr_matrix, NOT gene-major CSC - diagnostics only, aborting

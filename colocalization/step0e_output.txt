@@ -1,0 +1,10 @@
+﻿=== A) tophits pval=1 clump=0 on NPPA eQTLGen ===
+[HTTP 400] /tophits {"message": "Please make sure 0 < pval <= 0.01."}
+
+
+=== A2) tophits pval=1 clump=0 on NPR3 eQTLGen ===
+[HTTP 400] /tophits {"message": "Please make sure 0 < pval <= 0.01."}
+
+
+=== B) GTEx v8 per-gene cis-eQTL (NPPA, Heart-Atrial Appendage) ===
+GTEx failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>

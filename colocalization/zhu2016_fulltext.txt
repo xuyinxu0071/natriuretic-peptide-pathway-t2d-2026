@@ -1,0 +1,324 @@
+Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets | Nature Genetics
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+and JavaScript.
+Advertisement
+View all journals
+Saved research
+Search
+Account
+Log in
+Content
+Explore content
+About the journal
+Publish with us
+Subscribe
+Sign up for alerts
+RSS feed
+nature
+nature genetics
+analyses
+article
+Analysis
+Published: 28 March 2016
+Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets
+Zhihong Zhu 1 ,
+Futao Zhang 1 ,
+Han Hu 2 ,
+Andrew Bakshi 1 ,
+Matthew R Robinson 1 ,
+Joseph E Powell 1 , 3 ,
+Grant W Montgomery 4 ,
+Michael E Goddard 5 , 6 ,
+Naomi R Wray
+ORCID: orcid.org/0000-0001-7421-3357 1 ,
+Peter M Visscher
+ORCID: orcid.org/0000-0002-2143-8760 1 , 7 &
+…
+Jian Yang
+ORCID: orcid.org/0000-0003-2001-2474 1 , 7
+Show authors
+Nature Genetics
+volume  48 ,  pages 481–487 ( 2016 ) Cite this article
+Save article
+View saved research
+97k Accesses
+3534 Citations
+58 Altmetric
+Metrics details
+Abstract
+Genome-wide association studies (GWAS) have identified thousands of genetic variants associated with human complex traits. However, the genes or functional DNA elements through which these variants exert their effects on the traits are often unknown. We propose a method (called SMR) that integrates summary-level data from GWAS with data from expression quantitative trait locus (eQTL) studies to identify genes whose expression levels are associated with a complex trait because of pleiotropy. We apply the method to five human complex traits using GWAS data on up to 339,224 individuals and eQTL data on 5,311 individuals, and we prioritize 126 genes (for example, TRAF1 and ANKRD55 for rheumatoid arthritis and SNX19 and NMRAL1 for schizophrenia), of which 25 genes are new candidates; 77 genes are not the nearest annotated gene to the top associated GWAS SNP. These genes provide important leads to design future functional studies to understand the mechanism whereby DNA variation leads to complex trait variation.
+This is a preview of subscription content, access via your institution
+Access options
+Access through your institution
+Subscription info for Chinese customers
+We have a dedicated website for our Chinese customers. Please go to naturechina.com to subscribe to this journal.
+Go to naturechina.com
+Buy this article
+Purchase on SpringerLink
+Instant access to the full article PDF.
+39,95 €
+Prices may be subject to local taxes which are calculated during checkout
+Additional access options:
+Log in
+Learn about institutional subscriptions
+Read our FAQs
+Contact customer support
+Figure 1: Association between gene expression and phenotype through genotypes.
+Figure 2: Manhattan plots of SMR tests for association between gene expression and complex traits.
+Figure 3: Prioritizing genes at a GWAS locus using SMR analysis.
+Figure 4: Prioritizing genes at the TRAF1 - C5 locus for rheumatoid arthritis.
+Figure 5: The SNX19 locus for schizophrenia.
+Similar content being viewed by others
+Systematic differences in discovery of genetic effects on gene expression and complex traits
+Article
+19 October 2023
+Genetic control of RNA splicing and its distinct role in complex trait variation
+Article
+Open access
+18 August 2022
+Gene-based association tests using GWAS summary statistics and incorporating eQTL
+Article
+Open access
+03 March 2022
+Explore related subjects
+Discover the latest articles and news in related subjects.
+Gene expression
+Genome-wide association studies
+References
+Welter, D. et al. The NHGRI GWAS Catalog, a curated resource of SNP-trait associations. Nucleic Acids Res. 42 , D1001–D1006 (2014).
+Article
+CAS
+Google Scholar
+Smemo, S. et al. Obesity-associated variants within FTO form long-range functional connections with IRX3 . Nature 507 , 371–375 (2014).
+Article
+CAS
+Google Scholar
+Claussnitzer, M. et al. FTO obesity variant circuitry and adipocyte browning in humans. N. Engl. J. Med. 373 , 895–907 (2015).
+Article
+CAS
+Google Scholar
+Golzio, C. et al. KCTD13 is a major driver of mirrored neuroanatomical phenotypes of the 16p11.2 copy number variant. Nature 485 , 363–367 (2012).
+Article
+CAS
+Google Scholar
+Weiss, L.A. et al. Association between microdeletion and microduplication at 16p11.2 and autism. N. Engl. J. Med. 358 , 667–675 (2008).
+Article
+CAS
+Google Scholar
+McCarthy, S.E. et al. Microduplications of 16p11.2 are associated with schizophrenia. Nat. Genet. 41 , 1223–1227 (2009).
+Article
+CAS
+Google Scholar
+Jansen, R.C. & Nap, J.P. Genetical genomics: the added value from segregation. Trends Genet. 17 , 388–391 (2001).
+Article
+CAS
+Google Scholar
+Katan, M.B. Apolipoprotein E isoforms, serum cholesterol, and cancer. Lancet 1 , 507–508 (1986).
+Article
+CAS
+Google Scholar
+Smith, G.D. & Ebrahim, S. 'Mendelian randomization': can genetic epidemiology contribute to understanding environmental determinants of disease? Int. J. Epidemiol. 32 , 1–22 (2003).
+Article
+Google Scholar
+Freeman, G., Cowling, B.J. & Schooling, C.M. Power and sample size calculations for Mendelian randomization studies using one genetic instrument. Int. J. Epidemiol. 42 , 1157–1163 (2013).
+Article
+Google Scholar
+Brion, M.J., Shakhbazov, K. & Visscher, P.M. Calculating statistical power in Mendelian randomization studies. Int. J. Epidemiol. 42 , 1497–1501 (2013).
+Article
+Google Scholar
+Yang, J. et al. Ubiquitous polygenicity of human complex traits: genome-wide analysis of 49 traits in Koreans. PLoS Genet. 9 , e1003355 (2013).
+Article
+CAS
+Google Scholar
+Wood, A.R. et al. Defining the role of common variation in the genomic and biological architecture of adult human height. Nat. Genet. 46 , 1173–1186 (2014).
+Article
+CAS
+Google Scholar
+Locke, A.E. et al. Genetic studies of body mass index yield new insights for obesity biology. Nature 518 , 197–206 (2015).
+Article
+CAS
+Google Scholar
+Shungin, D. et al. New genetic loci link adipose and insulin biology to body fat distribution. Nature 518 , 187–196 (2015).
+Article
+CAS
+Google Scholar
+Okada, Y. et al. Genetics of rheumatoid arthritis contributes to biology and drug discovery. Nature 506 , 376–381 (2014).
+Article
+CAS
+Google Scholar
+Schizophrenia Working Group of the Psychiatric Genomics Consortium. Biological insights from 108 schizophrenia-associated genetic loci. Nature 511 , 421–427 (2014).
+Westra, H.J. et al. Systematic identification of trans eQTLs as putative drivers of known disease associations. Nat. Genet. 45 , 1238–1243 (2013).
+Article
+CAS
+Google Scholar
+Patsopoulos, N.A. et al. Fine-mapping the genetic association of the major histocompatibility complex in multiple sclerosis: HLA and non-HLA effects. PLoS Genet. 9 , e1003926 (2013).
+Article
+Google Scholar
+Plenge, R.M. et al. TRAF1 - C5 as a risk locus for rheumatoid arthritis—a genomewide study. N. Engl. J. Med. 357 , 1199–1209 (2007).
+Article
+CAS
+Google Scholar
+Stahl, E.A. et al. Genome-wide association study meta-analysis identifies seven new rheumatoid arthritis risk loci. Nat. Genet. 42 , 508–514 (2010).
+Article
+CAS
+Google Scholar
+Albers, H.M. et al. The TRAF1 / C5 region is a risk factor for polyarthritis in juvenile idiopathic arthritis. Ann. Rheum. Dis. 67 , 1578–1580 (2008).
+Article
+CAS
+Google Scholar
+Xavier, R.J. & Rioux, J.D. Genome-wide association studies: a new window into immune-mediated diseases. Nat. Rev. Immunol. 8 , 631–643 (2008).
+Article
+CAS
+Google Scholar
+Tsitsikov, E.N. et al. TRAF1 is a negative regulator of TNF signaling. enhanced TNF signaling in TRAF1-deficient mice. Immunity 15 , 647–657 (2001).
+Article
+CAS
+Google Scholar
+Chung, J.Y., Park, Y.C., Ye, H. & Wu, H. All TRAFs are not created equal: common and distinct molecular mechanisms of TRAF-mediated signal transduction. J. Cell Sci. 115 , 679–688 (2002).
+CAS
+PubMed
+Google Scholar
+Nica, A.C. et al. The architecture of gene regulatory variation across multiple human tissues: the MuTHER study. PLoS Genet. 7 , e1002003 (2011).
+Article
+CAS
+Google Scholar
+GTEx Consortium. The Genotype-Tissue Expression (GTEx) pilot analysis: multitissue gene regulation in humans. Science 348 , 648–660 (2015).
+McKenzie, M., Henders, A.K., Caracella, A., Wray, N.R. & Powell, J.E. Overlap of expression quantitative trait loci (eQTL) in human brain and blood. BMC Med. Genomics 7 , 31 (2014).
+Article
+Google Scholar
+Finucane, H.K. et al. Partitioning heritability by functional annotation using genome-wide association summary statistics. Nat. Genet. 47 , 1228–1235 (2015).
+Article
+CAS
+Google Scholar
+Eaton, W.W. et al. Association of schizophrenia and autoimmune diseases: linkage of Danish national registers. Am. J. Psychiatry 163 , 521–528 (2006).
+Article
+Google Scholar
+Nemani, K., Hosseini Ghomi, R., McCormick, B. & Fan, X. Schizophrenia and the gut-brain axis. Prog. Neuropsychopharmacol. Biol. Psychiatry 56 , 155–160 (2015).
+Article
+CAS
+Google Scholar
+Ramasamy, A. et al. Genetic variability in the regulation of gene expression in ten regions of the human brain. Nat. Neurosci. 17 , 1418–1428 (2014).
+Article
+CAS
+Google Scholar
+Veyrieras, J.B. et al. Exon-specific QTLs skew the inferred distribution of expression QTLs detected using gene expression array data. PLoS One 7 , e30629 (2012).
+Article
+CAS
+Google Scholar
+Yang, J. et al. Conditional and joint multiple-SNP analysis of GWAS summary statistics identifies additional variants influencing complex traits. Nat. Genet. 44 , 369–375, S1–S3 (2012).
+Article
+CAS
+Google Scholar
+Lawlor, D.A., Harbord, R.M., Sterne, J.A., Timpson, N. & Davey Smith, G. Mendelian randomization: using genes as instruments for making causal inferences in epidemiology. Stat. Med. 27 , 1133–1163 (2008).
+Article
+Google Scholar
+Giambartolomei, C. et al. Bayesian test for colocalisation between pairs of genetic association studies using summary statistics. PLoS Genet. 10 , e1004383 (2014).
+Article
+Google Scholar
+Gamazon, E.R. et al. A gene-based association method for mapping traits using reference transcriptome data. Nat. Genet. 47 , 1091–1098 (2015).
+Article
+CAS
+Google Scholar
+Gusev, A. et al. Integrative approaches for large-scale transcriptome-wide association studies. Nat. Genet. 48 , 245–252 (2016).
+Article
+CAS
+Google Scholar
+Powell, J.E. et al. The Brisbane Systems Genetics Study: genetical genomics meets complex trait genetics. PLoS One 7 , e35430 (2012).
+Article
+CAS
+Google Scholar
+Davey Smith, G. & Hemani, G. Mendelian randomization: genetic anchors for causal inference in epidemiological studies. Hum. Mol. Genet. 23 R1, R89–R98 (2014).
+Article
+Google Scholar
+Ference, B.A. et al. Effect of long-term exposure to lower low-density lipoprotein cholesterol beginning early in life on the risk of coronary heart disease: a Mendelian randomization analysis. J. Am. Coll. Cardiol. 60 , 2631–2639 (2012).
+Article
+CAS
+Google Scholar
+Pierce, B.L. & Burgess, S. Efficient design for Mendelian randomization studies: subsample and 2-sample instrumental variable estimators. Am. J. Epidemiol. 178 , 1177–1184 (2013).
+Article
+Google Scholar
+Inoue, A. & Solon, G. Two-sample instrumental variables estimators. Rev. Econ. Stat. 92 , 557–561 (2010).
+Article
+Google Scholar
+Lynch, M. & Walsh, B. Genetics and Analysis of Quantitative Traits (Sinauer Associates, 1998).
+International HapMap Consortium. The International HapMap Project. Nature 426 , 789–796 (2003).
+Psaty, B.M. et al. Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium: design of prospective meta-analyses of genome-wide association studies from 5 cohorts. Circ. Cardiovasc. Genet. 2 , 73–80 (2009).
+Article
+Google Scholar
+Kuonen, D. Saddlepoint approximations for distributions of quadratic forms in normal variables. Biometrika 86 , 929–935 (1999).
+Article
+Google Scholar
+Davies, R.B. Numerical inversion of a characteristic function. Biometrika 60 , 415–417 (1973).
+Article
+Google Scholar
+1000 Genomes Project Consortium. A map of human genome variation from population-scale sequencing. Nature 467 , 1061–1073 (2010).
+Yang, J., Lee, S.H., Goddard, M.E. & Visscher, P.M. GCTA: a tool for genome-wide complex trait analysis. Am. J. Hum. Genet. 88 , 76–82 (2011).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+We thank J. McGrath for helpful comments. This research was supported by the Australian Research Council (DP130102666), the Australian National Health and Medical Research Council (grants 1078037, 1048853 and 1046880) and the Sylvia and Charles Viertel Charitable Foundation. This study makes use of data from the database of Genotypes and Phenotypes (dbGaP) available under accession phs000090.v3.p1 (see the Supplementary Note for the full set of acknowledgments for these data).
+Author information
+Authors and Affiliations
+Queensland Brain Institute, University of Queensland, Brisbane, Queensland, Australia
+Zhihong Zhu, Futao Zhang, Andrew Bakshi, Matthew R Robinson, Joseph E Powell, Naomi R Wray, Peter M Visscher & Jian Yang
+State Key Laboratory of Plant Physiology and Biochemistry, College of Life Sciences, Zhejiang University, Hangzhou, China
+Han Hu
+Institute for Molecular Bioscience, University of Queensland, Brisbane, Queensland, Australia
+Joseph E Powell
+Molecular Epidemiology, QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia
+Grant W Montgomery
+Faculty of Veterinary and Agricultural Science, University of Melbourne, Parkville, Victoria, Australia
+Michael E Goddard
+Biosciences Research Division, Department of Economic Development, Jobs, Transport and Resources, Bundoora, Victoria, Australia
+Michael E Goddard
+University of Queensland Diamantina Institute, Translation Research Institute, Brisbane, Queensland, Australia
+Peter M Visscher & Jian Yang
+Authors Zhihong Zhu View author publications
+Search author on: PubMed   Google Scholar
+Futao Zhang View author publications
+Search author on: PubMed   Google Scholar
+Han Hu View author publications
+Search author on: PubMed   Google Scholar
+Andrew Bakshi View author publications
+Search author on: PubMed   Google Scholar
+Matthew R Robinson View author publications
+Search author on: PubMed   Google Scholar
+Joseph E Powell View author publications
+Search author on: PubMed   Google Scholar
+Grant W Montgomery View author publications
+Search author on: PubMed   Google Scholar
+Michael E Goddard View author publications
+Search author on: PubMed   Google Scholar
+Naomi R Wray View author publications
+Search author on: PubMed   Google Scholar
+Peter M Visscher View author publications
+Search author on: PubMed   Google Scholar
+Jian Yang View author publications
+Search author on: PubMed   Google Scholar
+Contributions
+J.Y. conceived and designed the study. J.Y. and Z.Z. derived the theories. Z.Z. performed simulations and statistical analyses. F.Z., Z.Z. and J.Y. developed the software tool. H.H., A.B., M.R.R., J.E.P., G.W.M., M.E.G., N.R.W. and P.M.V. contributed by providing statistical support and/or advice on interpretation of results. J.E.P., G.W.M. and P.M.V. provided the Brisbane Systems Genetics Study data. J.Y. and Z.Z. wrote the manuscript with the participation of all authors.
+Corresponding author
+Correspondence to
+Jian Yang .
+Ethics declarations
+Competing interests
+The authors declare no competing financial interests.
+Integrated supplementary information
+Supplementary Figure 1 QQ plots of P values from the SMR tests under a range of simulation scenarios.
+The simulation strategy is described in the Supplementary Note . Shown are the results from 10,000 simulations. MR one sample, Mendelian randomization analysis in one sample; SMR one sample, summary data–based Mendelian randomization analysis in one sample; SMR two samples, the effect sizes of a SNP on gene expression ( β zx ) and a SNP on phenotype ( b zy ) are estimated from two independent samples.
+Supplementary Figure 2 Prioritizing genes at the NMRAL1 locus for schizophrenia.
+( a ) Top, P values from the GWAS for schizophrenia 1 (brown dots) and P values from SMR tests (diamonds) using Westra eQTL data 2 . Bottom, P values from the Westra and Ramasamy eQTL studies 3 for NMRALI1 . Shown in a are all the SNPs available in the GWAS and eQTL data. ( b , c ) Effect sizes of the SNPs (used for the HEIDI test) from the GWAS against those from the Westra and Ramasamy eQTL studies. The orange dashed lines represent the estimate of b xy at the top cis -eQTL (rather than the regression line). Error bars are the standard errors of SNP effects.
+Supplementary Figure 3 Genes with multiple tagging probes that pass the SMR and HEIDI tests—the ANKRD55 locus for rheumatoid arthritis.
+( a ) Top, dots in brown represent P values for SNPs from the latest GWAS for rheumatoid arthritis 4 , diamonds represent P values for probes from the SMR analysis and triangles represent probes without a cis -eQTL at P eQTL < 5.0 × 10 −8 . Probes that passed the HEIDI test ( P HEIDI ≥ 0.05) are highlighted in red. Bottom, P values from eQTL studies for the two probes that both tag ANKRD55 . Shown in a are all SNPs available in the GWAS and eQTL summary data (rather than those in common). ( b , c ) Effect sizes of the SNPs (used in the HEIDI test) from the GWAS against those from the eQTL study for the two probes. The orange dashed lines represent the estimate of b xy at the top cis -eQTL. Error bars are the standard errors of SNP effects. ( d ) Plot of expression levels of the two probes against each other in the data (328 unrelated individuals) from the Brisbane Systems Genetics Study 5 .
+Supplementary Figure 4 Power of detecting heterogeneity in b xy as a function of LD between two causal variants in simulations.
+We simulated data under the alternative hypothesis that there are two distinct causal variants, one affecting gene expression and one affecting the trait. The method for simulation is described in the Supplementary Note .
+Supplementary Figure 5 Distribution of LD between the top associated GWAS SNPs and the simulated causal eQTLs.
+The results are from an SMR analysis of real GWAS data for five complex traits ( Supplementary Table 6 ) and simulated eQTL data. The eQTL data were simulated on the basis of real genotypes, mimicking the Westra study but with the causal variants of cis -eQTLs randomly placed across the genome (see the Supplementary Note for details). There were a number of simulated probes that passed the SMR and HEIDI tests ( Supplementary Table 14 ). For these probes, the overlaps between the GWAS and eQTL signals are due to the strong LD between the GWAS causal variants and the causal eQTLs. Unfortunately, the GWAS causal variants are unknown. Shown are LD r 2 values for the top associated GWAS SNPs and the simulated causal eQTLs in these probe regions, which are likely to be underestimations of LD between the causal variants. For regions where there were multiple independent GWAS signals as indicated by a GCTA-COJO analysis 6 , we selected the top GWAS SNP, conditioning the secondary GWAS signal (a secondary GWAS signal was defined as the top associated GWAS SNP in the region when conditioning on the GWAS SNP used in the SMR test).
+Supplementary Figure 6 Estimating SNP effects from z statistics.
+The reported GWAS effect sizes are equivalent to the SNP effects reported in the GWAS summary data. The estimated GWAS effect sizes are equivalent to the SNP effects estimated from z statistics using the sample size of the whole study rather than the per-SNP sample size reported in the summary data ( Supplementary Note ). This is just a demonstration of the difference between the reported estimate of effect size and the effect size estimated from z statistics without taking the per-SNP sample size into account. In our SMR analyses for height, we used the reported estimate of effect size.
+Supplementary Figure 7 An example of pleiotropic signal

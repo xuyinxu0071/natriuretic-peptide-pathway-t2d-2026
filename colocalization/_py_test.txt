@@ -1,0 +1,3 @@
+﻿venv python: False
+py313: True
+py314: True

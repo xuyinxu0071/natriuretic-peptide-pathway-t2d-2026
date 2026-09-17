@@ -1,0 +1,241 @@
+﻿Rscript.exe : During startup - Warning messages:
+所在位置 行:445 字符: 86
++ ... _analysis"; & "C:\Program Files\R\R-4.5.2\bin\Rscript.exe" step5_colo ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (During startup - Warning messages 
+   ::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+Warning message:
+package 'coloc' was built under R version 4.5.3 
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+1.07e-100  9.21e-01 7.92e-102  6.80e-02  1.06e-02 
+[1] "PP abf for shared variant: 1.06%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.83e-125  9.35e-01 2.95e-126  5.70e-02  8.00e-03 
+[1] "PP abf for shared variant: 0.8%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+8.54e-101  7.33e-01 2.87e-101  2.46e-01  2.11e-02 
+[1] "PP abf for shared variant: 2.11%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.85e-125  9.38e-01 2.65e-126  5.12e-02  1.05e-02 
+[1] "PP abf for shared variant: 1.05%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.16e-125  8.06e-01 4.25e-126  8.21e-02  1.12e-01 
+[1] "PP abf for shared variant: 11.2%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.41e-125  8.54e-01 6.46e-126  1.25e-01  2.12e-02 
+[1] "PP abf for shared variant: 2.12%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+  0.80300   0.15400   0.03490   0.00670   0.00161 
+[1] "PP abf for shared variant: 0.161%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+  0.80800   0.14500   0.03790   0.00680   0.00264 
+[1] "PP abf for shared variant: 0.264%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+  0.80300   0.15600   0.03260   0.00635   0.00203 
+[1] "PP abf for shared variant: 0.203%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+  0.78400   0.14400   0.05790   0.01060   0.00386 
+[1] "PP abf for shared variant: 0.386%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.12e-88  9.14e-01  8.30e-90  3.58e-02  5.03e-02 
+[1] "PP abf for shared variant: 5.03%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.21e-88  9.54e-01  8.43e-90  3.64e-02  9.89e-03 
+[1] "PP abf for shared variant: 0.989%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.18e-88  9.42e-01  6.48e-90  2.79e-02  3.02e-02 
+[1] "PP abf for shared variant: 3.02%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.16e-88  9.32e-01  1.22e-89  5.25e-02  1.53e-02 
+[1] "PP abf for shared variant: 1.53%"
+There were 18 warnings (use warnings() to see them)
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+9.80e-101  8.41e-01 7.23e-102  6.20e-02  9.71e-02 
+[1] "PP abf for shared variant: 9.71%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.51e-125  8.72e-01 2.75e-126  5.32e-02  7.46e-02 
+[1] "PP abf for shared variant: 7.46%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+7.18e-101  6.16e-01 2.41e-101  2.07e-01  1.78e-01 
+[1] "PP abf for shared variant: 17.8%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.43e-125  8.58e-01 2.42e-126  4.68e-02  9.57e-02 
+[1] "PP abf for shared variant: 9.57%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+2.07e-125  4.01e-01 2.11e-126  4.09e-02  5.58e-01 
+[1] "PP abf for shared variant: 55.8%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+3.70e-125  7.17e-01 5.43e-126  1.05e-01  1.78e-01 
+[1] "PP abf for shared variant: 17.8%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+   0.7910    0.1520    0.0344    0.0066    0.0159 
+[1] "PP abf for shared variant: 1.59%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+  0.78900   0.14200   0.03700   0.00665   0.02580 
+[1] "PP abf for shared variant: 2.58%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+  0.78800   0.15300   0.03200   0.00624   0.01990 
+[1] "PP abf for shared variant: 1.99%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+   0.7580    0.1390    0.0560    0.0102    0.0373 
+[1] "PP abf for shared variant: 3.73%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 1.46e-88  6.29e-01  5.71e-90  2.46e-02  3.46e-01 
+[1] "PP abf for shared variant: 34.6%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.03e-88  8.76e-01  7.74e-90  3.34e-02  9.08e-02 
+[1] "PP abf for shared variant: 9.08%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 1.72e-88  7.41e-01  5.09e-90  2.20e-02  2.37e-01 
+[1] "PP abf for shared variant: 23.7%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 1.90e-88  8.20e-01  1.07e-89  4.62e-02  1.34e-01 
+[1] "PP abf for shared variant: 13.4%"
+There were 18 warnings (use warnings() to see them)
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+1.08e-100  9.30e-01 8.00e-102  6.86e-02  1.07e-03 
+[1] "PP abf for shared variant: 0.107%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.87e-125  9.42e-01 2.97e-126  5.74e-02  8.06e-04 
+[1] "PP abf for shared variant: 0.0806%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+8.71e-101  7.47e-01 2.93e-101  2.51e-01  2.15e-03 
+[1] "PP abf for shared variant: 0.215%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.90e-125  9.47e-01 2.67e-126  5.17e-02  1.06e-03 
+[1] "PP abf for shared variant: 0.106%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.63e-125  8.96e-01 4.72e-126  9.13e-02  1.25e-02 
+[1] "PP abf for shared variant: 1.25%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+4.50e-125  8.70e-01 6.59e-126  1.28e-01  2.16e-03 
+[1] "PP abf for shared variant: 0.216%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 0.804000  0.154000  0.035000  0.006710  0.000161 
+[1] "PP abf for shared variant: 0.0161%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 0.810000  0.145000  0.038000  0.006820  0.000265 
+[1] "PP abf for shared variant: 0.0265%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 0.804000  0.157000  0.032700  0.006360  0.000203 
+[1] "PP abf for shared variant: 0.0203%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 0.787000  0.144000  0.058100  0.010600  0.000388 
+[1] "PP abf for shared variant: 0.0388%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.22e-88  9.57e-01  8.69e-90  3.75e-02  5.27e-03 
+[1] "PP abf for shared variant: 0.527%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.23e-88  9.62e-01  8.50e-90  3.67e-02  9.98e-04 
+[1] "PP abf for shared variant: 0.0998%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.24e-88  9.68e-01  6.66e-90  2.87e-02  3.10e-03 
+[1] "PP abf for shared variant: 0.31%"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 2.19e-88  9.45e-01  1.23e-89  5.33e-02  1.55e-03 
+[1] "PP abf for shared variant: 0.155%"
+There were 18 warnings (use warnings() to see them)
+
+=== DEFAULT PRIORS ===
+                        pair          outcome nsnps         PP.H0     PP.H1
+nsnps      nppa_eqtl_cad_vdh ebi-a-GCST005195  1923 1.074041e-100 0.9213948
+nsnps1  nppa_eqtl_cad_cardio          ieu-a-7  2005 4.831534e-125 0.9349836
+nsnps2          nppa_eqtl_af ebi-a-GCST006061  2480 8.540896e-101 0.7327038
+nsnps3          nppa_eqtl_hf ebi-a-GCST009541  1931 4.848898e-125 0.9383439
+nsnps4      nppa_eqtl_stroke ebi-a-GCST005838  1900 4.163858e-125 0.8057769
+nsnps5         nppa_eqtl_ces ebi-a-GCST006910  1974 4.411466e-125 0.8536933
+nsnps6     npr3_eqtl_cad_vdh ebi-a-GCST005195  1879  8.027474e-01 0.1540085
+nsnps7  npr3_eqtl_cad_cardio          ieu-a-7  1906  8.076099e-01 0.1450420
+nsnps8      npr3_eqtl_mi_har ebi-a-GCST011364  1979  8.026986e-01 0.1562934
+nsnps9     npr3_eqtl_mi_finn     finn-b-I9_MI  1902  7.840520e-01 0.1435732
+nsnps10     npr3_sbp_cad_vdh ebi-a-GCST005195  1650  2.116508e-88 0.9139252
+nsnps11  npr3_sbp_cad_cardio          ieu-a-7  1625  2.208676e-88 0.9537239
+nsnps12      npr3_sbp_mi_har ebi-a-GCST011364  1650  2.181235e-88 0.9418749
+nsnps13     npr3_sbp_mi_finn     finn-b-I9_MI  1610  2.158800e-88 0.9321874
+                PP.H2       PP.H3       PP.H4 exp_sdy
+nsnps   7.923945e-102 0.067967055 0.010638187     1.0
+nsnps1  2.946818e-126 0.057017921 0.007998481     1.0
+nsnps2  2.869744e-101 0.246167541 0.021128693     1.0
+nsnps3  2.645786e-126 0.051189967 0.010466176     1.0
+nsnps4  4.247628e-126 0.082086659 0.112136416     1.0
+nsnps5  6.464462e-126 0.125077046 0.021229678     1.0
+nsnps6   3.493229e-02 0.006700209 0.001611641     1.0
+nsnps7   3.790226e-02 0.006804383 0.002641436     1.0
+nsnps8   3.263058e-02 0.006351470 0.002025969     1.0
+nsnps9   5.791091e-02 0.010600607 0.003863307     1.0
+nsnps10  8.295767e-90 0.035771488 0.050303316    18.5
+nsnps11  8.428395e-90 0.036384596 0.009891462    18.5
+nsnps12  6.476087e-90 0.027934077 0.030190975    18.5
+nsnps13  1.217188e-89 0.052543908 0.015268687    18.5
+
+=== p12 = 1e-4 ===
+                        pair          outcome nsnps         PP.H0     PP.H1
+nsnps      nppa_eqtl_cad_vdh ebi-a-GCST005195  1923 9.801934e-101 0.8408853
+nsnps1  nppa_eqtl_cad_cardio          ieu-a-7  2005 4.507085e-125 0.8721973
+nsnps2          nppa_eqtl_af ebi-a-GCST006061  2480 7.176269e-101 0.6156356
+nsnps3          nppa_eqtl_hf ebi-a-GCST009541  1931 4.431473e-125 0.8575650
+nsnps4      nppa_eqtl_stroke ebi-a-GCST005838  1900 2.072367e-125 0.4010381
+nsnps5         nppa_eqtl_ces ebi-a-GCST006910  1974 3.703793e-125 0.7167466
+nsnps6     npr3_eqtl_cad_vdh ebi-a-GCST005195  1879  7.912702e-01 0.1518066
+nsnps7  npr3_eqtl_cad_cardio          ieu-a-7  1906  7.888565e-01 0.1416740
+nsnps8      npr3_eqtl_mi_har ebi-a-GCST011364  1979  7.883245e-01 0.1534946
+nsnps9     npr3_eqtl_mi_finn     finn-b-I9_MI  1902  7.577067e-01 0.1387490
+nsnps10     npr3_sbp_cad_vdh ebi-a-GCST005195  1650  1.456918e-88 0.6291088
+nsnps11  npr3_sbp_cad_cardio          ieu-a-7  1625  2.028126e-88 0.8757609
+nsnps12      npr3_sbp_mi_har ebi-a-GCST011364  1650  1.715187e-88 0.7406315
+nsnps13     npr3_sbp_mi_finn     finn-b-I9_MI  1610  1.897983e-88 0.8195644
+                PP.H2       PP.H3      PP.H4 exp_sdy
+nsnps   7.231568e-102 0.062028243 0.09708646     1.0
+nsnps1  2.748933e-126 0.053189038 0.07461365     1.0
+nsnps2  2.411229e-101 0.206835977 0.17752843     1.0
+nsnps3  2.418019e-126 0.046783197 0.09565178     1.0
+nsnps4  2.114060e-126 0.040854830 0.55810705     1.0
+nsnps5  5.427454e-126 0.105012594 0.17824082     1.0
+nsnps6   3.443285e-02 0.006604413 0.01588599     1.0
+nsnps7   3.702213e-02 0.006646379 0.02580100     1.0
+nsnps8   3.204625e-02 0.006237733 0.01989690     1.0
+nsnps9   5.596502e-02 0.010244411 0.03733494     1.0
+nsnps10  5.710468e-90 0.024623634 0.34626752    18.5
+nsnps11  7.739408e-90 0.033410305 0.09082876    18.5
+nsnps12  5.092390e-90 0.021965608 0.23740292    18.5
+nsnps13  1.070133e-89 0.046195769 0.13423987    18.5
+
+=== p12 = 1e-6 ===
+                        pair          outcome nsnps         PP.H0     PP.H1
+nsnps      nppa_eqtl_cad_vdh ebi-a-GCST005195  1923 1.084423e-100 0.9303018
+nsnps1  nppa_eqtl_cad_cardio          ieu-a-7  2005 4.866566e-125 0.9417630
+nsnps2          nppa_eqtl_af ebi-a-GCST006061  2480 8.706457e-101 0.7469068
+nsnps3          nppa_eqtl_hf ebi-a-GCST009541  1931 4.895007e-125 0.9472667
+nsnps4      nppa_eqtl_stroke ebi-a-GCST005838  1900 4.631257e-125 0.8962266
+nsnps5         nppa_eqtl_ces ebi-a-GCST006910  1974 4.497396e-125 0.8703223
+nsnps6     npr3_eqtl_cad_vdh ebi-a-GCST005195  1879  8.039134e-01 0.1542322
+nsnps7  npr3_eqtl_cad_cardio          ieu-a-7  1906  8.095344e-01 0.1453877
+nsnps8      npr3_eqtl_mi_har ebi-a-GCST011364  1979  8.041649e-01 0.1565789
+nsnps9     npr3_eqtl_mi_finn     finn-b-I9_MI  1902  7.867876e-01 0.1440742
+nsnps10     npr3_sbp_cad_vdh ebi-a-GCST005195  1650  2.216872e-88 0.9572634
+nsnps11  npr3_sbp_cad_cardio          ieu-a-7  1625  2.228515e-88 0.9622906
+nsnps12      npr3_sbp_mi_har ebi-a-GCST011364  1650  2.242159e-88 0.9681823
+nsnps13     npr3_sbp_mi_finn     finn-b-I9_MI  1610  2.188880e-88 0.9451758
+                PP.H2       PP.H3        PP.H4 exp_sdy
+nsnps   8.000545e-102 0.068624088 0.0010741026     1.0
+nsnps1  2.968185e-126 0.057431349 0.0008056477     1.0
+nsnps2  2.925372e-101 0.250939359 0.0021538260     1.0
+nsnps3  2.670945e-126 0.051676739 0.0010565700     1.0
+nsnps4  4.724431e-126 0.091301010 0.0124723898     1.0
+nsnps5  6.590382e-126 0.127513408 0.0021643208     1.0
+nsnps6   3.498303e-02 0.006709942 0.0001613982     1.0
+nsnps7   3.799258e-02 0.006820597 0.0002647731     1.0
+nsnps8   3.269018e-02 0.006363073 0.0002029670     1.0
+nsnps9   5.811296e-02 0.010637594 0.0003876786     1.0
+nsnps10  8.689151e-90 0.037467766 0.0052688690    18.5
+nsnps11  8.504101e-90 0.036711413 0.0009980310    18.5
+nsnps12  6.656970e-90 0.028714298 0.0031034234    18.5
+nsnps13  1.234148e-89 0.053276017 0.0015481430    18.5
+
+DONE

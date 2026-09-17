@@ -1,0 +1,19 @@
+﻿Analysis,n,events,HR,95% CI,p
+"HRS — per-IQR ln NT-proBNP → all-cause death (DM-controlled, primary, 12 covariates)",510,98,1.606,1.102-2.340,0.014
+"HRS — same, without cystatin C (11 covariates)",510,98,1.835,1.262-2.666,0.001
+"HRS — same, MICE pooled (m=20)",541,98,1.554,1.061-2.276,0.024
+"HRS — same, VBS-weighted (with cystatin C)",498,98,1.60,1.09-2.36,0.018
+"HRS — same, core 6-covariate model",517,98,1.947,1.413-2.682,<0.001
+"HRS — same, L2-penalized Cox",510,98,1.436,1.118-1.845,0.005
+"HRS — same, bootstrap (500 resamples, percentile 95% CI)",510,98,1.612,1.075-2.480,—
+"HRS — same, excluding deaths <1 year (reverse-causation test)",501,89,1.693,1.149-2.496,0.008
+"HRS — same, excluding deaths <2 years (reverse-causation test)",486,74,1.709,1.104-2.647,0.016
+"HRS — same, mutually adjusted for ln hsCRP",509,98,1.556,1.067-2.267,0.021
+"HRS — per-IQR ln hsCRP → all-cause death (DM-controlled, single-exposure)",509,98,1.198,0.920-1.562,0.180
+"HRS — per-IQR ln NT-proBNP → all-cause death (baseline CVD-free DM-controlled)",330,44,1.083,0.605-1.937,0.789
+"HRS — per-IQR ln NT-proBNP → incident CVD (baseline CVD-free)",330,63,1.963,1.202-3.205,0.007
+"HRS — per-IQR ln NT-proBNP → CVD death (cause-specific; underpowered)",523,16,1.273,0.486-3.332,0.623
+"CHARLS — per-IQR ln hsCRP → incident CVD (DM-controlled, cluster-robust)",361,106,1.273,1.013-1.598,0.038
+CHARLS — same + cystatin C + cancer,354,103,1.285,1.017-1.623,0.036
+CHARLS — same + ln TG + ln HDL (pre-specified overadjustment test),361,106,1.223,0.963-1.553,0.098
+"CHARLS — same, blood-weighted + cluster-robust",359,106,1.37,1.04-1.81,0.025

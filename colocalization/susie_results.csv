@@ -1,0 +1,19 @@
+"pair","note"
+"nppa_eqtl_cad_vdh","no colocalizable credible set pair"
+"nppa_eqtl_cad_cardio","susie error: Error in susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  : 
+  The estimated prior variance is unreasonably"
+"nppa_eqtl_af","no colocalizable credible set pair"
+"nppa_eqtl_hf","susie error: Error in susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  : 
+  The estimated prior variance is unreasonably"
+"nppa_eqtl_stroke","susie error: Error in susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  : 
+  The estimated prior variance is unreasonably"
+"nppa_eqtl_ces","susie error: Error in susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  : 
+  The estimated prior variance is unreasonably"
+"npr3_eqtl_cad_vdh","no colocalizable credible set pair"
+"npr3_eqtl_cad_cardio","no colocalizable credible set pair"
+"npr3_eqtl_mi_har","no colocalizable credible set pair"
+"npr3_eqtl_mi_finn","no colocalizable credible set pair"
+"npr3_sbp_cad_vdh","no colocalizable credible set pair"
+"npr3_sbp_cad_cardio","no colocalizable credible set pair"
+"npr3_sbp_mi_har","no colocalizable credible set pair"
+"npr3_sbp_mi_finn","no colocalizable credible set pair"

@@ -1,0 +1,26 @@
+
+===== A. GWAS Catalog associations for rs5068 =====
+  associations: 5
+  unique studies: 5
+  GCST90435415  full=True  Systolic blood pressure                        A Genomics England haplotype reference panel and imputation of UK Biob
+  GCST90269748  full=False  Systolic blood pressure                        Meta-Analysis and Multivariate GWAS Analyses in 77,850 Individuals of 
+  GCST90269749  full=False  Diastolic blood pressure                       Meta-Analysis and Multivariate GWAS Analyses in 77,850 Individuals of 
+  GCST006187  full=False  Diastolic blood pressure (cigarette smoking i  A Large-Scale Multi-ancestry Genome-wide Study Accounting for Smoking 
+  GCST006188  full=False  Systolic blood pressure (cigarette smoking in  A Large-Scale Multi-ancestry Genome-wide Study Accounting for Smoking 
+
+===== A. GWAS Catalog associations for rs1421811 =====
+  associations: 2
+  unique studies: 2
+  GCST002497  full=False  Blood pressure                                 Gene-age interactions in blood pressure regulation: a large-scale inve
+  GCST012227  full=True  Hip circumference adjusted for BMI             GWAS of allometric body-shape indices in UK Biobank identifies loci su
+
+===== B. OpenGWAS 命名空间探测 =====
+  [OK] ebi-a-GCST90012062: Galanin peptide levels n=21758 year=2020
+  [OK] prot-b-1: SRC proto-oncogene, non-receptor tyrosine kinase n=3394 year=2018
+  [--] prot-b-100: 不存在
+  [--] prot-c-1: 不存在
+  [--] prot-c-100: 不存在
+  [OK] bbj-a-159: Coronary artery disease n=212453 year=2020
+  [OK] bbj-a-109: Congestive heart failure n=212453 year=2019
+  [OK] bbj-a-151: Rheumatoid arthritis n=212453 year=2019
+  [OK] ebi-a-GCST90018695: Stable angina pectoris n=165047 year=2021

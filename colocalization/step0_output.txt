@@ -1,0 +1,10 @@
+﻿rs5068       ebi-a-GCST005195         chr1:11905974 beta=-0.0382092 se=0.0155214 p=0.0140001 n=547261 ea=G nea=A eaf=
+rs1421811    ebi-a-GCST005195         chr5:32714270 beta=-0.0125941 se=0.0071771 p=0.0790005 n=547261 ea=G nea=C eaf=
+rs5068       ebi-a-GCST006061         chr1:11905974 beta=0.0576 se=0.0166 p=0.000531398 n=537409 ea=G nea=A eaf=
+rs1421811    ebi-a-GCST006061         chr5:32714270 beta=-0.0159 se=0.0075 p=0.0325897 n=537409 ea=G nea=C eaf=
+rs1421811    eqtl-a-ENSG00000113389   chr5:32714270 beta=-0.00532599 se=0.0123002 p=0.664869 n=25571 ea=G nea=C eaf=0.374028
+rs5068       eqtl-a-ENSG00000175206   chr1:11905974 beta=0.108072 se=0.0252729 p=1.90112e-05 n=25300 ea=G nea=A eaf=0.0588517
+rs5068       ieu-a-7                  chr1:11905974 beta=-0.004609 se=0.0215213 p=0.830423 n=184305 ea=G nea=A eaf=0.053601
+rs1421811    ieu-a-7                  chr5:32714270 beta=-0.011844 se=0.0099438 p=0.233616 n=184305 ea=G nea=C eaf=0.350726
+
+Total records: 8

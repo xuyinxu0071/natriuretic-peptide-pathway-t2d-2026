@@ -1,0 +1,28 @@
+# Secrets / credentials — NEVER commit
+.opengwas_token.txt
+*.token
+*_token.txt
+.env
+secrets.txt
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large intermediate binaries (keep scripts only)
+*.bin
+*.so
+*.o
+
+# Editor
+*.swp
+*~
+
+# Log files (keep selected *_results.txt that are part of results/)
+tmp/
+GitHub_Zenodo_*.md

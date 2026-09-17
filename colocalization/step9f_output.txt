@@ -1,0 +1,48 @@
+ebi-a-GCST90012082
+  trait=N-terminal prohormone brain natriuretic peptide levels
+  author=Folkersen L  year=2020  pmid=33067605
+  n=21758 ncase=None ncontrol=None
+  pop=European  group=public
+
+prot-a-2078
+  trait=N-terminal pro-BNP
+  author=Sun BB  year=2018  pmid=29875488
+  n=3301 ncase=None ncontrol=None
+  pop=European  group=public
+
+prot-a-2076
+  trait=Atrial natriuretic factor
+  author=Sun BB  year=2018  pmid=29875488
+  n=3301 ncase=None ncontrol=None
+  pop=European  group=public
+
+bbj-a-159
+  trait=Coronary artery disease
+  author=Ishigaki K  year=2020  pmid=None
+  n=212453 ncase=29319 ncontrol=183134
+  pop=East Asian  group=public
+
+bbj-a-109
+  trait=Congestive heart failure
+  author=Ishigaki K  year=2019  pmid=None
+  n=212453 ncase=9413 ncontrol=203040
+  pop=East Asian  group=public
+
+bbj-a-129
+  trait=Ischemic stroke
+  author=Ishigaki K  year=2019  pmid=None
+  n=210054 ncase=17671 ncontrol=192383
+  pop=East Asian  group=public
+
+bbj-a-71
+  trait=Atrial Fibrillation
+  author=Ishigaki K  year=2019  pmid=28416822
+  n=36792 ncase=8180 ncontrol=28612
+  pop=East Asian  group=public
+
+ebi-a-GCST90085762
+  trait=NT proBNP plasma levels
+  author=Caron B  year=2022  pmid=35264221
+  n=400 ncase=None ncontrol=None
+  pop=European  group=public
+

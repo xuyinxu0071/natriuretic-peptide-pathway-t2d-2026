@@ -1,0 +1,30 @@
+plink nppa: 已存在
+  bim SNPs: 992
+plink npr3: rc=0, bed exists=True
+  bim SNPs: 773
+besd SCALLOP: rc=3221225477, exists=False
+besd INTERVAL: rc=3221225477, exists=False
+besd NPPAeQTL: rc=3221225477, exists=False
+besd NPR3eQTL: rc=3221225477, exists=False
+smr SCALLOP__x__CAD_cardio_nppa: rc=0, result=NO OUTPUT
+smr SCALLOP__x__CAD_vdh_nppa: rc=0, result=NO OUTPUT
+smr SCALLOP__x__AF_nppa: rc=0, result=NO OUTPUT
+smr SCALLOP__x__HF_nppa: rc=0, result=NO OUTPUT
+smr SCALLOP__x__stroke_nppa: rc=0, result=NO OUTPUT
+smr SCALLOP__x__CES_nppa: rc=0, result=NO OUTPUT
+smr INTERVAL__x__CAD_cardio_nppa: rc=0, result=NO OUTPUT
+smr INTERVAL__x__CAD_vdh_nppa: rc=0, result=NO OUTPUT
+smr INTERVAL__x__AF_nppa: rc=0, result=NO OUTPUT
+smr INTERVAL__x__HF_nppa: rc=0, result=NO OUTPUT
+smr INTERVAL__x__stroke_nppa: rc=0, result=NO OUTPUT
+smr INTERVAL__x__CES_nppa: rc=0, result=NO OUTPUT
+smr NPPAeQTL__x__CAD_cardio_nppa: rc=0, result=NO OUTPUT
+smr NPPAeQTL__x__CAD_vdh_nppa: rc=0, result=NO OUTPUT
+smr NPPAeQTL__x__AF_nppa: rc=0, result=NO OUTPUT
+smr NPPAeQTL__x__HF_nppa: rc=0, result=NO OUTPUT
+smr NPPAeQTL__x__stroke_nppa: rc=0, result=NO OUTPUT
+smr NPPAeQTL__x__CES_nppa: rc=0, result=NO OUTPUT
+smr NPR3eQTL__x__CAD_cardio_npr3: rc=0, result=NO OUTPUT
+smr NPR3eQTL__x__CAD_vdh_npr3: rc=0, result=NO OUTPUT
+smr NPR3eQTL__x__MI_har_npr3: rc=0, result=NO OUTPUT
+smr NPR3eQTL__x__MI_finn_npr3: rc=0, result=NO OUTPUT

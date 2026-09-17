@@ -1,0 +1,39 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --make-bed
+  --out C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa
+  --vcf C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa.vcf
+
+Hostname: TOMMEY
+Working directory: C:\Users\xuyin\WorkBuddy\2026-09-13-15-20-56
+Start time: Mon Sep 14 09:53:50 2026
+
+Random number seed: 1789350830
+130681 MB RAM detected; reserving 65340 MB for main workspace.
+--vcf:
+C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa-temporary.bed
++
+C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa-temporary.bim
++
+C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa-temporary.fam
+written.
+992 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa.nosex
+.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is in [0.9999995, 1).
+992 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to
+C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa.bed
++
+C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa.bim
++
+C:\Users\xuyin\WorkBuddy\2026-09-11-14-07-58\CD特刊选题评估\coloc_analysis\eur_nppa.fam
+... done.
+
+End time: Mon Sep 14 09:53:50 2026

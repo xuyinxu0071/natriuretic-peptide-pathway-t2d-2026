@@ -1,0 +1,1 @@
+corr(bx,bm) across 52 IVs = -0.8305

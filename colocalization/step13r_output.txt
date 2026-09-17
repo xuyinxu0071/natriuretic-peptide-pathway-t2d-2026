@@ -1,0 +1,134 @@
+refSNP SMR & HEIDI at rs5068 — port of official SMR v1.4.2 (--snp rs5068 path; heidi_test_ref_new)
+Note: with --snp specified, SMR does NOT apply the p_smr filter to the
+      instrument (source line 4084: filter only when refSNP==nullptr).
+
+====================================================================================================
+Exposure: SCALLOP     Outcome: AF           refSNP: rs5068
+  instrument: b_exp=0.1452  se_exp=0.0338  z=4.30  p_eQTL=1.74e-05
+  outcome:   b_GWAS=0.0576  se_GWAS=0.0166
+  SMR test at rs5068: b_SMR=0.39669  se_SMR=0.14696  chi2=7.286  p_SMR=0.006948
+  HEIDI (ref new): p_HEIDI=0.2012  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: CAD_cardio   refSNP: rs5068
+  instrument: b_exp=0.1452  se_exp=0.0338  z=4.30  p_eQTL=1.74e-05
+  outcome:   b_GWAS=-0.004609  se_GWAS=0.021521
+  SMR test at rs5068: b_SMR=-0.031742  se_SMR=0.1484  chi2=0.046  p_SMR=0.8306
+  HEIDI (ref new): p_HEIDI=0.07404  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: CAD_vdh      refSNP: rs5068
+  instrument: b_exp=0.1452  se_exp=0.0338  z=4.30  p_eQTL=1.74e-05
+  outcome:   b_GWAS=-0.038209  se_GWAS=0.015521
+  SMR test at rs5068: b_SMR=-0.26315  se_SMR=0.1232  chi2=4.562  p_SMR=0.03269
+  HEIDI (ref new): p_HEIDI=0.1585  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: CES          refSNP: rs5068
+  instrument: b_exp=0.1452  se_exp=0.0338  z=4.30  p_eQTL=1.74e-05
+  outcome:   b_GWAS=0.102  se_GWAS=0.0434
+  SMR test at rs5068: b_SMR=0.70248  se_SMR=0.34071  chi2=4.251  p_SMR=0.03922
+  HEIDI (ref new): p_HEIDI=0.2802  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: HF           refSNP: rs5068
+  instrument: b_exp=0.1452  se_exp=0.0338  z=4.30  p_eQTL=1.74e-05
+  outcome:   b_GWAS=0.0267  se_GWAS=0.0174
+  SMR test at rs5068: b_SMR=0.18388  se_SMR=0.12725  chi2=2.088  p_SMR=0.1484
+  HEIDI (ref new): p_HEIDI=0.2722  nsnp=20
+====================================================================================================
+Exposure: SCALLOP     Outcome: stroke       refSNP: rs5068
+  instrument: b_exp=0.1452  se_exp=0.0338  z=4.30  p_eQTL=1.74e-05
+  outcome:   b_GWAS=-0.0153  se_GWAS=0.0194
+  SMR test at rs5068: b_SMR=-0.10537  se_SMR=0.13584  chi2=0.602  p_SMR=0.4379
+  HEIDI (ref new): p_HEIDI=0.4542  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: AF           refSNP: rs5068
+  instrument: b_exp=0.1673  se_exp=0.0564  z=2.97  p_eQTL=0.00301
+  outcome:   b_GWAS=0.0576  se_GWAS=0.0166
+  SMR test at rs5068: b_SMR=0.34429  se_SMR=0.1527  chi2=5.084  p_SMR=0.02415
+  HEIDI (ref new): p_HEIDI=0.1074  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: CAD_cardio   refSNP: rs5068
+  instrument: b_exp=0.1673  se_exp=0.0564  z=2.97  p_eQTL=0.00301
+  outcome:   b_GWAS=-0.004609  se_GWAS=0.021521
+  SMR test at rs5068: b_SMR=-0.027549  se_SMR=0.12897  chi2=0.046  p_SMR=0.8309
+  HEIDI (ref new): p_HEIDI=0.05209  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: CAD_vdh      refSNP: rs5068
+  instrument: b_exp=0.1673  se_exp=0.0564  z=2.97  p_eQTL=0.00301
+  outcome:   b_GWAS=-0.038209  se_GWAS=0.015521
+  SMR test at rs5068: b_SMR=-0.22839  se_SMR=0.12056  chi2=3.589  p_SMR=0.05818
+  HEIDI (ref new): p_HEIDI=0.1588  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: CES          refSNP: rs5068
+  instrument: b_exp=0.1673  se_exp=0.0564  z=2.97  p_eQTL=0.00301
+  outcome:   b_GWAS=0.102  se_GWAS=0.0434
+  SMR test at rs5068: b_SMR=0.60968  se_SMR=0.33097  chi2=3.393  p_SMR=0.06546
+  HEIDI (ref new): p_HEIDI=0.2938  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: HF           refSNP: rs5068
+  instrument: b_exp=0.1673  se_exp=0.0564  z=2.97  p_eQTL=0.00301
+  outcome:   b_GWAS=0.0267  se_GWAS=0.0174
+  SMR test at rs5068: b_SMR=0.15959  se_SMR=0.1171  chi2=1.858  p_SMR=0.1729
+  HEIDI (ref new): p_HEIDI=0.1926  nsnp=20
+====================================================================================================
+Exposure: INTERVAL    Outcome: stroke       refSNP: rs5068
+  instrument: b_exp=0.1673  se_exp=0.0564  z=2.97  p_eQTL=0.00301
+  outcome:   b_GWAS=-0.0153  se_GWAS=0.0194
+  SMR test at rs5068: b_SMR=-0.091452  se_SMR=0.11999  chi2=0.581  p_SMR=0.446
+  HEIDI (ref new): p_HEIDI=0.6446  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: AF           refSNP: rs5068
+  instrument: b_exp=0.10807  se_exp=0.025273  z=4.28  p_eQTL=1.9e-05
+  outcome:   b_GWAS=0.0576  se_GWAS=0.0166
+  SMR test at rs5068: b_SMR=0.53298  se_SMR=0.19781  chi2=7.260  p_SMR=0.007051
+  HEIDI (ref new): p_HEIDI=0.1363  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: CAD_cardio   refSNP: rs5068
+  instrument: b_exp=0.10807  se_exp=0.025273  z=4.28  p_eQTL=1.9e-05
+  outcome:   b_GWAS=-0.004609  se_GWAS=0.021521
+  SMR test at rs5068: b_SMR=-0.042647  se_SMR=0.19939  chi2=0.046  p_SMR=0.8306
+  HEIDI (ref new): p_HEIDI=0.061  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: CAD_vdh      refSNP: rs5068
+  instrument: b_exp=0.10807  se_exp=0.025273  z=4.28  p_eQTL=1.9e-05
+  outcome:   b_GWAS=-0.038209  se_GWAS=0.015521
+  SMR test at rs5068: b_SMR=-0.35355  se_SMR=0.16572  chi2=4.552  p_SMR=0.03289
+  HEIDI (ref new): p_HEIDI=0.2835  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: CES          refSNP: rs5068
+  instrument: b_exp=0.10807  se_exp=0.025273  z=4.28  p_eQTL=1.9e-05
+  outcome:   b_GWAS=0.102  se_GWAS=0.0434
+  SMR test at rs5068: b_SMR=0.94382  se_SMR=0.45824  chi2=4.242  p_SMR=0.03943
+  HEIDI (ref new): p_HEIDI=0.05099  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: HF           refSNP: rs5068
+  instrument: b_exp=0.10807  se_exp=0.025273  z=4.28  p_eQTL=1.9e-05
+  outcome:   b_GWAS=0.0267  se_GWAS=0.0174
+  SMR test at rs5068: b_SMR=0.24706  se_SMR=0.17106  chi2=2.086  p_SMR=0.1487
+  HEIDI (ref new): p_HEIDI=0.3384  nsnp=20
+====================================================================================================
+Exposure: NPPAeQTL    Outcome: stroke       refSNP: rs5068
+  instrument: b_exp=0.10807  se_exp=0.025273  z=4.28  p_eQTL=1.9e-05
+  outcome:   b_GWAS=-0.0153  se_GWAS=0.0194
+  SMR test at rs5068: b_SMR=-0.14157  se_SMR=0.18254  chi2=0.602  p_SMR=0.438
+  HEIDI (ref new): p_HEIDI=0.3923  nsnp=20
+
+====================================================================================================
+SUMMARY (refSNP = rs5068)
+Exposure   Outcome         p_eQTL      p_SMR      b_SMR  p_HEIDI   nsnp
+SCALLOP    AF            1.74e-05    0.00695      0.397    0.201     20
+SCALLOP    CAD_cardio    1.74e-05      0.831    -0.0317    0.074     20
+SCALLOP    CAD_vdh       1.74e-05     0.0327     -0.263    0.158     20
+SCALLOP    CES           1.74e-05     0.0392      0.702     0.28     20
+SCALLOP    HF            1.74e-05      0.148      0.184    0.272     20
+SCALLOP    stroke        1.74e-05      0.438     -0.105    0.454     20
+INTERVAL   AF             0.00301     0.0242      0.344    0.107     20
+INTERVAL   CAD_cardio     0.00301      0.831    -0.0275   0.0521     20
+INTERVAL   CAD_vdh        0.00301     0.0582     -0.228    0.159     20
+INTERVAL   CES            0.00301     0.0655       0.61    0.294     20
+INTERVAL   HF             0.00301      0.173       0.16    0.193     20
+INTERVAL   stroke         0.00301      0.446    -0.0915    0.645     20
+NPPAeQTL   AF             1.9e-05    0.00705      0.533    0.136     20
+NPPAeQTL   CAD_cardio     1.9e-05      0.831    -0.0426    0.061     20
+NPPAeQTL   CAD_vdh        1.9e-05     0.0329     -0.354    0.283     20
+NPPAeQTL   CES            1.9e-05     0.0394      0.944    0.051     20
+NPPAeQTL   HF             1.9e-05      0.149      0.247    0.338     20
+NPPAeQTL   stroke         1.9e-05      0.438     -0.142    0.392     20

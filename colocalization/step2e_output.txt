@@ -1,0 +1,3 @@
+﻿rs5068 refsnp failed: HTTP Error 404: Not Found
+rs1421811 refsnp failed: HTTP Error 404: Not Found
+dbSNP FTP failed: HTTP Error 404: Not Found

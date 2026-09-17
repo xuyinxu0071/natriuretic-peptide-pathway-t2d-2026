@@ -1,0 +1,4 @@
+json keys/type: <class 'dict'>
+rs1421811 entries: []
+rs1421811 in ld_npr3: True
+efile n=501; rs1421811 in efile: False

@@ -1,0 +1,102 @@
+﻿Rscript.exe : During startup - Warning messages:
+所在位置 行:445 字符: 86
++ ... _analysis"; & "C:\Program Files\R\R-4.5.2\bin\Rscript.exe" step7_susi ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (During startup - Warning messages::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+Warning messages:
+1: package 'coloc' was built under R version 4.5.3 
+2: package 'susieR' was built under R version 4.5.3 
+running max iterations: 100
+	converged: FALSE
+running max iterations: 10000
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: FALSE
+running max iterations: 10000
+running max iterations: 100
+	converged: FALSE
+running max iterations: 10000
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: FALSE
+running max iterations: 10000
+running max iterations: 100
+	converged: FALSE
+running max iterations: 10000
+running max iterations: 100
+	converged: FALSE
+running max iterations: 10000
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+running max iterations: 100
+	converged: TRUE
+There were 20 warnings (use warnings() to see them)
+                   pair
+1     nppa_eqtl_cad_vdh
+2  nppa_eqtl_cad_cardio
+3          nppa_eqtl_af
+4          nppa_eqtl_hf
+5      nppa_eqtl_stroke
+6         nppa_eqtl_ces
+7     npr3_eqtl_cad_vdh
+8  npr3_eqtl_cad_cardio
+9      npr3_eqtl_mi_har
+10    npr3_eqtl_mi_finn
+11     npr3_sbp_cad_vdh
+12  npr3_sbp_cad_cardio
+13      npr3_sbp_mi_har
+14     npr3_sbp_mi_finn
+                                                                                                                                     note
+1                                                                                                      no colocalizable credible set pair
+2  susie error: Error in susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  : \n  The estimated prior variance is unreasonably
+3                                                                                                      no colocalizable credible set pair
+4  susie error: Error in susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  : \n  The estimated prior variance is unreasonably
+5  susie error: Error in susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  : \n  The estimated prior variance is unreasonably
+6  susie error: Error in susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  : \n  The estimated prior variance is unreasonably
+7                                                                                                      no colocalizable credible set pair
+8                                                                                                      no colocalizable credible set pair
+9                                                                                                      no colocalizable credible set pair
+10                                                                                                     no colocalizable credible set pair
+11                                                                                                     no colocalizable credible set pair
+12                                                                                                     no colocalizable credible set pair
+13                                                                                                     no colocalizable credible set pair
+14                                                                                                     no colocalizable credible set pair
+DONE

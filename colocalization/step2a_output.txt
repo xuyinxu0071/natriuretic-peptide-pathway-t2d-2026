@@ -1,0 +1,16 @@
+﻿status: 206
+Content-Range: bytes 0-9999/1458224240
+Content-Length: 10000
+bytes got: 10000
+decompressed chars: 65536
+first 500: ##fileformat=VCFv4.1
+##FILTER=<ID=PASS,Description="All filters passed">
+##fileDate=20150218
+##reference=ftp://ftp.1000genomes.ebi.ac.uk//vol1/ftp/technical/reference/phase2_reference_assembly_sequence/hs37d5.fa.gz
+##source=1000GenomesPhase3Pipeline
+##contig=<ID=1,assembly=b37,length=249250621>
+##contig=<ID=2,assembly=b37,length=243199373>
+##contig=<ID=3,assembly=b37,length=198022430>
+##contig=<ID=4,assembly=b37,length=191154276>
+##contig=<ID=5,assembly=b37,length=180915260>
+##contig=<ID=6,assem

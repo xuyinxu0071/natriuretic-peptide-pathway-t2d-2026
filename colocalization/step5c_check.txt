@@ -1,0 +1,10 @@
+﻿
+step5c_coloc_narrow.R:9:INDIR <- file.path(WORK, "coloc_inputs_narrow")
+step5c_coloc_narrow.R:82:write.csv(main_default, file.path(WORK, "coloc_results
+_narrow.csv"), row.names = FALSE)
+step5c_coloc_narrow.R:83:write.csv(main_up, file.path(WORK, "coloc_results_narr
+ow_p12up.csv"), row.names = FALSE)
+step5c_coloc_narrow.R:84:write.csv(main_dn, file.path(WORK, "coloc_results_narr
+ow_p12dn.csv"), row.names = FALSE)
+
+

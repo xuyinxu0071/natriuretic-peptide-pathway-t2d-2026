@@ -1,0 +1,38 @@
+NP exposure SCALLOP_NTproBNP: 4 instruments ['rs198389', 'rs198379', 'rs6668659', 'rs12406089']
+NP exposure INTERVAL_NTproBNP: 4 instruments ['rs198389', 'rs198379', 'rs6668659', 'rs12406089']
+NP exposure NPPA_eQTL: 3 instruments ['rs198367', 'rs77157935', 'rs198382']
+
+=== Step B: mediator -> AF (IVW RE) ===
+  SBP -> AF: k=385 b=0.01315 se=0.002298 z=5.72 p=1.06e-08 (Q_p=1.33e-38, excl=6)
+  DBP -> AF: k=393 b=0.02379 se=0.004057 z=5.86 p=4.57e-09 (Q_p=8.69e-47, excl=8)
+  BMI -> AF: k=441 b=0.3136 se=0.03302 z=9.49 p=2.21e-21 (Q_p=5.15e-18, excl=4)
+  eGFR -> AF: k=0 insufficient (tophits/AF file missing)
+  T2D -> AF: k=56 b=0.0006111 se=0.02725 z=0.02 p=0.982 (Q_p=1.62e-06, excl=2)
+
+=== Step A: NP -> mediator (IVW RE) ===
+  SCALLOP_NTproBNP -> SBP: k=3 b1=-2.361 se=0.2172 p=1.63e-27 (Q_p=0.0907)
+    INDIRECT SCALLOP_NTproBNP via SBP: b=-0.031036 se=0.0061313 z=-5.06 p=4.15e-07
+  SCALLOP_NTproBNP -> DBP: k=3 b1=-1.29 se=0.1259 p=1.27e-24 (Q_p=0.0746)
+    INDIRECT SCALLOP_NTproBNP via DBP: b=-0.030678 se=0.0060296 z=-5.09 p=3.62e-07
+  SCALLOP_NTproBNP -> BMI: k=2 b1=0.02501 se=0.006357 p=8.32e-05 (Q_p=0.932)
+    INDIRECT SCALLOP_NTproBNP via BMI: b=0.0078427 se=0.0021575 z=3.64 p=0.000278
+  SCALLOP_NTproBNP -> eGFR: k=3 b1=-0.1235 se=0.296 p=0.677 (Q_p=0.898)
+  SCALLOP_NTproBNP -> T2D: k=3 b1=-0.08994 se=0.02131 p=2.43e-05 (Q_p=0.925)
+    INDIRECT SCALLOP_NTproBNP via T2D: b=-5.4964e-05 se=0.0024511 z=-0.02 p=0.982
+  INTERVAL_NTproBNP -> SBP: k=3 b1=-1.659 se=0.1051 p=4.66e-56 (Q_p=0.396)
+    INDIRECT INTERVAL_NTproBNP via SBP: b=-0.021804 se=0.0040546 z=-5.38 p=7.55e-08
+  INTERVAL_NTproBNP -> DBP: k=3 b1=-0.9048 se=0.06035 p=8.33e-51 (Q_p=0.344)
+    INDIRECT INTERVAL_NTproBNP via DBP: b=-0.021521 se=0.0039418 z=-5.46 p=4.77e-08
+  INTERVAL_NTproBNP -> BMI: k=2 b1=0.0172 se=0.004395 p=9.09e-05 (Q_p=0.909)
+    INDIRECT INTERVAL_NTproBNP via BMI: b=0.0053935 se=0.0014906 z=3.62 p=0.000296
+  INTERVAL_NTproBNP -> eGFR: k=3 b1=-0.09199 se=0.2092 p=0.66 (Q_p=0.907)
+  INTERVAL_NTproBNP -> T2D: k=3 b1=-0.06375 se=0.01512 p=2.49e-05 (Q_p=0.981)
+    INDIRECT INTERVAL_NTproBNP via T2D: b=-3.8958e-05 se=0.0017373 z=-0.02 p=0.982
+  NPPA_eQTL -> SBP: k=1 b1=0.9281 se=0.3301 p=0.00492
+    INDIRECT NPPA_eQTL via SBP: b=0.012201 se=0.0048348 z=2.52 p=0.0116
+  NPPA_eQTL -> DBP: k=1 b1=0.6018 se=0.1922 p=0.00174
+    INDIRECT NPPA_eQTL via DBP: b=0.014315 se=0.0051822 z=2.76 p=0.00574
+  NPPA_eQTL -> BMI: k=0 insufficient
+  NPPA_eQTL -> eGFR: k=1 b1=2.572 se=1.297 p=0.0474
+  NPPA_eQTL -> T2D: k=2 b1=-0.01802 se=0.02942 p=0.54 (Q_p=0.842)
+    INDIRECT NPPA_eQTL via T2D: b=-1.1013e-05 se=0.00049144 z=-0.02 p=0.982

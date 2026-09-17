@@ -1,0 +1,13 @@
+nppa_locus_variants: 4086 entries; first: {"rsid": "rs72858663", "chrom": "1", "pos": 11406323, "ref": "G", "alt": "A", "af": 0.0128}
+keysnp entries: [{"rsid": "rs198411", "chrom": "1", "pos": 11900385, "ref": "C", "alt": "T", "af": 0.1619}, {"rsid": "rs5068", "chrom": "1", "pos": 11905974, "ref": "A", "alt": "G", "af": 0.0589}, {"rsid": "rs5066", "chrom": "1", "pos": 11905995, "ref": "C", "alt": "A", "af": 0.0222}]
+npr3 rs1421811: [{"rsid": "rs1421811", "chrom": "5", "pos": 32714270, "ref": "C", "alt": "G", "af": 0.374}]
+ld_variants_nppa: dict keys ['rs17875940', 'rs72856823', 'rs118165546', 'rs12752700', 'rs76425954']
+{"rs17875940": {"pos": 11806705, "ref": "G", "alt": "A"}, "rs72856823": {"pos": 11806747, "ref": "T", "alt": "C"}, "rs118165546": {"pos": 11806970, "ref": "G", "alt": "A"}, "rs12752700": {"pos": 11807426, "ref": "C", "alt": "T"}, "rs76425954": {"pos": 11807459, "ref": "G", "alt": "A"}, "rs17875946": {"pos": 11807696, "ref": "C", "alt": "T"}, "rs17875947": {"pos": 11807759, "ref": "C", "alt": "T"},
+ld_nppa.csv first 2 lines (truncated 300 chars):
+   ,rs17875940,rs72856823,rs118165546,rs12752700,rs76425954,rs17875946,rs17875947,rs17875948,rs17875949,rs17875950,rs17875951,rs17875952,rs17875954,rs11121820,rs17875957,rs10864533,rs17875959,rs6677313,rs17875961,rs8617,rs1128059,rs1128065,rs6540993,rs12064912,rs11121821,rs4075034,rs4075033,rs11802026,
+   rs17875940,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.
+ld_nppa.csv total lines: 993
+AF assoc entries: 3192 ; rs5068: {"beta": 0.0576, "se": 0.0166, "p": 0.000531398, "ea": "G", "nea": "A", "eaf": "", "n": 537409} ; rs5066: {"beta": 0.062, "se": 0.0157, "p": 7.54692e-05, "ea": "A", "nea": "C", "eaf": "", "n": 537409}
+SCALLOP assoc rs5068: {"beta": 0.1452, "se": 0.0338, "p": 1.754e-05, "ea": "G", "nea": "A", "eaf": 0.0591, "n": 21758}
+coloc_inputs: ['nppa_anp_af_exposure.csv', 'nppa_anp_af_outcome.csv', 'nppa_anp_cad_cardio_exposure.csv', 'nppa_anp_cad_cardio_outcome.csv', 'nppa_anp_cad_vdh_exposure.csv', 'nppa_anp_cad_vdh_outcome.csv', 'nppa_anp_ces_exposure.csv', 'nppa_anp_ces_outcome.csv', 'nppa_anp_hf_exposure.csv', 'nppa_anp_hf_outcome.csv']
+first input file head: rsid,pos,beta,se,eaf,n,ea,nea | rs2993658,11406386,0.0061,0.0249,0.5951,3301,G,A | rs2744841,11406429,0.0037,0.0251,0.60378,3301,C,A | rs2744842,11406496,0.0027,0.0251,0.6032,3301,C,T | rs3124639,11407219,0.0

@@ -1,0 +1,15 @@
+type: <class 'dict'> len: 50056
+keys: ['author', 'build', 'category', 'covariates', 'coverage', 'doi', 'group_name', 'id', 'mr', 'ncase', 'ncontrol', 'nsnp', 'ontology', 'pmid', 'population', 'priority', 'qc_prior_to_upload', 'sample_size', 'sex', 'subcategory', 'trait', 'unit', 'year']
+sample trait: Atopic dermatitis
+trait-matched: 11
+  ebi-a-GCST90010119  n=1301  2020  European  Decorin levels
+  ebi-a-GCST90012082  n=21758  2020  European  N-terminal prohormone brain natriuretic peptide levels
+  ebi-a-GCST90085762  n=400  2022  European  NT proBNP plasma levels
+  prot-a-1293  n=3301  2018  European  Guanylyl cyclase-activating protein 1
+  prot-a-2076  n=3301  2018  European  Atrial natriuretic factor
+  prot-a-2077  n=3301  2018  European  Brain natriuretic peptide 32
+  prot-a-2078  n=3301  2018  European  N-terminal pro-BNP
+  prot-a-769  n=3301  2018  European  Decorin
+  prot-b-72  n=3394  2018  European  natriuretic peptide B
+  prot-b-80  n=3394  2018  European  natriuretic peptide B
+  prot-c-3723_1_2  n=None  2019  European  BNP-32

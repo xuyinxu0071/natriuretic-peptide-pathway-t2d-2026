@@ -1,0 +1,6 @@
+﻿panel total lines: 2505
+panel head 3: ['sample\tpop\tsuper_pop\tgender\t\t', 'HG00096\tGBR\tEUR\tmale', 'HG00097\tGBR\tEUR\tfemale']
+EUR count: 503 first 5: ['HG00096', 'HG00097', 'HG00099', 'HG00100', 'HG00101']
+VCF n_samples: 2504
+VCF first 5: ['HG00096', 'HG00097', 'HG00099', 'HG00100', 'HG00101']
+overlap with EUR set: 503

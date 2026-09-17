@@ -1,0 +1,47 @@
+靶点网络虚拟剔除分析（STRING v12, score>=400）
+模块网络: 33 节点 / 273 边；基线全局效率 0.7494
+全节点剔除 ΔE 均值 0.03% ± 1.06%
+
+{'target': 'NPPA', 'degree': 19, 'betweenness': 0.0297, 'knockout_dE_pct': 0.41, 'z_vs_all_nodes': 0.36, 'p_rank': 0.515, 'giant_component_loss': 1, 'role': 'candidate'}
+{'target': 'NPPB', 'degree': 16, 'betweenness': 0.0173, 'knockout_dE_pct': 0.01, 'z_vs_all_nodes': -0.02, 'p_rank': 0.606, 'giant_component_loss': 1, 'role': 'candidate'}
+{'target': 'MME', 'degree': 16, 'betweenness': 0.019, 'knockout_dE_pct': -0.04, 'z_vs_all_nodes': -0.06, 'p_rank': 0.667, 'giant_component_loss': 1, 'role': 'positive-ctrl'}
+{'target': 'NPR3', 'degree': 11, 'betweenness': 0.0035, 'knockout_dE_pct': -0.85, 'z_vs_all_nodes': -0.82, 'p_rank': 0.727, 'giant_component_loss': 1, 'role': 'candidate'}
+{'target': 'NPR1', 'degree': 10, 'betweenness': 0.0011, 'knockout_dE_pct': -1.07, 'z_vs_all_nodes': -1.03, 'p_rank': 0.758, 'giant_component_loss': 1, 'role': 'candidate'}
+{'target': 'NPR2', 'degree': 9, 'betweenness': 0.0003, 'knockout_dE_pct': -1.21, 'z_vs_all_nodes': -1.16, 'p_rank': 0.848, 'giant_component_loss': 1, 'role': 'candidate'}
+{'target': 'IL6R', 'degree': 8, 'betweenness': 0.0, 'knockout_dE_pct': -1.29, 'z_vs_all_nodes': -1.25, 'p_rank': 0.879, 'giant_component_loss': 1, 'role': 'repurposing'}
+{'target': 'CORIN', 'degree': 8, 'betweenness': 0.0, 'knockout_dE_pct': -1.34, 'z_vs_all_nodes': -1.29, 'p_rank': 0.909, 'giant_component_loss': 1, 'role': 'candidate'}
+
+全部节点剔除效应（降序）:
+  REN      ΔE=1.62%  GC损失=1
+  TNF      ΔE=1.49%  GC损失=1
+  ACE      ΔE=1.40%  GC损失=1
+  AGT      ΔE=1.22%  GC损失=1
+  CRP      ΔE=1.08%  GC损失=1
+  IL1B     ΔE=1.08%  GC损失=1
+  EDN1     ΔE=0.81%  GC损失=1
+  LEP      ΔE=0.77%  GC损失=1
+  PPARG    ΔE=0.77%  GC损失=1
+  CCL2     ΔE=0.68%  GC损失=1
+  ICAM1    ΔE=0.68%  GC损失=1
+  NOS3     ΔE=0.68%  GC损失=1
+  ADIPOQ   ΔE=0.59%  GC损失=1
+  APOB     ΔE=0.54%  GC损失=1
+  MMP9     ΔE=0.54%  GC损失=1
+  VCAM1    ΔE=0.54%  GC损失=1
+  NPPA     ΔE=0.41%  GC损失=1
+  SELE     ΔE=0.27%  GC损失=1
+  VWF      ΔE=0.27%  GC损失=1
+  NPPB     ΔE=0.01%  GC损失=1
+  PLAT     ΔE=0.01%  GC损失=1
+  MME      ΔE=-0.04%  GC损失=1
+  NPPC     ΔE=-0.85%  GC损失=1
+  NPR3     ΔE=-0.85%  GC损失=1
+  NPR1     ΔE=-1.07%  GC损失=1
+  PCSK9    ΔE=-1.07%  GC损失=1
+  ABCG1    ΔE=-1.16%  GC损失=1
+  NPR2     ΔE=-1.21%  GC损失=1
+  IL6R     ΔE=-1.29%  GC损失=1
+  CORIN    ΔE=-1.34%  GC损失=1
+  LPA      ΔE=-1.52%  GC损失=1
+  SORT1    ΔE=-2.01%  GC损失=1
+  INSR     ΔE=-2.10%  GC损失=1

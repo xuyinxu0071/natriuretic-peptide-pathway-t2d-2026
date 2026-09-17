@@ -1,0 +1,28 @@
+total: 50056
+
+=== CORIN_exact (0) ===
+
+=== NEPRILYSIN (0) ===
+
+=== MME_exact (0) ===
+
+=== DPP4 (0) ===
+
+=== NPR1 (0) ===
+
+=== NPR2 (0) ===
+
+=== NPR3 (0) ===
+
+=== NPPA_ANP (1) ===
+   prot-a-2076 | n=3301 | Atrial natriuretic factor | Sun BB 2018 | European
+
+=== NPPB_BNP (4) ===
+   ebi-a-GCST90012082 | n=21758 | N-terminal prohormone brain natriuretic peptide levels | Folkersen L 2020 | European
+   prot-a-2078 | n=3301 | N-terminal pro-BNP | Sun BB 2018 | European
+   prot-a-2077 | n=3301 | Brain natriuretic peptide 32 | Sun BB 2018 | European
+   ebi-a-GCST90085762 | n=400 | NT proBNP plasma levels | Caron B 2022 | European
+
+=== SCALLOP_any (0) ===
+
+=== UKBPPP_probe (0) ===

@@ -1,0 +1,4 @@
+finn-b-T2D: 104/128 hit
+ebi-a-GCST90018926: 108/128 hit
+ieu-a-24: 18/128 hit
+ebi-a-GCST007515: 2/128 hit

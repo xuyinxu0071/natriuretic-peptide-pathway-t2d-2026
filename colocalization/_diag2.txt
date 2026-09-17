@@ -1,0 +1,16 @@
+magic bytes: 093c21444f435459
+not a zip: File is not a zip file
+first 300 chars: 	<!DOCTYPE HTML>
+	<html>
+	<head>
+				<title>The Human Protein Atlas</title>
+		<meta charset="utf-8">
+				<meta name="description" content="The atlas for all human proteins in cells and tissues using various omics: antibody-based imaging, transcriptomics, MS-based proteomics, and systems biology. Sec
+nppa__ebi-a-GCST006061_assoc.json: 3192 variants
+nppa__ieu-a-7_assoc.json: 2277 variants
+nppa__ebi-a-GCST005195_assoc.json: 2183 variants
+nppa__ebi-a-GCST90012082_assoc.json: 2319 variants
+nppa__prot-a-2078_assoc.json: 2358 variants
+nppa__eqtl-a-ENSG00000175206_assoc.json: 3121 variants
+corin__eqtl-a-ENSG00000145244_assoc.json: 1116 variants
+furin__prot-a-1150_assoc.json: 571 variants

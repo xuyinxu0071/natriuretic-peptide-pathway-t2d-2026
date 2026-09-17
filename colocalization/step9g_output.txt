@@ -1,0 +1,26 @@
+[1] EN abstract words: 369 (limit 350)
+[OK] PP4 ≤ 0.06 蛋白层默认: EN=Y ZH=Y
+[OK] PP1 0.78–0.95: EN=Y ZH=Y
+[OK] PP3 ≤ 0.22: EN=Y ZH=Y
+[OK] 宽松 0.34–0.39: EN=Y ZH=Y
+[OK] 协调变异 1,866–1,997: EN=Y ZH=Y
+[OK] SCALLOP z +4.30: EN=Y ZH=Y
+[OK] SomaLogic z +2.97: EN=Y ZH=Y
+[OK] ANP z +2.19: EN=Y ZH=Y
+[OK] CAD z −2.46: EN=Y ZH=Y
+[OK] MAF ≈ 0.01 / ≈1%: EN=Y ZH=Y
+[OK] ANP PP0 0.62–0.85: EN=Y ZH=Y
+[OK] 32 对 (表6): EN=Y ZH=Y
+[OK] p12 = 1×10⁻⁴ 宽松: EN=Y ZH=Y
+[OK] 三层表述: EN=Y ZH=Y
+[OK] rs198389 pQTL lead: EN=Y ZH=Y
+[OK] Ishigaki/Low 引文: EN=Y ZH=Y
+[CLEAN] no public pQTL
+[CLEAN] formally untested
+[CLEAN] not yet possible with public pQTL
+[CLEAN] 有待合适数据
+[CLEAN] 无公开 pQTL 资源提供 NPPA/NPPB
+[CLEAN] 尚不能经共定位裁决
+[CLEAN] p12 = 1×10⁻⁵）敏感性
+[CLEAN] permissive-prior (p12 = 1×10⁻⁵)
+[CLEAN] permissive prior (p12 = 1×10⁻⁵)

@@ -1,0 +1,15 @@
+
+=== ebi-a-GCST006061 [AF (Nielsen 2018, n~1M)] tophits ===
+  保存 104 个 IV; 首条: {"id": "ebi-a-GCST006061", "trait": "Atrial fibrillation", "chr": "4", "position": 111696651, "rsid": "rs6847935", "ea": "T", "nea": "A", "eaf": null, "beta": 0.4029, "se": 0.0082, "p": 0, "n": 537409}
+
+=== ieu-a-7 [CAD (CARDIoGRAMplusC4D, n=184k)] tophits ===
+  保存 41 个 IV; 首条: {"id": "ieu-a-7", "trait": "Coronary heart disease", "chr": "9", "position": 22098619, "rsid": "rs2891168", "ea": "G", "nea": "A", "eaf": 0.488668, "beta": 0.193401, "se": 0.0091877, "p": 2.28981e-98, "n": 184305}
+
+=== ebi-a-GCST005195 [CAD (van der Harst 2018, n=547k)] tophits ===
+  保存 75 个 IV; 首条: {"id": "ebi-a-GCST005195", "trait": "Coronary artery disease", "chr": "9", "position": 22098619, "rsid": "rs2891168", "ea": "G", "nea": "A", "eaf": null, "beta": 0.170449, "se": 0.00698643, "p": 1.79887e-131, "n": 547261}
+
+=== ebi-a-GCST011364 [MI (Hartiala 2021)] tophits ===
+  保存 34 个 IV; 首条: {"id": "ebi-a-GCST011364", "trait": "Myocardial infarction", "chr": "9", "position": 22098619, "rsid": "rs2891168", "ea": "G", "nea": "A", "eaf": 0.483196, "beta": 0.188202, "se": 0.0107654, "p": 1.99986e-68, "n": 17505}
+
+=== ebi-a-GCST009541 [HF (HERMES, n=977k)] tophits ===
+  保存 12 个 IV; 首条: {"id": "ebi-a-GCST009541", "trait": "Heart failure", "chr": "4", "position": 111669220, "rsid": "rs2634071", "ea": "C", "nea": "T", "eaf": null, "beta": -0.0923, "se": 0.0101, "p": 5.73984e-20, "n": 977323}

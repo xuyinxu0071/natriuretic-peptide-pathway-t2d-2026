@@ -1,0 +1,18 @@
+﻿tbi fmt/cols: 2 1 2 0 35 0
+refs: ['1'] n_ref: 1
+want bins: 19
+chunks: 16
+  chunk: file 65131548..65131548 (+32065 into block) span=0KB
+  chunk: file 87365556..87365556 (+33275 into block) span=0KB
+  chunk: file 68647853..68647853 (+35748 into block) span=0KB
+  chunk: file 67280856..67381875 (+19504 into block) span=101KB
+  chunk: file 67381875..67484937 (+16998 into block) span=103KB
+  chunk: file 67484937..67652451 (+38399 into block) span=168KB
+fetched 200001 bytes from offset 65131548
+decompressed first member: 65536
+lines: 8
+LINE[:250]: 0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	
+LINE[:250]: 1	11449720	.	G	A	100	PASS	AC=2;AF=0.000399361;AN=5008;NS=2504;DP=16538;EAS_AF=0.002;AMR_AF=0;AFR_AF=0;EUR_AF=0;SAS_AF=0;AA=G|||;VT=SNP	GT	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	
+LINE[:250]: 1	11449734	.	G	A	100	PASS	AC=1;AF=0.000199681;AN=5008;NS=2504;DP=15318;EAS_AF=0.001;AMR_AF=0;AFR_AF=0;EUR_AF=0;SAS_AF=0;AA=G|||;VT=SNP	GT	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	
+chr1 rows: 7
+pos range: 11449720 - 11449995

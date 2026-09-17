@@ -1,0 +1,62 @@
+====================================================================================================
+Tissue: atrial (n=372)  Gene: NPPA  variants: 880
+  Lead cis-eQTL: rs80177860  chrNA:11874833 G/C  beta=0.4225  se=0.1452  z=2.91  p=0.00385  maf=0.05914
+  rs5068       beta=+0.05246 se=0.1789 z=+0.29 p=0.77 maf=0.03629 an=744
+  rs5066       beta=-0.07275 se=0.1463 z=-0.50 p=0.619 maf=0.05645 an=744
+  rs198411     beta=-0.1358 se=0.09847 z=-1.38 p=0.169 maf=0.1532 an=744
+  rs198367     beta=-0.1064 se=0.09494 z=-1.12 p=0.263 maf=0.1667 an=744
+  rs198389     beta=+0.01823 se=0.07148 z=+0.26 p=0.799 maf=0.4126 an=744
+  rs12567119   beta=+0.05878 se=0.09971 z=+0.59 p=0.556 maf=0.1384 an=744
+  AF          lead-Wald at rs116228357 (z_eQTL=2.89): b=-0.04298 se=0.04567 z=-0.94 p=0.3466 (n_overlap=399, allele-mismatch dropped=0, freq-QC dropped=0)
+  AF          rs5068-Wald: b=1.098 se=3.758 z=0.29 p=0.7702
+  CAD_cardio  lead-Wald at rs116228357 (z_eQTL=2.89): b=-0.02122 se=0.06126 z=-0.35 p=0.7291 (n_overlap=395, allele-mismatch dropped=0, freq-QC dropped=0)
+  CAD_cardio  rs5068-Wald: b=-0.08785 se=0.508 z=-0.17 p=0.8627
+  CAD_vdh     lead-Wald at rs116228357 (z_eQTL=2.89): b=0.01948 se=0.03413 z=0.57 p=0.5682 (n_overlap=375, allele-mismatch dropped=0, freq-QC dropped=0)
+  CAD_vdh     rs5068-Wald: b=-0.7283 se=2.502 z=-0.29 p=0.771
+  CES         lead-Wald at rs116228357 (z_eQTL=2.89): b=-0.04738 se=0.1351 z=-0.35 p=0.7259 (n_overlap=391, allele-mismatch dropped=0, freq-QC dropped=0)
+  CES         rs5068-Wald: b=1.944 se=6.682 z=0.29 p=0.7711
+  HF          lead-Wald at rs116228357 (z_eQTL=2.89): b=-0.02759 se=0.04539 z=-0.61 p=0.5434 (n_overlap=393, allele-mismatch dropped=0, freq-QC dropped=0)
+  HF          rs5068-Wald: b=0.5089 se=1.767 z=0.29 p=0.7734
+  stroke      lead-Wald at rs7545290 (z_eQTL=2.82): b=-0.02533 se=0.03988 z=-0.64 p=0.5254 (n_overlap=390, allele-mismatch dropped=0, freq-QC dropped=0)
+  stroke      rs5068-Wald: b=-0.2916 se=1.061 z=-0.27 p=0.7835
+====================================================================================================
+Tissue: atrial (n=372)  Gene: NPR3  variants: 777
+  Lead cis-eQTL: rs1968246  chrNA:32670087 C/T  beta=0.214  se=0.05903  z=3.63  p=0.000331  maf=0.4866
+  rs1421811    beta=-0.1216 se=0.05939 z=-2.05 p=0.0414 maf=0.3817 an=744
+  rs112133948  (not present)
+  rs7271446    (not present)
+  CAD_cardio  lead-Wald at rs2877286 (z_eQTL=3.17): b=-0.1228 se=0.06504 z=-1.89 p=0.05908 (n_overlap=348, allele-mismatch dropped=0, freq-QC dropped=0)
+  CAD_vdh     lead-Wald at rs2877286 (z_eQTL=3.17): b=0.009447 se=0.03949 z=0.24 p=0.8109 (n_overlap=354, allele-mismatch dropped=0, freq-QC dropped=0)
+  MI_har      lead-Wald at rs2877286 (z_eQTL=3.17): b=-0.009987 se=0.06091 z=-0.16 p=0.8698 (n_overlap=387, allele-mismatch dropped=0, freq-QC dropped=0)
+  MI_finn     lead-Wald at rs2877286 (z_eQTL=3.17): b=0.06484 se=0.08866 z=0.73 p=0.4646 (n_overlap=352, allele-mismatch dropped=0, freq-QC dropped=0)
+====================================================================================================
+Tissue: ventricle (n=382)  Gene: NPPA  variants: 897
+  Lead cis-eQTL: rs72640281  chrNA:11894820 G/C  beta=0.4879  se=0.1274  z=3.83  p=0.00015  maf=0.07068
+  rs5068       beta=+0.2634 se=0.1739 z=+1.52 p=0.131 maf=0.03796 an=764
+  rs5066       beta=-0.3894 se=0.1246 z=-3.13 p=0.00191 maf=0.06937 an=764
+  rs198411     beta=-0.2165 se=0.09008 z=-2.40 p=0.0168 maf=0.1597 an=764
+  rs198367     beta=-0.2389 se=0.08613 z=-2.77 p=0.00582 maf=0.1767 an=764
+  rs198389     beta=-0.02261 se=0.06782 z=-0.33 p=0.739 maf=0.4097 an=764
+  rs12567119   beta=+0.04588 se=0.0926 z=+0.50 p=0.621 maf=0.1453 an=764
+  AF          lead-Wald at rs72640282 (z_eQTL=3.68): b=-0.0502 se=0.0296 z=-1.70 p=0.08987 (n_overlap=409, allele-mismatch dropped=0, freq-QC dropped=0)
+  AF          rs5068-Wald: b=0.2186 se=0.1575 z=1.39 p=0.165
+  CAD_cardio  lead-Wald at rs72640282 (z_eQTL=3.68): b=0.003721 se=0.03236 z=0.12 p=0.9084 (n_overlap=397, allele-mismatch dropped=0, freq-QC dropped=0)
+  CAD_cardio  rs5068-Wald: b=-0.01749 se=0.0825 z=-0.21 p=0.8321
+  CAD_vdh     lead-Wald at rs72640282 (z_eQTL=3.68): b=0.03747 se=0.02808 z=1.33 p=0.1821 (n_overlap=377, allele-mismatch dropped=0, freq-QC dropped=0)
+  CAD_vdh     rs5068-Wald: b=-0.145 se=0.1124 z=-1.29 p=0.197
+  CES         lead-Wald at rs72640282 (z_eQTL=3.68): b=0.0002118 se=0.07307 z=0.00 p=0.9977 (n_overlap=392, allele-mismatch dropped=0, freq-QC dropped=0)
+  CES         rs5068-Wald: b=0.3872 se=0.304 z=1.27 p=0.2029
+  HF          lead-Wald at rs72640282 (z_eQTL=3.68): b=0.007837 se=0.02867 z=0.27 p=0.7846 (n_overlap=394, allele-mismatch dropped=0, freq-QC dropped=0)
+  HF          rs5068-Wald: b=0.1013 se=0.094 z=1.08 p=0.281
+  stroke      lead-Wald at rs72640282 (z_eQTL=3.68): b=-0.007837 se=0.02741 z=-0.29 p=0.7749 (n_overlap=391, allele-mismatch dropped=0, freq-QC dropped=0)
+  stroke      rs5068-Wald: b=-0.05808 se=0.08302 z=-0.70 p=0.4842
+====================================================================================================
+Tissue: ventricle (n=382)  Gene: NPR3  variants: 799
+  Lead cis-eQTL: rs7731703  chrNA:32694836 C/T  beta=-0.1564  se=0.05018  z=-3.12  p=0.00198  maf=0.301
+  rs1421811    beta=+0.006864 se=0.04937 z=+0.14 p=0.89 maf=0.394 an=764
+  rs112133948  beta=+0.05945 se=0.2116 z=+0.28 p=0.779 maf=0.01047 an=764
+  rs7271446    (not present)
+  CAD_cardio  lead-Wald at rs7731703 (z_eQTL=3.12): b=-0.07159 se=0.07055 z=-1.01 p=0.3103 (n_overlap=349, allele-mismatch dropped=0, freq-QC dropped=0)
+  CAD_vdh     lead-Wald at rs7731703 (z_eQTL=3.12): b=-0.002431 se=0.04758 z=-0.05 p=0.9593 (n_overlap=355, allele-mismatch dropped=0, freq-QC dropped=0)
+  MI_har      lead-Wald at rs7731703 (z_eQTL=3.12): b=-0.1113 se=0.08164 z=-1.36 p=0.1728 (n_overlap=388, allele-mismatch dropped=0, freq-QC dropped=0)
+  MI_finn     lead-Wald at rs7731703 (z_eQTL=3.12): b=-0.1682 se=0.1168 z=-1.44 p=0.1499 (n_overlap=353, allele-mismatch dropped=0, freq-QC dropped=0)
