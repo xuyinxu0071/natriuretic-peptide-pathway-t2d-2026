@@ -16,14 +16,14 @@ authors:
   - family-names: Li
     given-names: Ning
     orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: fill real ORCID
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-09-17
 license: MIT
 repository-code: "https://github.com/xuyinxu0071/natriuretic-peptide-pathway-t2d-2026"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.XXXXXX"   # TODO: fill after Zenodo Publish
-    description: "Archived snapshot of this repository (v1.0.0)"
+    value: "10.5281/zenodo.22815831"
+    description: "Archived snapshot of this repository (Zenodo DOI 10.5281/zenodo.22815831, v1.0.1)"
 keywords:
   - type 2 diabetes
   - natriuretic peptide
