@@ -31,4 +31,4 @@ Code: MIT. Summary tables and figures: CC-BY-4.0 unless otherwise noted.
 
 ## Citation
 
-See `CITATION.cff`. A Zenodo DOI is assigned to the archived release (see `identifiers` in CITATION.cff).
+**Archived DOI:**&#8203; [10.5281/zenodo.22815831](https://doi.org/10.5281/zenodo.22815831) (Zenodo; full metadata in `CITATION.cff`).
